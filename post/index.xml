@@ -6,9 +6,1659 @@
     <description>Recent content in Posts on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 10 May 2018 14:07:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The benefits of academic workshops?</title>
+      <link>/post/the-benefits-of-academic-workshops/</link>
+      <pubDate>Thu, 10 May 2018 14:07:00 +0000</pubDate>
+      
+      <guid>/post/the-benefits-of-academic-workshops/</guid>
+      <description>All IB graduate students should have received an email announcing the new batch of programs offered by the university to help graduate students with one of the most difficult academic skills: writing.
+&amp;ldquo;Dear Graduate Faculty, Coordinators, and Graduate students, Our analytics indicate that those students who receive writing instruction and consultation early in their graduate programs complete their degree requirements sooner. Our programs are designed for graduate student writers at all levels and stages.</description>
+    </item>
+    
+    <item>
+      <title>Significance versus explanation</title>
+      <link>/post/significance-versus-explanation/</link>
+      <pubDate>Mon, 15 Jan 2018 13:51:00 +0000</pubDate>
+      
+      <guid>/post/significance-versus-explanation/</guid>
+      <description>Next time I have to teach the difference between explanation and significance, this will be my go-to example: &amp;ldquo;Scientific aptitude better explains poor responses to teaching of evolution than psychological conflicts&amp;rdquo; by Mead et al. in Nature Ecology &amp;amp; Evolution.
+The article has several figures that look like this:
+The P-value looks amazing (9 x 10^-15), but the spread is equally large. I would not even want to guess what the R-square of that relationship is.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about mental health</title>
+      <link>/post/lets-talk-about-mental-health/</link>
+      <pubDate>Mon, 08 Jan 2018 12:03:00 +0000</pubDate>
+      
+      <guid>/post/lets-talk-about-mental-health/</guid>
+      <description>Today. Tomorrow. Every day. Because it requires attention year round.&amp;nbsp;
+And the start of the semester is an appropriate time to bring up this study by Levecque and co-authors, covered in Science, that focuses on graduate students. It quantifies the problem, but also identified consistent predictors of mental health issues:&amp;nbsp;
+work-life conflictshigh job demandslow job control&amp;nbsp;The story I come up with based on these results is that low job controls leads to (a perception of) high job demands, to work-life conflicts, to mental health symptoms.</description>
+    </item>
+    
+    <item>
+      <title>Career preparation for graduate students.</title>
+      <link>/post/career-preparation-for-graduate-students./</link>
+      <pubDate>Fri, 15 Sep 2017 14:33:00 +0000</pubDate>
+      
+      <guid>/post/career-preparation-for-graduate-students./</guid>
+      <description>This is an important issue, and I have already spent 4 news items on this. A recent publication in PLOS ONE investigated some of the strategies and resources PhD students (and postdocs) use for non-academic jobs. This is very important because more than 80% of our graduate students end in these non-academic jobs (although these numbers also includes MSc students). I should not have been surprised, but there are sociological theories and active research programs around this issue, resulting in publications where I am only comfortable reading the abstract and discussion, and hoping that the reviewers did their job.</description>
+    </item>
+    
+    <item>
+      <title>Reviewers should (also) be paid by publishers</title>
+      <link>/post/reviewers-should-also-be-paid-by-publishers/</link>
+      <pubDate>Thu, 24 Aug 2017 17:16:00 +0000</pubDate>
+      
+      <guid>/post/reviewers-should-also-be-paid-by-publishers/</guid>
+      <description>Stephen Heard touched on a controversial issue in his latest blog post: Can we stop saying reviewers are unpaid?&amp;nbsp;This (contrarian?) point of view resulted in some push-back in the comments, and on other blogs (e.g. Let&amp;rsquo;s keep saying it, and say it louder: REVIEWERS ARE UNPAID by Mick Watson). I agree with most of Stephen Heard&amp;rsquo;s points, and also with his updated point &amp;ldquo;publishers (mostly) don&amp;rsquo;t pay for reviews&amp;rdquo;. Where I disagree with him (there has to be at least one disagreement, because why otherwise waste digital bandwidth on writing this?</description>
+    </item>
+    
+    <item>
+      <title>Science and passion</title>
+      <link>/post/science-and-passion/</link>
+      <pubDate>Tue, 15 Aug 2017 16:01:00 +0000</pubDate>
+      
+      <guid>/post/science-and-passion/</guid>
+      <description>Since starting these news items, we have discussed themes related to mental health issues, their causes, and some solutions. Ardon Schnorr, a Biology PhD student at Carnegie Mellon University wrote a very powerful article around this theme that touches on a lot of issues surrounding this problem: http://www.chronicle.com/article/Grad-School-Is-Hard-on-Mental/240626. It is a must read for any graduate student. And if you are inspired by the positive effects of science communication, but do not know where to start, you can always start with the University of Guelph Let&amp;rsquo;s Talk Science outreach program.</description>
+    </item>
+    
+    <item>
+      <title>Blaming the victim, follow-up.</title>
+      <link>/post/blaming-the-victim-follow-up./</link>
+      <pubDate>Wed, 19 Jul 2017 11:07:00 +0000</pubDate>
+      
+      <guid>/post/blaming-the-victim-follow-up./</guid>
+      <description>As expected, I was not the only one providing some push back to the Nature Jobs article&amp;nbsp;I discussed previously. Together, they make reasonable suggestions, both towards the supervisor, and the university. The&amp;nbsp;first one by D. A. McDonald&amp;nbsp;acknowledges that supervisors should be open aware of all aspects of their graduate students&amp;rsquo; lives (&amp;ldquo;what they do when they are not in the lab&amp;rdquo;). The&amp;nbsp;second one by D. Mehta and K. Vavitsas&amp;nbsp;point out institutional resources that can help tackle one of the root problems (&amp;ldquo;providing more courses and resources to train principal investigators in management and leadership&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Problem in R: how to create a .Rprofile that does not hide important information ...</title>
+      <link>/post/problem-in-r-how-to-create-a-.rprofile-that-does-not-hide-important-information-.../</link>
+      <pubDate>Tue, 13 Jun 2017 15:44:00 +0000</pubDate>
+      
+      <guid>/post/problem-in-r-how-to-create-a-.rprofile-that-does-not-hide-important-information-.../</guid>
+      <description>&amp;hellip; but still is specific to each R script file. For instance, a lot of R users in our group load their packages at the top of their R scripts. Often, these packages are the same, but sometimes they add a different one for a specific type of analysis. I use the tidyverse all the time, and in some analyses vegan. A school of thought would be to automatically add these package to the start up using a .</description>
+    </item>
+    
+    <item>
+      <title>Blaming the victim?</title>
+      <link>/post/blaming-the-victim/</link>
+      <pubDate>Fri, 26 May 2017 12:05:00 +0000</pubDate>
+      
+      <guid>/post/blaming-the-victim/</guid>
+      <description>In the previous 2 blog posts, I discussed some sobering figures on the graduate experience, and how this is probably (partially) related to the lack of advisor evaluation (and training?). And then I read this column from naturejobs.com &amp;ldquo;A growing phobia&amp;rdquo;. The author, with &amp;ldquo;30-plus years as faculty member&amp;rdquo; experience, proposes his (I assume a white man wrote this) solution to a student&amp;rsquo;s fear of interacting with their advisor: &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>New lab member!</title>
+      <link>/post/new-lab-member/</link>
+      <pubDate>Tue, 23 May 2017 10:13:00 +0000</pubDate>
+      
+      <guid>/post/new-lab-member/</guid>
+      <description>Welcome Jennifer Gleason! Jennifer recently finished her MSc with where she looked at aquatic macroinvertebrate community composition:
+&amp;ldquo;The Northern Prairie Pothole Region (NPPR) of Alberta, Canada contains numerous shallow marshes that serve as important habitat for wildlife and provide many essential ecosystem services. Many of these pothole wetlands have been destroyed or degraded by agricultural activity, prompting research into their condition and management. Aquatic macroinvertebrates are frequently used as indicators of environmental condition in rivers and lakes, but their effectiveness as indicators in prairie pothole marshes is not clear.</description>
+    </item>
+    
+    <item>
+      <title>Joining the modern scientific conversation</title>
+      <link>/post/joining-the-modern-scientific-conversation/</link>
+      <pubDate>Tue, 16 May 2017 12:05:00 +0000</pubDate>
+      
+      <guid>/post/joining-the-modern-scientific-conversation/</guid>
+      <description>I am slowly finding my way through the mystery that is twitter. The interface seems so inaccessible to me, everything so tightly bunched up, with lots of symbols, and &amp;nbsp;secret conventions that are almost Dan Brown masonic in nature. If you need to google how to interact with twitter and find articles like this, either I am getting old or the organic development of twitter needs a redesign/reboot (or both).</description>
+    </item>
+    
+    <item>
+      <title>Students learn the most from each other</title>
+      <link>/post/students-learn-the-most-from-each-other/</link>
+      <pubDate>Wed, 03 May 2017 09:27:00 +0000</pubDate>
+      
+      <guid>/post/students-learn-the-most-from-each-other/</guid>
+      <description>This is something we have known for the last 10 years (or 20) through for instance the research done by Eric Mazur and collaborators.They showed that using peer instruction improved student learning of physics concepts by 20% in a real-world, class setting, compared to a &amp;ldquo;regular&amp;rdquo; lecture-based approach with the sage on the stage imparting their wisdom to the young susceptible minds!
+That is a fine example of a very deliberate teaching practice.</description>
+    </item>
+    
+    <item>
+      <title>Follow up to students learn most from each other</title>
+      <link>/post/follow-up-to-students-learn-most-from-each-other/</link>
+      <pubDate>Wed, 03 May 2017 08:47:00 +0000</pubDate>
+      
+      <guid>/post/follow-up-to-students-learn-most-from-each-other/</guid>
+      <description>https://medium.com/@hhschiaravalli/teachers-going-gradeless-50d621c14cad</description>
+    </item>
+    
+    <item>
+      <title>Learning from conferences</title>
+      <link>/post/learning-from-conferences/</link>
+      <pubDate>Wed, 03 May 2017 07:05:00 +0000</pubDate>
+      
+      <guid>/post/learning-from-conferences/</guid>
+      <description>Optical mark recognition software to provide efficient feedback from TLi Joanne Hewson from OVC
+Joe Kim Multimedia Learning for grading rubric for presentations</description>
+    </item>
+    
+    <item>
+      <title>The thorny subject of assessing graduate advisors</title>
+      <link>/post/the-thorny-subject-of-assessing-graduate-advisors/</link>
+      <pubDate>Wed, 26 Apr 2017 10:42:00 +0000</pubDate>
+      
+      <guid>/post/the-thorny-subject-of-assessing-graduate-advisors/</guid>
+      <description>One of the most satisfying aspects of graduate school is working together with graduate students to solve fun, important, novel problems. This &amp;ldquo;working together&amp;rdquo; can cover the gradient from supervisor, to advisor, mentor, and collaborator. However, from the perspective of a graduate student, the leadership style implied by these different terms can have important effects on graduate student well-being (last week&amp;rsquo;s news item). In one of the mentioned articles, the authors explicitly quantified three different leadership styles:</description>
+    </item>
+    
+    <item>
+      <title>Graduate student well-being</title>
+      <link>/post/graduate-student-well-being/</link>
+      <pubDate>Thu, 13 Apr 2017 08:47:00 +0000</pubDate>
+      
+      <guid>/post/graduate-student-well-being/</guid>
+      <description>Graduate student well-being has received a lot of attention lately. As far as I know, it has not reached the level of the urgency as for undergraduate students, but graduate students are exposed to a unique set of challenges too. Two recent studies quantified these challenges: Student Experience Survey 2017: investigating well-being at university and Work organization and mental health problems in PhD students. The second study also argues convincingly that these challenges are unique to the graduate school experience, and are not shared with similar persons in other contexts, such as for instance employees.</description>
+    </item>
+    
+    <item>
+      <title>Best thank you ever</title>
+      <link>/post/best-thank-you-ever/</link>
+      <pubDate>Mon, 10 Apr 2017 10:24:00 +0000</pubDate>
+      
+      <guid>/post/best-thank-you-ever/</guid>
+      <description>And this is another (random) example of why R is so awesome:
+http://www.masalmon.eu/2017/04/08/spocc/</description>
+    </item>
+    
+    <item>
+      <title>Practical workplace advice by Anne Krook</title>
+      <link>/post/practical-workplace-advice-by-anne-krook/</link>
+      <pubDate>Fri, 31 Mar 2017 11:58:00 +0000</pubDate>
+      
+      <guid>/post/practical-workplace-advice-by-anne-krook/</guid>
+      <description>Anne Krook has a page full of practical advice on how to get a non-academic employment, which is something that I have been looking for for a long time. So here is the link, and all beginning grad students should consult this page in the first semester of their program. She even has a post titled &amp;ldquo;can non-academic careers be Plan A yet?&amp;rdquo;!</description>
+    </item>
+    
+    <item>
+      <title>Hacking peer review</title>
+      <link>/post/hacking-peer-review/</link>
+      <pubDate>Fri, 31 Mar 2017 10:41:00 +0000</pubDate>
+      
+      <guid>/post/hacking-peer-review/</guid>
+      <description>The Rogue Neuroscientist on a Mission to Hack Peer Review
+https://dynamicecology.wordpress.com/2017/03/15/why-i-dont-sign-most-of-my-reviews/
+https://scientistseessquirrel.wordpress.com/2017/03/15/why-i-sign-most-of-my-reviews/
+https://scientistseessquirrel.wordpress.com/2017/03/21/to-sign-or-not-to-sign-what-the-replies-taught-me/
+https://scholarlykitchen.sspnet.org/2017/03/20/wither-portable-peer-review/
+https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/</description>
+    </item>
+    
+    <item>
+      <title>Fun teaching with graduate students</title>
+      <link>/post/fun-teaching-with-graduate-students/</link>
+      <pubDate>Fri, 24 Mar 2017 09:30:00 +0000</pubDate>
+      
+      <guid>/post/fun-teaching-with-graduate-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How NOT to get a postdoc (or post PhD) position</title>
+      <link>/post/how-not-to-get-a-postdoc-or-post-phd-position/</link>
+      <pubDate>Wed, 22 Mar 2017 10:19:00 +0000</pubDate>
+      
+      <guid>/post/how-not-to-get-a-postdoc-or-post-phd-position/</guid>
+      <description>Great story,&amp;nbsp;with a clear message that is equally applicable to non-academic jobs after your PhD or MSc degree: you should be thinking about this during your graduate work, and not wait until you are almost done. Below, I have taken the her final paragraph, and I have made it a little bit more general (the bold sections are my changes):&amp;ldquo;In general, I’ve seen that the people who get ahead in [academic ecology]&amp;nbsp;the job market&amp;nbsp;are those who have a clear vision of what [research]&amp;nbsp;job&amp;nbsp;they want to pursue and why it matters.</description>
+    </item>
+    
+    <item>
+      <title>The bar is raised!</title>
+      <link>/post/the-bar-is-raised/</link>
+      <pubDate>Thu, 16 Mar 2017 11:01:00 +0000</pubDate>
+      
+      <guid>/post/the-bar-is-raised/</guid>
+      <description>IB graduate students, if you want to make some more exiting defence announcements: twitter threw down the gauntlet, and the bar is now raised substantially.
+PhDs scheduling their defenses makes me happy
+PhDs advertising their defenses with cool posters makes me cartwheel with delight
+More please! pic.twitter.com/xl9QkXQpq4
+— Ian Petrie (@icpetrie) March 4, 2017 &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Gender bias in graduate studies scholarship and award rankings</title>
+      <link>/post/gender-bias-in-graduate-studies-scholarship-and-award-rankings/</link>
+      <pubDate>Fri, 10 Mar 2017 10:13:00 +0000</pubDate>
+      
+      <guid>/post/gender-bias-in-graduate-studies-scholarship-and-award-rankings/</guid>
+      <description>http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography/</description>
+    </item>
+    
+    <item>
+      <title>Graduate click-bait: 4 Reasons Graduate Students Shouldn’t Have to Work Weekends</title>
+      <link>/post/graduate-click-bait-4-reasons-graduate-students-shouldnt-have-to-work-weekends/</link>
+      <pubDate>Wed, 08 Mar 2017 10:33:00 +0000</pubDate>
+      
+      <guid>/post/graduate-click-bait-4-reasons-graduate-students-shouldnt-have-to-work-weekends/</guid>
+      <description>Despite the click-bait nature of the blog,this blog post has some perspectives that a lot of graduate students in our department will probably be able to relate to. Now I just wonder how many faculty members have a different perspective.</description>
+    </item>
+    
+    <item>
+      <title>Release the kraken</title>
+      <link>/post/release-the-kraken/</link>
+      <pubDate>Mon, 27 Feb 2017 15:40:00 +0000</pubDate>
+      
+      <guid>/post/release-the-kraken/</guid>
+      <description>What happens when you collaborate with non-ecology scientists?
+- You create a Transposable Element (TE) simulation model called TEWorld, with this logo:
+- One of your collaborators initials in this project are TE (and you only realize this after collaborating for 4 years)
+- You need to run said simulations on sharcnet, and one of the clusters is you will use is called kraken (or orca, or requin, or saw; obviously computer scientists are not biologists, or they are and the inclusion of orca is reverse reverse psychology).</description>
+    </item>
+    
+    <item>
+      <title>Is doing a PhD a waste of time?</title>
+      <link>/post/is-doing-a-phd-a-waste-of-time/</link>
+      <pubDate>Tue, 21 Feb 2017 16:10:00 +0000</pubDate>
+      
+      <guid>/post/is-doing-a-phd-a-waste-of-time/</guid>
+      <description>Some people definitely think so. These types of articles crop up regularly. Here is a recent version of this type of analysis that re-appeared in Medium, but is originally from 2010. These are like the villain in a horror movie, every time you think he is finally dead, ominous music fills the theatre. The linked-to article has some aspects that set it apart, though. It provides a voice of faculty members, in addition to some short-writing gems.</description>
+    </item>
+    
+    <item>
+      <title>I will never look at a boxplot in the same way...</title>
+      <link>/post/i-will-never-look-at-a-boxplot-in-the-same-way.../</link>
+      <pubDate>Mon, 13 Feb 2017 13:36:00 +0000</pubDate>
+      
+      <guid>/post/i-will-never-look-at-a-boxplot-in-the-same-way.../</guid>
+      <description>https://xkcd.com/1798/ </description>
+    </item>
+    
+    <item>
+      <title>Standing on the shoulders of giants</title>
+      <link>/post/standing-on-the-shoulders-of-giants/</link>
+      <pubDate>Fri, 03 Feb 2017 14:03:00 +0000</pubDate>
+      
+      <guid>/post/standing-on-the-shoulders-of-giants/</guid>
+      <description>I am currently teaching a graduate &amp;ldquo;Stats&amp;rdquo; course, which is more a historical exploration of statistical issues in ecology, led by grad students. As part of the course, we are also exploring best practices in R and ecological data management. So naturally we covered Brian McGill&amp;rsquo;s 10 commandments for good data management, and his follow-up post with an example application of these recommendations with a toy data set.
+I decided afterwards to do the challenge, and with our weekly University of Guelph R Users group (UGRU) we walked through the code line by line, and discussed why certain lines were included, alternative ways to code them, advantages and disadvantages of these alternative approaches.</description>
+    </item>
+    
+    <item>
+      <title>R user group - UGRU</title>
+      <link>/post/r-user-group-ugru/</link>
+      <pubDate>Wed, 11 Jan 2017 14:22:00 +0000</pubDate>
+      
+      <guid>/post/r-user-group-ugru/</guid>
+      <description>The last 2 years, I have &amp;ldquo;been running&amp;rdquo; a R User group, the University of Guelph R Users group (or UGRU). Normally I am the worst when it comes to acronyms, and now I was only bad, because UGRU has Gru in it, the main character of Despicable Me. During a field course, students compared my accent to Gru, and there is a scene in the movie that has its own meme: light bulb.</description>
+    </item>
+    
+    <item>
+      <title>Applying for non-faculty jobs - advice?</title>
+      <link>/post/applying-for-non-faculty-jobs-advice/</link>
+      <pubDate>Wed, 04 Jan 2017 14:31:00 +0000</pubDate>
+      
+      <guid>/post/applying-for-non-faculty-jobs-advice/</guid>
+      <description>Every field is guilty of some form of navel gazing. Hence the abundance on how to apply for faculty jobs. Margaret Kosmala wrote a&amp;nbsp;recentish blog post on this, with some advice I agree with, but also some I do not agree with. For instance, often departments fight over every single word in a job ad, so showing that you understand the needs that will be filled by the position (i.e., your contributions to the department and university) are important.</description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/post/writing/</link>
+      <pubDate>Fri, 23 Dec 2016 14:21:00 +0000</pubDate>
+      
+      <guid>/post/writing/</guid>
+      <description>http://www.lel.ed.ac.uk/~gpullum/LandOfTheFree.pdf
+http://www.chronicle.com/article/50-Years-of-Stupid-Grammar/25497</description>
+    </item>
+    
+    <item>
+      <title>How to assess teaching performance?</title>
+      <link>/post/how-to-assess-teaching-performance/</link>
+      <pubDate>Wed, 02 Nov 2016 21:56:00 +0000</pubDate>
+      
+      <guid>/post/how-to-assess-teaching-performance/</guid>
+      <description>http://garyrubinstein.teachforus.org/2012/02/26/analyzing-released-nyc-value-added-data-part-1/</description>
+    </item>
+    
+    <item>
+      <title>The magic board</title>
+      <link>/post/the-magic-board/</link>
+      <pubDate>Fri, 28 Oct 2016 13:39:00 +0000</pubDate>
+      
+      <guid>/post/the-magic-board/</guid>
+      <description>I have extolled the virtue of my whiteboard in previous posts (see e.g., here and here), but it turns out that knowing how to work with a whiteboard could actually get you a job. I often say that I am a believer in technology, that it will fix a lot of problems at several scales. Sometimes the best technology, though, is an old-school magic board and markers.</description>
+    </item>
+    
+    <item>
+      <title>Life after (or instead of) academia</title>
+      <link>/post/life-after-or-instead-of-academia/</link>
+      <pubDate>Fri, 28 Oct 2016 13:15:00 +0000</pubDate>
+      
+      <guid>/post/life-after-or-instead-of-academia/</guid>
+      <description>Nature&amp;nbsp;summarized a recent report&amp;nbsp;that followed-up researchers after they left university. The tone of the article reflects a bit of the surprise that &amp;ldquo;Guess what: And they are happy!&amp;ldquo;. Our department recently identified what jobs our MSc and PhD students have 5-10 years post graduation, and 42% end up in a research scientist position outside of academia, compared to only 13% in a faculty position, and 16% pursuing an academic training position (PhD or postdoc).</description>
+    </item>
+    
+    <item>
+      <title>New goal:</title>
+      <link>/post/new-goal/</link>
+      <pubDate>Sun, 16 Oct 2016 15:59:00 +0000</pubDate>
+      
+      <guid>/post/new-goal/</guid>
+      <description>One post per week.</description>
+    </item>
+    
+    <item>
+      <title>I am back</title>
+      <link>/post/i-am-back/</link>
+      <pubDate>Sun, 16 Oct 2016 15:58:00 +0000</pubDate>
+      
+      <guid>/post/i-am-back/</guid>
+      <description>after almost a 3 year hiatus.</description>
+    </item>
+    
+    <item>
+      <title>Scientific communication: blogging and publishing?</title>
+      <link>/post/scientific-communication-blogging-and-publishing/</link>
+      <pubDate>Thu, 07 Feb 2013 09:02:00 +0000</pubDate>
+      
+      <guid>/post/scientific-communication-blogging-and-publishing/</guid>
+      <description>Fletcher Halliday,blogging at BioDiverse Perspectives, wrote:
+&amp;ldquo;My original intent in writing this post was to compare the 5 most-cited papers on biodiversity to the 5 most blogged-about papers on biodiversity to address the differences between what we value as researchers versus what we value as general science communicators.&amp;rdquo;
+What struck me throughout this post was this, maybe implicit, need to distinguish between blogging and publications. I always approach a publication as a communication of ideas.</description>
+    </item>
+    
+    <item>
+      <title>What is ecology, and evolution - the value of interdisciplinary collaboration?</title>
+      <link>/post/what-is-ecology-and-evolution-the-value-of-interdisciplinary-collaboration/</link>
+      <pubDate>Tue, 05 Feb 2013 08:34:00 +0000</pubDate>
+      
+      <guid>/post/what-is-ecology-and-evolution-the-value-of-interdisciplinary-collaboration/</guid>
+      <description>What is ecology? What is evolution? Seems like a really simple question from an ecology or evolution perspective, until you bring a different field into the mix, e.g., transposon/genome biology. When we started the TE (formerly known as genome) ecology group, sometimes in March 2010, I had no idea we would end here, with a publication in a journal with a higher impact factor than Ecology.
+Our starting point for this publication was the appeal of using ecological theory to explore the dynamics of transposable elements in the genome.</description>
+    </item>
+    
+    <item>
+      <title>Synchrony in metacommunities</title>
+      <link>/post/synchrony-in-metacommunities/</link>
+      <pubDate>Mon, 21 Jan 2013 06:41:00 +0000</pubDate>
+      
+      <guid>/post/synchrony-in-metacommunities/</guid>
+      <description>A new year, a new publication, this time with Shubha and Jurek: &amp;ldquo;Population synchrony decreases with richness and increases with environmental ﬂuctuations in an experimental metacommunity&amp;rdquo; in Oecologia. We continued our work with specialization in metacommunities, but this time looked at the implications on population synchrony.
+Key figure:
+We found, as predicted, that:
+the synchrony between populations of a specialist species&amp;nbsp;within a metacommunity is more influenced by environmental fluctuations compared to a generalist speciesthat increasing species richness decreased individual population synchronyWhile these results make perfect sense from an ecological point of view, getting this paper published was not so straightforward because of the unbalanced experimental design we had to use.</description>
+    </item>
+    
+    <item>
+      <title>Variation decomposition is a zombie idea?</title>
+      <link>/post/variation-decomposition-is-a-zombie-idea/</link>
+      <pubDate>Thu, 10 Jan 2013 09:56:00 +0000</pubDate>
+      
+      <guid>/post/variation-decomposition-is-a-zombie-idea/</guid>
+      <description>Another post as a response to something written by Jeremy Fox! I think it becomes time that I meet him in person so that I can address him by “Jeremy” instead of “Dr. Fox”, “Fox”, or “the author”. I tried to remove all the salesmanship from my response, though, because I wanted to make sure that 1) I summarized his blog post correctly, and 2) expressed my thoughts as clearly as possible.</description>
+    </item>
+    
+    <item>
+      <title>Only a hammer in your toolbox</title>
+      <link>/post/only-a-hammer-in-your-toolbox/</link>
+      <pubDate>Fri, 07 Dec 2012 08:05:00 +0000</pubDate>
+      
+      <guid>/post/only-a-hammer-in-your-toolbox/</guid>
+      <description>Talk about climate change, and be sure that your analyses are rock solid, because you will get some serious backlash. What interests me most is the danger of &amp;ldquo;if the only tool in your toolbox is a hammer, everything will look like a nail&amp;rdquo; thinking.
+http://www.statisticsblog.com/2012/12/the-surprisingly-weak-case-for-global-warming/&amp;nbsp;is a blog post written by a graduate statistics student, with this summary:
+&amp;ldquo;TL;DR (scientific version): Based solely on year-over-year changes in surface temperatures, the net increase since 1881 is fully explainable as a non-independent random walk with no trend.</description>
+    </item>
+    
+    <item>
+      <title>Why consistent terminology is important</title>
+      <link>/post/why-consistent-terminology-is-important/</link>
+      <pubDate>Wed, 28 Nov 2012 05:46:00 +0000</pubDate>
+      
+      <guid>/post/why-consistent-terminology-is-important/</guid>
+      <description>Some time ago, I received this email from a grad student:&amp;ldquo;Do you know the blog zombies ideas in ecology?? I think this is the kind of ideas that could interest you. After reading all these chase papers I just find myself completely lost in the meaning and use of words such as stochastic, random and neutral….&amp;nbsp;This text kind of help me (it’s a critic of the use of these terms in community ecology) http://oikosjournal.</description>
+    </item>
+    
+    <item>
+      <title>A new Dr. !</title>
+      <link>/post/a-new-dr.-/</link>
+      <pubDate>Mon, 26 Nov 2012 07:29:00 +0000</pubDate>
+      
+      <guid>/post/a-new-dr.-/</guid>
+      <description>Thiago successfully defended his PhD in Brazil! Congratulations! You will be able to read all the innovative research he has done the last couple of years as they will become part of the vetted ecological literature, no doubt about that. But I think he learned more than &amp;ldquo;ecology&amp;rdquo; during these last years. Here is an&amp;nbsp;excerpt&amp;nbsp;from his acknowledgments:
+&amp;ldquo;Tive muita sorte de conhecer o meu co-orientador Karl Cottenie. Para minha surpresa,&amp;nbsp;um quadro branco e uma caneta preta - e não um programa de estatística - me mostraram como&amp;nbsp;rabiscos podem gerar ideias e muito conhecimento.</description>
+    </item>
+    
+    <item>
+      <title>The role of intuition in data analysis</title>
+      <link>/post/the-role-of-intuition-in-data-analysis/</link>
+      <pubDate>Thu, 08 Nov 2012 07:29:00 +0000</pubDate>
+      
+      <guid>/post/the-role-of-intuition-in-data-analysis/</guid>
+      <description>Most of you readers probably followed the US elections with varying degrees of interest and passion, but as scientists are also aware of the &amp;ldquo;role&amp;rdquo; of Nate Silver and his blog FiveThirtyEight.com. Lots has been written about his success, which is &amp;ldquo;just&amp;rdquo; a nice example of the strengths of the scientific process, and thus not that surprising. What does&amp;nbsp;surprise&amp;nbsp;me, is the reluctance of journalists to come to terms with what he does.</description>
+    </item>
+    
+    <item>
+      <title>For the love of whiteboard</title>
+      <link>/post/for-the-love-of-whiteboard/</link>
+      <pubDate>Thu, 11 Oct 2012 06:00:00 +0000</pubDate>
+      
+      <guid>/post/for-the-love-of-whiteboard/</guid>
+      <description>Here is another convert of the magic of the whiteboard: http://lifehacker.com/5950957/how-a-whiteboard-helped-a-terrible-delegator-keep-a-team-on+task.
+He provides a list of why whiteboards work:
+&amp;ldquo;Whiteboards are big enough for everybody to see.Whiteboards make you want to fill the space, and therefore expand and branch your thoughts.Whiteboards inspire you to keep writing, to keep pushing on what&amp;rsquo;s in your head, because it feels awesome to swing your arms that widely.&amp;nbsp;Whiteboards feel less like you&amp;rsquo;re committing to an idea than throwing it out for consideration.</description>
+    </item>
+    
+    <item>
+      <title>Colonization rates and species richness</title>
+      <link>/post/colonization-rates-and-species-richness/</link>
+      <pubDate>Thu, 19 Jul 2012 06:48:00 +0000</pubDate>
+      
+      <guid>/post/colonization-rates-and-species-richness/</guid>
+      <description>Our first publication from the amazing spanish pond system set-up by Andy Green and his group, but especially with the hard work of Dagmar Frisch, who has the patience of a saint to keep collaborating with me: &amp;ldquo;Strong Spatial Influence on Colonization Rates in a Pioneer Zooplankton Metacommunity&amp;rdquo; in Plos One.
+Each published article is unique in its calvary to publication. Most often, this is not visible to the reader, although sometimes you can tell that certain parts in the manuscript are clearly added on to satisfy a reviewer&amp;rsquo;s pet peeve.</description>
+    </item>
+    
+    <item>
+      <title>Inspirational stories for teachers</title>
+      <link>/post/inspirational-stories-for-teachers/</link>
+      <pubDate>Tue, 05 Jun 2012 08:03:00 +0000</pubDate>
+      
+      <guid>/post/inspirational-stories-for-teachers/</guid>
+      <description>An oldie, but worthy of a link:&amp;nbsp;http://blogs.plos.org/neurotribes/2011/10/05/whats-the-most-important-lesson-you-learned-from-a-teacher/
+I have since tried to identify a specific teacher and lesson for my own story, but I am not good at recalling memories, and my university teachers were pretty old school, sage-on-the-stage types of teachers, not exactly my style.
+The one person that keeps coming up is my first kayak instructor (name forgotten) when I was 16 (?), in France. It was just me and him, and he really focused on breaking kayaking down the basics: reading the water (currents and countercurrents) and weight position in the boat (left-right and front-back), followed by exercises that internalized those basics before moving to the next step.</description>
+    </item>
+    
+    <item>
+      <title>Indiana Jones denied tenure</title>
+      <link>/post/indiana-jones-denied-tenure/</link>
+      <pubDate>Tue, 15 May 2012 08:51:00 +0000</pubDate>
+      
+      <guid>/post/indiana-jones-denied-tenure/</guid>
+      <description>http://www.mcsweeneys.net/articles/back-from-yet-another-globetrotting-adventure-indiana-jones-checks-his-mail-and-discovers-that-his-bid-for-tenure-has-been-denied
+&amp;ldquo;The lone student representative on the committee wished to convey that, besides being an exceptional instructor, a compassionate mentor, and an unparalleled gentleman, Dr. Jones was extraordinarily receptive to the female student body during and after the transition to a coeducational system at the college. However, his timeliness in grading and returning assignments was a concern.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Intuition and science</title>
+      <link>/post/intuition-and-science/</link>
+      <pubDate>Thu, 10 May 2012 08:39:00 +0000</pubDate>
+      
+      <guid>/post/intuition-and-science/</guid>
+      <description>&amp;ldquo;Seems to me that there’s not really a contradiction between System1 (intuition) and System 2 (rational) modes of knowing.&amp;nbsp; Instead, one’s just faster than the other.&amp;nbsp; Both are useful, both are necessary.&amp;nbsp; But the great achievement of science has been to tell us that intuition always has to be checked.&amp;nbsp; In essence, science is the overturning of intuition by slow, painful, careful System 2 reasoning.&amp;rdquo;from http://searchresearch1.blogspot.com/2011/11/intuition-and-counterintuition.html</description>
+    </item>
+    
+    <item>
+      <title>Brittany defended yesterday...</title>
+      <link>/post/brittany-defended-yesterday.../</link>
+      <pubDate>Thu, 03 May 2012 10:02:00 +0000</pubDate>
+      
+      <guid>/post/brittany-defended-yesterday.../</guid>
+      <description>&amp;hellip; successfully, of course. Now we just have to turn it into a publication. I always give a short speech during the celebrations afterwards, and the theme was what Brittany, her personality, brought to the research project (Ryan Gregory&amp;rsquo;s great standard question). She was much too modest when she answered this during her defence, so I answered it for her:
+her organizational talents (keeping track of the extensive experiments and field observations, all at the same time)her efficient and hard work (she counted more than 600 samples one summer, compared to my 90+ samples for my entire PhD)her intellectual contributions to her thesis, which looks very straightforward afterward, but it took us many iterations to understand and explain it this clearlyknowing how to handle me (important one!</description>
+    </item>
+    
+    <item>
+      <title>Making fun of professors</title>
+      <link>/post/making-fun-of-professors/</link>
+      <pubDate>Fri, 27 Apr 2012 13:33:00 +0000</pubDate>
+      
+      <guid>/post/making-fun-of-professors/</guid>
+      <description>It is so easy to make fun of professors, we even have our own comic strip. If you believe the stereotype, we have so many laughable traits that there is a never ending list of possible punch lines. The sad part, some (most?) of them can hit really close to home.
+Recently McSweeney&amp;rsquo;s published a more elaborate punch line on philosophy to answer:
+&amp;ldquo;UNIVERSE&amp;rsquo;S FUNDAMENTAL QUESTION&amp;rdquo;&amp;nbsp;This is a golden oldie, and apparently it made the internet rounds already, but I became aware of it through Geekdad (what&amp;rsquo;s in a name, right?</description>
+    </item>
+    
+    <item>
+      <title>Flipping education</title>
+      <link>/post/flipping-education/</link>
+      <pubDate>Thu, 26 Apr 2012 10:03:00 +0000</pubDate>
+      
+      <guid>/post/flipping-education/</guid>
+      <description>It seems that the new verb this day in education is
+&amp;ldquo;Flipping&amp;rdquo;Kevin MacIce wrote a full piece around it in Wired, and thenTED-Ed was announced today, with as one of the main selling points the open (?) teaching platform they are creating around YouTube, by providing an on-line lecture around any video&amp;nbsp;on YouTube, or &amp;ldquo;flipping&amp;rdquo; the video.
+
+As an educator I am not really good at capturing and keeping the attention of my students during a &amp;ldquo;lecture&amp;rdquo;, I really dislike that word and the activity.</description>
+    </item>
+    
+    <item>
+      <title>Metacommunity terminology</title>
+      <link>/post/metacommunity-terminology/</link>
+      <pubDate>Mon, 23 Apr 2012 09:53:00 +0000</pubDate>
+      
+      <guid>/post/metacommunity-terminology/</guid>
+      <description>The title of my &amp;ldquo;Teaching Philosophy&amp;rdquo; statement (that I completely rewrite every year), is &amp;ldquo;Research-Teaching-Learning Link&amp;rdquo;. In it, I try to point out the obvious and maybe not so obvious connections between these different aspects of my professional life. One of the items that is hardest to prove, though, is how teaching can inform my day-to-day research focus.
+And now I can finally provide evidence for this: our comment in Trends in Ecology and Evolution &amp;ldquo;The terminology of metacommunity ecology&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>End of semester</title>
+      <link>/post/end-of-semester/</link>
+      <pubDate>Sun, 22 Apr 2012 15:11:00 +0000</pubDate>
+      
+      <guid>/post/end-of-semester/</guid>
+      <description>I am about to submit the grades for the two courses this semester, and this often leads to self reflection. I am not going to do that now, but I will do something better: link to the self reflection of a teacher that is well-written, funny, insightful, sometimes reflects my own experiences, sometimes not at all. So I highly recommend William Bowers&amp;rsquo; &amp;ldquo;All we read is freaks&amp;rdquo;&amp;nbsp;for all educators.
+I could extract so many passages out of this long piece, but this is the one I emailed to myself:</description>
+    </item>
+    
+    <item>
+      <title>R-hipster confession</title>
+      <link>/post/r-hipster-confession/</link>
+      <pubDate>Fri, 13 Apr 2012 10:24:00 +0000</pubDate>
+      
+      <guid>/post/r-hipster-confession/</guid>
+      <description>I sometimes think of myself as a science nerd, but then I read Benjamin Mako Hill&amp;rsquo;s computing set-up, and suddenly it&amp;rsquo;s like reading the uber science nerd manifesto. Amazingly consistent and hard-core, every single step of his work flow. And where our work flows overlap is probably in R:
+&amp;nbsp;&amp;ldquo;R is slow and using it with big datasets gives one plenty of time to reflect on this fact. But R is also expressive, elegant, and concise for numerical and statistical work so I happily suffer through it.</description>
+    </item>
+    
+    <item>
+      <title>A call to all aquatic nerds...</title>
+      <link>/post/a-call-to-all-aquatic-nerds.../</link>
+      <pubDate>Thu, 12 Apr 2012 09:32:00 +0000</pubDate>
+      
+      <guid>/post/a-call-to-all-aquatic-nerds.../</guid>
+      <description>&amp;hellip; how many species can you identify in this video?</description>
+    </item>
+    
+    <item>
+      <title>Talking to...</title>
+      <link>/post/talking-to.../</link>
+      <pubDate>Tue, 10 Apr 2012 16:16:00 +0000</pubDate>
+      
+      <guid>/post/talking-to.../</guid>
+      <description>As you probably noticed, we do lots of interdisciplinary research in this lab. A group of undergraduate students approached this question for a 4th year class, and made a website that approaches interdisciplinary research from, you guessed it, several different perspectives. One of the activities they did was interviewing a wide range of people with this question in mind. Two of those persons where Ingrid and myself. And I will leave it up to you to find those,&amp;nbsp;embarrassing ?</description>
+    </item>
+    
+    <item>
+      <title>The battle of zooplankton</title>
+      <link>/post/the-battle-of-zooplankton/</link>
+      <pubDate>Tue, 27 Mar 2012 16:31:00 +0000</pubDate>
+      
+      <guid>/post/the-battle-of-zooplankton/</guid>
+      <description>Kaleigh Eichel, a student in Knowledge Integration, did research in Churchill for two summers. In addition to her research, she also created a web site translating some of the research in Churchill to the general public. One of the episodes features the projects done by Amanda and Brittany:
+http://www.avioyak.ca/episode3.html&amp;nbsp;
+
+Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Discussing place-based education ...</title>
+      <link>/post/discussing-place-based-education-.../</link>
+      <pubDate>Tue, 13 Mar 2012 16:39:00 +0000</pubDate>
+      
+      <guid>/post/discussing-place-based-education-.../</guid>
+      <description>&amp;hellip; outside in the Arboretum, with our First Year Seminar class. The (only?) advantage of an early spring this year.
+
+Although Ingrid would probably point out that our discussions, even in the Arboretum,
+&amp;rdquo;&amp;hellip; had been sitting on the land, instead of having roots within&amp;nbsp;it.&amp;rdquo; (Laura Piersol, Canadian Journal of Environmental Education, 2010, 15:198-209)But how to design a university course to have its roots within the land? It is easier to do this in the context of a field course, but with a Monday-Wednesday 8:30-10 am lecture slot?</description>
+    </item>
+    
+    <item>
+      <title>Scientific Method continued</title>
+      <link>/post/scientific-method-continued/</link>
+      <pubDate>Wed, 07 Mar 2012 15:19:00 +0000</pubDate>
+      
+      <guid>/post/scientific-method-continued/</guid>
+      <description>There once was a great chef who claimed to have a sure-fire recipe for baking great cakes.&amp;nbsp; The chef constructed his recipe by carefully watching the cake-baking procedures of other great chefs in his native country of Austria. &amp;nbsp;Chef Popper --that was is name-- argued that anyone who followed his recipe would be guaranteed to bake a great cake. &amp;nbsp;Amazingly, Chef Popper’s recipe was also extremely simple. &amp;nbsp;Just three instructions: (1) get ingredients, (2) mix ingredients, (3) place in oven.</description>
+    </item>
+    
+    <item>
+      <title>The fallacy of our misunderstand of the scientific method</title>
+      <link>/post/the-fallacy-of-our-misunderstand-of-the-scientific-method/</link>
+      <pubDate>Fri, 02 Mar 2012 11:05:00 +0000</pubDate>
+      
+      <guid>/post/the-fallacy-of-our-misunderstand-of-the-scientific-method/</guid>
+      <description>Ryan Norris via Tom Nudds sent me a link to this web site, and I think all three of us had the same &amp;ldquo;What the &amp;hellip;&amp;rdquo; reaction after reading the entry by Irene Pepperberg, titled &amp;ldquo;The Fallacy of Hypothesis Testing&amp;rdquo;:
+&amp;ldquo;I was trained, as a chemist, to use the classic scientific method: Devise a testable hypothesis, and then design an experiment to see if the hypothesis is correct or not. And I was told that this method is equally valid for the social sciences.</description>
+    </item>
+    
+    <item>
+      <title>Galapagos</title>
+      <link>/post/galapagos/</link>
+      <pubDate>Thu, 01 Mar 2012 15:42:00 +0000</pubDate>
+      
+      <guid>/post/galapagos/</guid>
+      <description>A visual story about field work on the Galapagos Islands, and the human influence on the fauna and flora.</description>
+    </item>
+    
+    <item>
+      <title>Scientific debate...</title>
+      <link>/post/scientific-debate.../</link>
+      <pubDate>Fri, 10 Feb 2012 12:45:00 +0000</pubDate>
+      
+      <guid>/post/scientific-debate.../</guid>
+      <description>&amp;hellip; rests on actually reading and understanding each other&amp;rsquo;s words.
+This is a difficult exercise, and not only for students. Tom Nudds and I just covered in community ecology the rationale for protected areas planning based not only on representativeness (making sure that all species are protected), but more importantly also on persistence (see his article in Biodiversity and Conservation for a summary of their ideas). If the target areas have all the species you want to conserve, but lack essential components that would ensure their actual persistence through time, representativeness means nothing.</description>
+    </item>
+    
+    <item>
+      <title>Context is everything</title>
+      <link>/post/context-is-everything/</link>
+      <pubDate>Wed, 08 Feb 2012 10:20:00 +0000</pubDate>
+      
+      <guid>/post/context-is-everything/</guid>
+      <description>An interesting paper in Science by Stumpf and Porter&amp;nbsp;takes a hard look at &amp;ldquo;general&amp;rdquo; power laws in science:
+&amp;ldquo;A striking feature that has attracted considerable attention is the apparent ubiquity of power-law relationships in empirical data. However, although power laws have been reported in areas ranging from finance and molecular biology to geophysics and the Internet, the data are typically insufficient and the mechanistic insights are almost always too limited for the identification of power-law behavior to be scientifically useful (see the figure).</description>
+    </item>
+    
+    <item>
+      <title>Tangled bank</title>
+      <link>/post/tangled-bank/</link>
+      <pubDate>Tue, 07 Feb 2012 08:24:00 +0000</pubDate>
+      
+      <guid>/post/tangled-bank/</guid>
+      <description>What do these four, apparently very unconnected items, have in common?
+&amp;nbsp;http://www.wired.com/wiredscience/2012/02/lake-vostok-drilled/
+http://www.thecleanestline.com/2012/02/cerro-torre-deviations-from-reason.htmlStar wars: the clone wars
+http://www.vpacademic.uoguelph.ca/fys/seminars/My life used to be easy.
+I was a scientist,&amp;nbsp;&amp;nbsp;climber (a long time ago),&amp;nbsp;father, and a&amp;nbsp;teacher. And now suddenly these separate aspects of &amp;nbsp;my life got sucked into a vortex, all thanks to reading some passages of Aldo Leopold&amp;rsquo;s &amp;ldquo;The Land Ethic&amp;rdquo; for the First Year Seminar course Ingrid and I have designed.&amp;nbsp;These items literally came across my desk (RSS reader, watching TV with the kids, teaching a course) in a 2 day period.</description>
+    </item>
+    
+    <item>
+      <title>collaborative learning: two sides of a coin</title>
+      <link>/post/collaborative-learning-two-sides-of-a-coin/</link>
+      <pubDate>Tue, 31 Jan 2012 12:19:00 +0000</pubDate>
+      
+      <guid>/post/collaborative-learning-two-sides-of-a-coin/</guid>
+      <description>Collaboration is on my mind these days. Ingrid pointed out this article to me, about, among other things, the potential pitfalls of group work. The author, Susan Cain frames this in the presence or importance of introverts, and how negating introverts has a negative effect on the performance of group work. Choice quote from the interview:
+&amp;ldquo;Forty years of research shows that brainstorming in groups is a terrible way to produce creative ideas.</description>
+    </item>
+    
+    <item>
+      <title>Making the story whole again</title>
+      <link>/post/making-the-story-whole-again/</link>
+      <pubDate>Thu, 26 Jan 2012 11:29:00 +0000</pubDate>
+      
+      <guid>/post/making-the-story-whole-again/</guid>
+      <description>Ingrid is featured in theAt Guelph! &amp;nbsp;I repeat, Ingrid is featured in the At Guelph! It is not her whole story, of course, but it does provide key aspects of her story.</description>
+    </item>
+    
+    <item>
+      <title>Farewells</title>
+      <link>/post/farewells/</link>
+      <pubDate>Sun, 22 Jan 2012 13:14:00 +0000</pubDate>
+      
+      <guid>/post/farewells/</guid>
+      <description>There is a time of arriving, and a time of leaving, and the time of leaving has arrived. Thiago and his family is going back to Brazil, after a very successful, productive, and fun 6 month visit. Now I have to find a way to visit Brazil, somehow, sometime. The lab will be a little bit quieter, again.</description>
+    </item>
+    
+    <item>
+      <title>Going down the statistics rabbit hole</title>
+      <link>/post/going-down-the-statistics-rabbit-hole/</link>
+      <pubDate>Tue, 17 Jan 2012 15:10:00 +0000</pubDate>
+      
+      <guid>/post/going-down-the-statistics-rabbit-hole/</guid>
+      <description>It all started with this post:
+http://www.johndcook.com/blog/2012/01/13/interpreting-statistics/
+which led to this post:
+http://wmbriggs.com/blog/?p=5062
+which led to this post:
+http://wmbriggs.com/blog/?p=4381
+which let to this post:
+http://wmbriggs.com/blog/?p=4368
+And finally to this hilarious, submitted, manuscript:
+http://arxiv.org/abs/1201.2590
+Reading them in this sequence will explain why the author, William M. Briggs, writes things like:
+&amp;ldquo;When supplicants approach us for wisdom about uncertainty, because&amp;nbsp;of our ardent love of computation we have developed the unfortunate habit&amp;nbsp;of insisting ﬁrst on the memorization of mathematical incantations, such as&amp;nbsp;ﬁguring chi-squares (by hand), or we require students look to up values in&amp;nbsp;obscure tables in the backs of textbooks.</description>
+    </item>
+    
+    <item>
+      <title>Science and uncertainty</title>
+      <link>/post/science-and-uncertainty/</link>
+      <pubDate>Tue, 10 Jan 2012 14:43:00 +0000</pubDate>
+      
+      <guid>/post/science-and-uncertainty/</guid>
+      <description>I just started teaching Community Ecology with Tom Nudds again, and one of the main themes of this course is exposing students to the importance of uncertainty in science (or Science, if you want). Today anotherinsightful article by John Timmer in Ars Technica appeared, and provides a real-life example of this&amp;nbsp;uncertainty.
+It tells the story of Peter Duesburg, a scientist with an impressive academic history:
+&amp;ldquo;He did pioneering work in the characterization of retroviruses (viruses that are transmitted using RNA as a genetic material, but then copied into DNA and inserted into their hosts&amp;rsquo; genome), helping to show that they could pick up genes from their host that enabled them to induce cancer.</description>
+    </item>
+    
+    <item>
+      <title>The Cottenie commandments - illustrated</title>
+      <link>/post/the-cottenie-commandments-illustrated/</link>
+      <pubDate>Mon, 02 Jan 2012 14:04:00 +0000</pubDate>
+      
+      <guid>/post/the-cottenie-commandments-illustrated/</guid>
+      <description>It&amp;rsquo;s been a long time since I focused on this, but I found some nice illustrations for some of them. The illustrations in this post by Maria Popova&amp;nbsp;reminded my of the 10 Commandments. I looked through the other posters on the original website Advice to Sink in Slowly, and actually found an illustration for every commandment:
+1. reveal curiosity/passion
+Andy J Miller2. tell a story
+Mathew Isherwood
+3. great dreamLee Basford</description>
+    </item>
+    
+    <item>
+      <title>Sugarcoating the poisonous dagger</title>
+      <link>/post/sugarcoating-the-poisonous-dagger/</link>
+      <pubDate>Mon, 02 Jan 2012 11:08:00 +0000</pubDate>
+      
+      <guid>/post/sugarcoating-the-poisonous-dagger/</guid>
+      <description>Philosophers have a way with words. Since they work with the exploration of ideas, describing those ideas in words is essential. I have now collaborated with several philosophers, and I am continuously in awe of their mastery of language. It makes me question everything I write myself, what words I use, why I use them, definitions, meanings, &amp;hellip;
+Here is another example in the ecological literature of an exchange between an scientist, Root Gorlick, and a philosopher, Mark Colyvan (and immediately I start thinking whether I should use &amp;ldquo;scientist&amp;rdquo;, because does this imply that a philosopher is not a scientist, should it be better to use biologist, but then Root Gorlick is also affiliated with Math&amp;amp;Stats, you see the rabbit hole you quickly fall into?</description>
+    </item>
+    
+    <item>
+      <title>Musical stats</title>
+      <link>/post/musical-stats/</link>
+      <pubDate>Wed, 21 Dec 2011 10:55:00 +0000</pubDate>
+      
+      <guid>/post/musical-stats/</guid>
+      <description>Who thought stats would enter into every aspect of life? What about a Belgian dj duo called Mumbai Science, with the track &amp;ldquo;Ancova&amp;rdquo;?
+
+And this thanks to 2 Many Dj&amp;rsquo;s and Music for Life 2011.</description>
+    </item>
+    
+    <item>
+      <title>Fun with stats</title>
+      <link>/post/fun-with-stats/</link>
+      <pubDate>Mon, 19 Dec 2011 09:09:00 +0000</pubDate>
+      
+      <guid>/post/fun-with-stats/</guid>
+      <description>Sometimes stats are sad funny (see this post), and sometimes both fun funny and timely. Seethe latest from PhD Comics:</description>
+    </item>
+    
+    <item>
+      <title>How to lie with politics (and statistics)</title>
+      <link>/post/how-to-lie-with-politics-and-statistics/</link>
+      <pubDate>Thu, 15 Dec 2011 10:01:00 +0000</pubDate>
+      
+      <guid>/post/how-to-lie-with-politics-and-statistics/</guid>
+      <description>Great analysis about the usage of figures in politics:&amp;nbsp;http://flowingdata.com/2011/12/12/fox-news-still-makes-awesome-charts/
+What&amp;rsquo;s wrong with this figure?
+
+See the original post for the answer.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Brent Saylor - or genome (TE) ecology</title>
+      <link>/post/introducing-brent-saylor-or-genome-te-ecology/</link>
+      <pubDate>Thu, 01 Dec 2011 15:36:00 +0000</pubDate>
+      
+      <guid>/post/introducing-brent-saylor-or-genome-te-ecology/</guid>
+      <description>Brent Saylor recently joined the lab, and this piece from At Guelph provides a nice introduction of some of the general themes he will explore for his PhD work.</description>
+    </item>
+    
+    <item>
+      <title>Google search strategies</title>
+      <link>/post/google-search-strategies/</link>
+      <pubDate>Wed, 23 Nov 2011 12:55:00 +0000</pubDate>
+      
+      <guid>/post/google-search-strategies/</guid>
+      <description>Never too old to learn: I was only aware of the &amp;ldquo;site:&amp;rdquo; and &amp;ldquo;&amp;rdquo;&amp;ldquo;&amp;rdquo; trick.
+&amp;nbsp; 
+Created by: HackCollege</description>
+    </item>
+    
+    <item>
+      <title>Abstraction - or making explicit connections</title>
+      <link>/post/abstraction-or-making-explicit-connections/</link>
+      <pubDate>Fri, 18 Nov 2011 14:37:00 +0000</pubDate>
+      
+      <guid>/post/abstraction-or-making-explicit-connections/</guid>
+      <description>One of the items in the grading rubric Marianne Staempfli and I developed for concept maps is the importance of cross links in the arrangement of the concept map:
+&amp;ldquo;Cross links show complex relationships between two or more distinct segments of the concept map&amp;rdquo;It is one of the reasons why I am currently involved in a collaboration (among some others) on genome (or transposon) ecology by co-advising Brent Saylor with Ryan Gregory, and on anthropology in ecology by co-advising Ingrid Ng with Bob Jickling.</description>
+    </item>
+    
+    <item>
+      <title>Doodling, or justifying my whiteboard</title>
+      <link>/post/doodling-or-justifying-my-whiteboard/</link>
+      <pubDate>Thu, 17 Nov 2011 16:46:00 +0000</pubDate>
+      
+      <guid>/post/doodling-or-justifying-my-whiteboard/</guid>
+      <description>One of the best spent $200.00 are not for a fraction of my laptop or desktop, or for my favourite books on R code, or for part of the cost to an exiting conference, but for my giant whiteboard in my office. I use it daily for doodling:
+&amp;ldquo;To make spontaneous marks to help yourself think&amp;rdquo;
+
+Another great TED talk, this time by Sunni Brown.</description>
+    </item>
+    
+    <item>
+      <title>The importance of constraints</title>
+      <link>/post/the-importance-of-constraints/</link>
+      <pubDate>Mon, 14 Nov 2011 16:52:00 +0000</pubDate>
+      
+      <guid>/post/the-importance-of-constraints/</guid>
+      <description>For me, one of the biggest mysteries of the scientific method (see e.g. this post), is that it provides such a rigid structure, yet at the same time so creative. It turns out that constraints actually lead to more global, conceptual, and maybe thus more creative thinking.Jonah Lehrer in Wired provides some excellent context for a recent study that investigated this link explicitly. Highly recommended.
+At the same time, this could also explain one of my other pet peeves: why concept mapping is such a powerful method.</description>
+    </item>
+    
+    <item>
+      <title>Embryo - or the screen writing of the scientific method</title>
+      <link>/post/embryo-or-the-screen-writing-of-the-scientific-method/</link>
+      <pubDate>Sat, 12 Nov 2011 14:13:00 +0000</pubDate>
+      
+      <guid>/post/embryo-or-the-screen-writing-of-the-scientific-method/</guid>
+      <description>According to Christopher Booker, there are seven basic plots. I had always the intuition that the scientific method was an example of &amp;ldquo;the quest&amp;rdquo;: the scientist (i.e., hero) goes looking for something, often with collaborators. But I never thought that the link between story telling and the scientific method would be so obvious. I recently read an article in Wired about Dan Harmon, the creator of and screen writer for Community.</description>
+    </item>
+    
+    <item>
+      <title>So true</title>
+      <link>/post/so-true/</link>
+      <pubDate>Tue, 08 Nov 2011 15:44:00 +0000</pubDate>
+      
+      <guid>/post/so-true/</guid>
+      <description>I could link to all the new versions ofPHD Comics, but this one made me laugh so hard, I had to repost it:
+I am guilty of this at least twice a day.</description>
+    </item>
+    
+    <item>
+      <title>Amanda&#39;s adventures in the North continue.</title>
+      <link>/post/amandas-adventures-in-the-north-continue./</link>
+      <pubDate>Wed, 02 Nov 2011 09:50:00 +0000</pubDate>
+      
+      <guid>/post/amandas-adventures-in-the-north-continue./</guid>
+      <description>The story telling is just happening in a different spot:&amp;nbsp;http://churchillscience.blogspot.com/2011/11/and-results-are-in-at-least-this-round.html. But it is still the heady combination of field research, guns, and statistics&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Marina featured in the At Guelph</title>
+      <link>/post/marina-featured-in-the-at-guelph/</link>
+      <pubDate>Thu, 13 Oct 2011 07:48:00 +0000</pubDate>
+      
+      <guid>/post/marina-featured-in-the-at-guelph/</guid>
+      <description>http://atguelph.uoguelph.ca/2011/10/research-aims-to-understand-plant-extinction/</description>
+    </item>
+    
+    <item>
+      <title>The iPad as a learning tool: predator-prey cycles</title>
+      <link>/post/the-ipad-as-a-learning-tool-predator-prey-cycles/</link>
+      <pubDate>Wed, 05 Oct 2011 10:06:00 +0000</pubDate>
+      
+      <guid>/post/the-ipad-as-a-learning-tool-predator-prey-cycles/</guid>
+      <description>If you need a justification for buying an iPad for your teaching or research needs, maybe this video might help? I foundthe link on Flowing Data.
+Interactive Exploration of a Dynamical System from Bret Victor on Vimeo.</description>
+    </item>
+    
+    <item>
+      <title>IDH as a zombie?</title>
+      <link>/post/idh-as-a-zombie/</link>
+      <pubDate>Mon, 12 Sep 2011 14:33:00 +0000</pubDate>
+      
+      <guid>/post/idh-as-a-zombie/</guid>
+      <description>I recently mentioned&amp;nbsp;a publication resulting from a Field Ecology group project, that looked at the Intermediate Disturbance Hypothesis in Algonquin caused by time since logging. It was thus with a lot of interest that I read this very provocative and well-written Oikos blog post, written by Jeremy Fox:
+http://oikosjournal.wordpress.com/2011/06/17/zombie-ideas-in-ecology/
+&amp;nbsp;However, I was a bit confused by some of his arguments. Below, I provide some details about my confusion, and I hope that somebody will be able to resolve my confusion?</description>
+    </item>
+    
+    <item>
+      <title>Datateller</title>
+      <link>/post/datateller/</link>
+      <pubDate>Thu, 11 Aug 2011 10:11:00 +0000</pubDate>
+      
+      <guid>/post/datateller/</guid>
+      <description>As I recently noticed, the majority of my posts here are unconsciously driven by the courses that I am preparing. The couple of posts on natural history and science are basically an illustration to my field course that I will be teaching next week (hopefully I will get some time to blog from the field). And in the fall, I will be teaching a grad stats course for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Marina&#39;s Vanier Award</title>
+      <link>/post/marinas-vanier-award/</link>
+      <pubDate>Sat, 06 Aug 2011 11:04:00 +0000</pubDate>
+      
+      <guid>/post/marinas-vanier-award/</guid>
+      <description>It is finally official, Marina&amp;rsquo;s Vanier Award has been made public, and I can finally boast about it. 1 out of the top 167 PhD students across natural, social, and medical sciences at the Canadian level is very impressive. Congratulations, Marina.</description>
+    </item>
+    
+    <item>
+      <title>Trying to read an article...</title>
+      <link>/post/trying-to-read-an-article.../</link>
+      <pubDate>Fri, 05 Aug 2011 16:22:00 +0000</pubDate>
+      
+      <guid>/post/trying-to-read-an-article.../</guid>
+      <description>Karl recently cited this PNAS article in his blog post about the link between environment and society. I started reading it but could not get past the third sentence in the abstract; just those three sentences gave me plenty to think about.
+
+Sentence 1: &amp;rdquo;&amp;hellip;the human condition is tightly linked to environmental condition.&amp;rdquo;
+I absolutely agree! E.g. The Forsaken Garden by Nancy Ryley - I just started reading this book, about a CBC documentary filmmaker who got struck with &amp;ldquo;environmental illness&amp;rdquo; in the 70&amp;rsquo;s at the height of her career.</description>
+    </item>
+    
+    <item>
+      <title>Three words, a world of difference</title>
+      <link>/post/three-words-a-world-of-difference/</link>
+      <pubDate>Thu, 04 Aug 2011 11:05:00 +0000</pubDate>
+      
+      <guid>/post/three-words-a-world-of-difference/</guid>
+      <description>I am teaching a field course in Algonquin this summer, and I &amp;ldquo;stress&amp;rdquo;, i.e. grade, two components of field work during this course: a group science project, and an individual natural history project. So the distinction (and similarities) between qualitative and quantitative are on the forefront of mind. This if, of course, compounded by Ingrid who will bring the qualitative approach into the hypothetico-deductive, quantitative, bastion that Integrative Biology is, after years of being exposed to Tom Nudds&amp;rsquo;s beating the bush ;-)</description>
+    </item>
+    
+    <item>
+      <title>Google Scholar profile</title>
+      <link>/post/google-scholar-profile/</link>
+      <pubDate>Wed, 03 Aug 2011 13:55:00 +0000</pubDate>
+      
+      <guid>/post/google-scholar-profile/</guid>
+      <description>Nature has a news article on 2 free alternatives to Web of Science, including your personal citation library. Another example of serendipity, because I created one a couple of days before the nature publication, and planned to wanted to dedicate a short blog to it, i.e., this one.&amp;nbsp;
+You can access mine here:&amp;nbsp;http://scholar.google.com/citations?user=lL7RlhMAAAAJ. Below is a 2011 snapshot picture:For reference, here is screen capture of the &amp;ldquo;official&amp;rdquo; Web of Science summary:Very similar, if you ask me, although the Google Scholar obviously includes more items.</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>/post/presentation/</link>
+      <pubDate>Wed, 03 Aug 2011 11:02:00 +0000</pubDate>
+      
+      <guid>/post/presentation/</guid>
+      <description>Since I started reading a lot of long-form articles on the internet, I have been exposed to a lot of great ideas, and great writing. The latest is an article by Steven Shapin in the London Review of Books, The Darwin Show. He synthesized 14 (fourteen!) books that appeared around the celebration of his 200th birthday in 2009. In it, he explores a lot of interesting themes, and one of the main ones revolves around why this is such a big deal.</description>
+    </item>
+    
+    <item>
+      <title>Athena, the nerd god.</title>
+      <link>/post/athena-the-nerd-god./</link>
+      <pubDate>Tue, 02 Aug 2011 10:46:00 +0000</pubDate>
+      
+      <guid>/post/athena-the-nerd-god./</guid>
+      <description>Robin Sloan wrote abeautiful short story (The truth about the east wind), with a very interesting format. It looks at the tension between religion and science, from a Greek tragedy perspective (you should really read it).
+&amp;ldquo;Zeus formed it into a girl and set her free to walk the earth. This was Athena. Pure curiosity. The spark made flesh.&amp;nbsp;From the day she was formed, Athena was an omnivorous observer, a kind of super Galileo/Darwin long before either was born.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative vs. qualitative?</title>
+      <link>/post/quantitative-vs.-qualitative/</link>
+      <pubDate>Thu, 28 Jul 2011 11:12:00 +0000</pubDate>
+      
+      <guid>/post/quantitative-vs.-qualitative/</guid>
+      <description>Ingrid and I had a discussion the other day about whether quantitative or qualitative data make a more lasting impression. As you might have guessed, I am more on the quantitative side, and Ingrid more on the qualitative side ;-) And me being me, I created a visual scenario about a result from Ingrid&amp;rsquo;s thesis (the importance of deep community in successful conservation) that was applied in 100 new conservation efforts (or replicate experiments, without controls, though).</description>
+    </item>
+    
+    <item>
+      <title>Picture blog 2</title>
+      <link>/post/picture-blog-2/</link>
+      <pubDate>Tue, 26 Jul 2011 11:53:00 +0000</pubDate>
+      
+      <guid>/post/picture-blog-2/</guid>
+      <description>My old lab space.
+
+New lab space. Much more organized.
+
+H.arcticus for my first LC50.
+
+The box I constructed to control the light for my LC50.
+
+Inside the box.</description>
+    </item>
+    
+    <item>
+      <title>Common versus rare species in a metacommunity context</title>
+      <link>/post/common-versus-rare-species-in-a-metacommunity-context/</link>
+      <pubDate>Mon, 25 Jul 2011 11:01:00 +0000</pubDate>
+      
+      <guid>/post/common-versus-rare-species-in-a-metacommunity-context/</guid>
+      <description>It is finally online, the first publication from the Brazilian side of the lab ;-). In this article, we made competing predictions about how common and rare species should behave in a metacommunity context. The, very surprising, result was that both common and rare species reacted very similarly to environmental gradients, which was very counterintuitive from both a metacommunity and macro-ecology point of view.
+
+Another side effect of this study was our new definition for rareness, based on a slightly subjective but less arbitrary definition compared to other studies.</description>
+    </item>
+    
+    <item>
+      <title>Showcase of Let&#39;s Talk Microbes</title>
+      <link>/post/showcase-of-lets-talk-microbes/</link>
+      <pubDate>Sat, 09 Jul 2011 09:34:00 +0000</pubDate>
+      
+      <guid>/post/showcase-of-lets-talk-microbes/</guid>
+      <description>Last November, Marina and Amanda went to Kobe&amp;rsquo;s school to givea hands-on demonstration of microbes. The science teacher who invited them then nominated their activity to the Let&amp;rsquo;s Talk Science CIHR-Synapse award, a national competition. And they were selected as one of the 4 best showcase activities! And in the accompanying picture, you can see Amanda, Marina in the background, and my son Kobe with the spiderman sweater. How cool is all that?</description>
+    </item>
+    
+    <item>
+      <title>Polar bears gone wild.</title>
+      <link>/post/polar-bears-gone-wild./</link>
+      <pubDate>Fri, 08 Jul 2011 11:30:00 +0000</pubDate>
+      
+      <guid>/post/polar-bears-gone-wild./</guid>
+      <description>Doing research in Churchill is not without its perils: sleep deprivation, bugs, road rage, and polar bears. Brittany said it was a slow season so far, but not every bear read the memo: see this CBC article on a polar bear gone wild.&amp;nbsp;
+All joking aside, sadly enough when wildlife goes wild, the consequences for the animal in question are much more severe than an&amp;nbsp;embarrassing Youtube video.
+From the original CBC article: notice the person behind the rock, a little to the left of the hind legs!</description>
+    </item>
+    
+    <item>
+      <title>Creative with flagging tape</title>
+      <link>/post/creative-with-flagging-tape/</link>
+      <pubDate>Mon, 04 Jul 2011 16:18:00 +0000</pubDate>
+      
+      <guid>/post/creative-with-flagging-tape/</guid>
+      <description>For all the field ecologists currently creative with flagging tape, know that you can use a different output for your creativity. See the embedded video between minutes 1:30-6:20.
+
+NOVA the film from ROJO on Vimeo.
+ps: if this is your thing, I highly recommend watching the full documentary (during several lunchtimes, for instance, you can watch it in chunks).</description>
+    </item>
+    
+    <item>
+      <title>Making science matter</title>
+      <link>/post/making-science-matter/</link>
+      <pubDate>Thu, 30 Jun 2011 19:56:00 +0000</pubDate>
+      
+      <guid>/post/making-science-matter/</guid>
+      <description>Recently, I found myself eavesdropping on two elderly fellows debating an age-old question: does size matter? Yes! declared one. Small ones have never satisfied anyone. It needs to be big!You’ve got it all wrong,countered the other. Proper use of a small one can be just as good as having a big one. And what good is a big one if you don’t use it properly?/o:pIn a nearby lecture theatre the Costa-Rican Mermaid was preaching the power of long distance swimming to promote big ones.</description>
+    </item>
+    
+    <item>
+      <title>Connecting dots when running in the morning</title>
+      <link>/post/connecting-dots-when-running-in-the-morning/</link>
+      <pubDate>Wed, 29 Jun 2011 13:26:00 +0000</pubDate>
+      
+      <guid>/post/connecting-dots-when-running-in-the-morning/</guid>
+      <description>The joy of running for me, in addition to spending quality time with the kids, is theidle time it offers me. My mind wonders off, and connects several dots that are floating around in my brain.
+One of these dots is this image I mentioned before.&amp;nbsp;I mentioned that creating a process to move student from the first behaviour to the second was difficult.
+
+Another dot is why I like Moksha yoga, but could not be bothered at all by Bikram yoga.</description>
+    </item>
+    
+    <item>
+      <title>Brittany&#39;s first picture blog from the field</title>
+      <link>/post/brittanys-first-picture-blog-from-the-field/</link>
+      <pubDate>Tue, 28 Jun 2011 17:48:00 +0000</pubDate>
+      
+      <guid>/post/brittanys-first-picture-blog-from-the-field/</guid>
+      <description>Sunset on the train
+
+First day exploring Bluff A with Celia and Shelley.
+
+Putting the finishing touches on Celia&amp;rsquo;s mesocosms before we put them in the water.
+
+The final product? Not quite&amp;hellip;for some reason they keep sinking. Still troubleshooting.
+
+First day on Bluff D.
+
+Shelley learning how we sample rock pools.
+
+&amp;hellip;and of course my first polar bear sighting. Right outside the CNSC.</description>
+    </item>
+    
+    <item>
+      <title>Link between improvement of the environment and society?</title>
+      <link>/post/link-between-improvement-of-the-environment-and-society/</link>
+      <pubDate>Mon, 27 Jun 2011 11:53:00 +0000</pubDate>
+      
+      <guid>/post/link-between-improvement-of-the-environment-and-society/</guid>
+      <description>While I am aware of my tendency to discount anything older as 10 years as ancient in science terms, I do try to sketch a brief historical of each issue I discuss in (most of) my research articles. However, I am always surprised by the lack of &amp;ldquo;history&amp;rdquo; in quality reporting on scientific progress.&amp;nbsp;A recent story in Nature, &amp;ldquo;Can conservation cut poverty&amp;rdquo;, investigated the link between preserving biodiversity and positive influences this might have on the local inhabitants.</description>
+    </item>
+    
+    <item>
+      <title>Thou shalt dream a great dream and tell a story</title>
+      <link>/post/thou-shalt-dream-a-great-dream-and-tell-a-story/</link>
+      <pubDate>Sat, 25 Jun 2011 13:47:00 +0000</pubDate>
+      
+      <guid>/post/thou-shalt-dream-a-great-dream-and-tell-a-story/</guid>
+      <description>It&amp;rsquo;s been a long time since I posted something about the &amp;ldquo;Cottenie Commandments&amp;rdquo;. Steve McCurry&amp;nbsp;regular posts a series of his portraits,&amp;nbsp;centered&amp;nbsp;around a theme. One of these themes is &amp;ldquo;Lost in Thought&amp;rdquo;&amp;nbsp;and pictures people hard at work by doing nothing.
+CanadaOften, by juxtapositioning the caption with the picture, he also tells a very intriguing story, with only one word. Very powerful.</description>
+    </item>
+    
+    <item>
+      <title>Natural history = basis of interest</title>
+      <link>/post/natural-history-basis-of-interest/</link>
+      <pubDate>Wed, 22 Jun 2011 13:27:00 +0000</pubDate>
+      
+      <guid>/post/natural-history-basis-of-interest/</guid>
+      <description>Last year, I wrote a couple of posts about the importance of natural history in science:
+http://www.cottenielab.org/2010/04/hypotheses-or-data-first.htmlhttp://www.cottenielab.org/2010/04/hypotheses-or-data-first-update.htmlhttp://www.cottenielab.org/2010/04/hypotheses-or-data-first-update-2.htmlI argued that natural history forms the basis of the scientific method, but I also acknowledged that the power of the scientific method came from the interaction between data and hypotheses, yadayada.&amp;nbsp;
+However, one important thing that I forgot to add in that discussion is that natural history does not only form the basis of the scientific method, but also the basis of our interest in science.</description>
+    </item>
+    
+    <item>
+      <title>Soap box</title>
+      <link>/post/soap-box/</link>
+      <pubDate>Thu, 16 Jun 2011 10:41:00 +0000</pubDate>
+      
+      <guid>/post/soap-box/</guid>
+      <description>Sometimes I like it when Margaret Wente gets on her soap box. She has a couple of recurring themes, and our university education system is one she uses every couple of months.Here is her latest, and I will have to do some counting on the issues she brings up, and comparing them to my own, personal, experiences:
+
+&amp;ldquo;&amp;nbsp;A large number of students learn little or nothing in university. More than a third show no improvement in their skills at all.</description>
+    </item>
+    
+    <item>
+      <title>The scientific method and our health</title>
+      <link>/post/the-scientific-method-and-our-health/</link>
+      <pubDate>Mon, 06 Jun 2011 15:12:00 +0000</pubDate>
+      
+      <guid>/post/the-scientific-method-and-our-health/</guid>
+      <description>There are several ways to define &amp;ldquo;science&amp;rdquo;, but here is very basic one byEdzard Ernst, the first professor in &amp;nbsp;Alternative Medicine, in an interview in Science:
+&amp;ldquo;I was also convinced that scientists need to be critical and sceptical, and that if you apply science to any field you don&amp;rsquo;t want to prove that your ideas are correct, you want to test whether they are correct.&amp;rdquo;While I probably have to check his own summary of his scientific legacy (&amp;rdquo;I found that homeopathy is pretty useless.</description>
+    </item>
+    
+    <item>
+      <title>Complexity...</title>
+      <link>/post/complexity.../</link>
+      <pubDate>Wed, 01 Jun 2011 14:37:00 +0000</pubDate>
+      
+      <guid>/post/complexity.../</guid>
+      <description>&amp;hellip; or ecology meet TED.</description>
+    </item>
+    
+    <item>
+      <title>Happy day - sad day, part II</title>
+      <link>/post/happy-day-sad-day-part-ii/</link>
+      <pubDate>Fri, 15 Apr 2011 11:13:00 +0000</pubDate>
+      
+      <guid>/post/happy-day-sad-day-part-ii/</guid>
+      <description>The end of the semester is always hectic. Especially this year, since our lab had three year-long undergrad thesis students working away on various projects.
+Brittany Ferguson worked this semester on whether duck dispersal influenced macroinvertebrate metacommunity patterns. She found one of those very zen-like conclusions, where the absence of a predicted pattern is actually evidence for the importance of the process, and we will expose her zen-conclusions hopefully sometime this summer to the very critical research community.</description>
+    </item>
+    
+    <item>
+      <title>Brittany&#39;s first publication!</title>
+      <link>/post/brittanys-first-publication/</link>
+      <pubDate>Sun, 10 Apr 2011 13:30:00 +0000</pubDate>
+      
+      <guid>/post/brittanys-first-publication/</guid>
+      <description>Brittany&amp;rsquo;s first publication stemming from her undergraduate research project during the Algonquin field course has just been published. She was part of team IDH (for obvious reasons), and they worked their butts of to collect the data: finding an interesting question based on her previous community ecology course, interviewing park people to find stands with known time-to-logging, collecting the data, tiring out the TAs who helped them (or maybe slowed them down), breaking down her field vehicle, of course exactly on the one day I came out with them.</description>
+    </item>
+    
+    <item>
+      <title>Happy day - sad day, part 1</title>
+      <link>/post/happy-day-sad-day-part-1/</link>
+      <pubDate>Thu, 31 Mar 2011 09:58:00 +0000</pubDate>
+      
+      <guid>/post/happy-day-sad-day-part-1/</guid>
+      <description>All good things come to an end. And now it is Amanda&#39;s time to leave. She successfully defended her thesis &#34;Zooplankton metacommunity responses to environmental change in the sub-arctic&#34;. At this point, there are 3 manifestations of her work:Amanda&#39;s electronic thesis link: the UoG library now provides an electronic reference for all theses, which will increase the exposure and accessibility of the research.Her presentation, that is the perfect example of how we should present results to a larger audience</description>
+    </item>
+    
+    <item>
+      <title>Translating research</title>
+      <link>/post/translating-research/</link>
+      <pubDate>Tue, 01 Mar 2011 13:28:00 +0000</pubDate>
+      
+      <guid>/post/translating-research/</guid>
+      <description>Amanda is currently trying to publish the first chapter of her thesis (whohoo), and this can do funny things to your brain. See the post on her personal blog on how research findings are translated through the different media outlets, or the scientific version of telephone.</description>
+    </item>
+    
+    <item>
+      <title>Definition of teaching</title>
+      <link>/post/definition-of-teaching/</link>
+      <pubDate>Wed, 23 Feb 2011 10:11:00 +0000</pubDate>
+      
+      <guid>/post/definition-of-teaching/</guid>
+      <description>I could not resist posting this cartoon. It defines what teaching is: creating a process that moves a learner from the left-hand circle to the right-hand circle, nothing more, nothing less. Creating that process efficiently and effectively, however, is of course a completely different question.</description>
+    </item>
+    
+    <item>
+      <title>Metacommunity dynamics in the prairie pothole region</title>
+      <link>/post/metacommunity-dynamics-in-the-prairie-pothole-region/</link>
+      <pubDate>Wed, 16 Feb 2011 19:33:00 +0000</pubDate>
+      
+      <guid>/post/metacommunity-dynamics-in-the-prairie-pothole-region/</guid>
+      <description>The prairie pothole region, characterized by millions of unique ponds scattered across its surface extends from Alberta Canada, down into the central United States. This “patchy” ecosystem provides feeding habitat for an estimated 50-75% of North Americas breeding ducks, which feed primarily on the numerable invertebrate species found within the area.  The region is an ideal site for the study of metacommunity dynamics, as it’s many local ecosystems (ponds) are joined by the dispersal of highly interactive species (ducks and invertebrates).</description>
+    </item>
+    
+    <item>
+      <title>the L word</title>
+      <link>/post/the-l-word/</link>
+      <pubDate>Sat, 04 Dec 2010 09:13:00 +0000</pubDate>
+      
+      <guid>/post/the-l-word/</guid>
+      <description>If I could meet any person, dead or alive, real or fiction, I think one of my top choices would be Steve Irwin. I&amp;rsquo;d want to meet him out in the bush, maybe in Australia, maybe help him re-locate a croc. Afterwards, we might talk about conservation and peace and wilderness. Or, more accurately, he&amp;rsquo;d talk, and I&amp;rsquo;d just nod vigorously in agreement while reveling in his radiance.
+Steve Irwin is famously known for his larger-than-life television series Crocodile Hunter.</description>
+    </item>
+    
+    <item>
+      <title>Another inspirational video</title>
+      <link>/post/another-inspirational-video/</link>
+      <pubDate>Tue, 30 Nov 2010 11:38:00 +0000</pubDate>
+      
+      <guid>/post/another-inspirational-video/</guid>
+      <description>This video touches all my buttons: teaching, education, collaboration, comics, story telling, science, humor.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk ... microbes</title>
+      <link>/post/lets-talk-...-microbes/</link>
+      <pubDate>Wed, 24 Nov 2010 12:10:00 +0000</pubDate>
+      
+      <guid>/post/lets-talk-...-microbes/</guid>
+      <description>Amanda and Marina created a module to introduce Grade 1 kids to microbes for the programLet&amp;rsquo;s talk science. They picked a very challenging subject to introduce something we cannot see to 6 year-olds. However, they pulled it off very successfully using pictures, glow-in-the-dark powder and black lights, and a couple of microscope. I joined them for the final presentation (in my son&amp;rsquo;s class), and these are the pictures I took.</description>
+    </item>
+    
+    <item>
+      <title>Latest summary of Churchill Research</title>
+      <link>/post/latest-summary-of-churchill-research/</link>
+      <pubDate>Sat, 20 Nov 2010 06:48:00 +0000</pubDate>
+      
+      <guid>/post/latest-summary-of-churchill-research/</guid>
+      <description>I recently gave a presentation at the University of Toronto - Mississauga, and that was the perfect opportunity to summarize the research results from our lab in Churchill of the last couple of years. Below you can see the slides of that presentation.</description>
+    </item>
+    
+    <item>
+      <title>Empty Cups</title>
+      <link>/post/empty-cups/</link>
+      <pubDate>Fri, 19 Nov 2010 14:58:00 +0000</pubDate>
+      
+      <guid>/post/empty-cups/</guid>
+      <description>Very occasionally, I will brave North American culture and go see a movie on a ridiculously big screen with a ridiculously big bag of popcorn. Last December, a friend convinced me to not only go see Avatar on the big screen, but to watch it in 3-D with her. I was blown away. Though I find the current 3-D craze to be, well, crazy, I have to admit that it brought a certain enchantment to the fantasy planet Pandora.</description>
+    </item>
+    
+    <item>
+      <title>What can science learn from Google?</title>
+      <link>/post/what-can-science-learn-from-google/</link>
+      <pubDate>Mon, 15 Nov 2010 14:37:00 +0000</pubDate>
+      
+      <guid>/post/what-can-science-learn-from-google/</guid>
+      <description>That is the finishing sentence from&amp;nbsp;this article. The author tries to argue that theory and the scientific method is getting obsolete in this day and age, using Google as a role model:
+But faced with massive data, this approach to science — hypothesize, model, test — is becoming obsolete. [&amp;hellip;] There is now a better way. Petabytes allow us to say: &amp;ldquo;Correlation is enough.&amp;rdquo; We can stop looking for models. We can analyze the data without hypotheses about what it might show.</description>
+    </item>
+    
+    <item>
+      <title>Reduce &#43; Simplify &#43; Deepen &#43; collaboration</title>
+      <link>/post/reduce-simplify-deepen-collaboration/</link>
+      <pubDate>Sat, 13 Nov 2010 13:51:00 +0000</pubDate>
+      
+      <guid>/post/reduce-simplify-deepen-collaboration/</guid>
+      <description>Creating a concept map as a teaching/learning tool is all about what Chris Orwig refers to when he describes the poetics of pictures: it is not only about reducing and simplifying, but also (especially) about deepening (or synthesis in teaching terms). It is this last part that makes it very difficult, and rewarding. And to make this deepening work, it is all about dialogue and collaboration, which is why I believe that class room interactions are crucial in this day and age of moving more and more to digital interactions.</description>
+    </item>
+    
+    <item>
+      <title>And the discussion continues...</title>
+      <link>/post/and-the-discussion-continues.../</link>
+      <pubDate>Thu, 04 Nov 2010 10:39:00 +0000</pubDate>
+      
+      <guid>/post/and-the-discussion-continues.../</guid>
+      <description>&amp;hellip; on Amanda&amp;rsquo;s blog: What do we do with all that science?</description>
+    </item>
+    
+    <item>
+      <title>Ecofeminism: not just tree-hugging and hairy legs</title>
+      <link>/post/ecofeminism-not-just-tree-hugging-and-hairy-legs/</link>
+      <pubDate>Thu, 04 Nov 2010 10:30:00 +0000</pubDate>
+      
+      <guid>/post/ecofeminism-not-just-tree-hugging-and-hairy-legs/</guid>
+      <description>In March 2009, the Women&amp;rsquo;s Studies undergraduate program (among others) was cut at Guelph. I wasn&amp;rsquo;t involved in the issue myself, but knew a few people who rallied against this decision. They cited it as ironic evidence that feminism is far from being a finished movement. At the time, I only saw a superficial link between the Women&amp;rsquo;s Studies program cut and feminism; I didn&amp;rsquo;t know what feminism really was.</description>
+    </item>
+    
+    <item>
+      <title>A remedy for inaccessible science?</title>
+      <link>/post/a-remedy-for-inaccessible-science/</link>
+      <pubDate>Tue, 02 Nov 2010 09:54:00 +0000</pubDate>
+      
+      <guid>/post/a-remedy-for-inaccessible-science/</guid>
+      <description>One of the most common complaints about the world of science is it&amp;rsquo;s inaccessibility to the everyday person. Carl Zimmer has put together an &amp;ldquo;Index of Banned Words&amp;rdquo;. Words that should be vanquished from the vocabulary of scientists everywhere. The list includes the taboos &amp;ldquo;elucidate&amp;rdquo;, &amp;ldquo;predation&amp;rdquo;, &amp;ldquo;mechanism&amp;rdquo;, and (gasp!) &amp;ldquo;community ecology&amp;rdquo;.
+Reading through the list has made me realize how incredibly predictable my choice of words has become when writing in my science courses.</description>
+    </item>
+    
+    <item>
+      <title>Eelgrass communities - An update</title>
+      <link>/post/eelgrass-communities-an-update/</link>
+      <pubDate>Mon, 01 Nov 2010 21:31:00 +0000</pubDate>
+      
+      <guid>/post/eelgrass-communities-an-update/</guid>
+      <description>I recently gave a brief project update to the gang. Here are the nuts and bolts of my undergrad thesis (I’ll try to stay brief): -Eelgrass meadows are important. They provide habitat for dozens of fish and invertebrate species, stabilize sediment, and cycle carbon and nutrients. Meadows are found in shallow coastal waters on the East and West coasts of North America. Seagrass meadows are globally threatened.
+-The community dynamics of eelgrass meadows in temperate zones are largely not understood.</description>
+    </item>
+    
+    <item>
+      <title>How much for that polar bear?</title>
+      <link>/post/how-much-for-that-polar-bear/</link>
+      <pubDate>Sun, 24 Oct 2010 22:03:00 +0000</pubDate>
+      
+      <guid>/post/how-much-for-that-polar-bear/</guid>
+      <description>&amp;ldquo;The federal government wants to put a price tag on polar bears,&amp;rdquo; begins this recent Globe and Mail article. It goes on to explain that Environment Canada wants to determine the socio-economic value of the iconic arctic species. This includes things like the bear&amp;rsquo;s consumptive value, cultural value, scientific value, educational value, aesthetic value, existence value, and so on. How much does each &amp;ldquo;additional unit of polar bear&amp;rdquo; or each &amp;ldquo;additional hectare of habitat&amp;rdquo; bring to the nation?</description>
+    </item>
+    
+    <item>
+      <title>Are our kids ready for neoliberal education? Absolutely!</title>
+      <link>/post/are-our-kids-ready-for-neoliberal-education-absolutely/</link>
+      <pubDate>Tue, 28 Sep 2010 12:02:00 +0000</pubDate>
+      
+      <guid>/post/are-our-kids-ready-for-neoliberal-education-absolutely/</guid>
+      <description>Teaching a course is a lot of fun. The difficult part is to convert all these highbrow ideas to a group of 22-year old &amp;ldquo;kids&amp;rdquo; at 8:30 am in the morning. I really like the concept of serendipity (or is this just a justification for being glued to Google Reader and my new RSS feeds), but I stumbled across this blog post at the beginning of the semester: Are our kids ready for this?</description>
+    </item>
+    
+    <item>
+      <title>Theoretical ecologists</title>
+      <link>/post/theoretical-ecologists/</link>
+      <pubDate>Fri, 17 Sep 2010 11:26:00 +0000</pubDate>
+      
+      <guid>/post/theoretical-ecologists/</guid>
+      <description>Have you ever felt insecure, inferior, stupid, when talking to a theoretical ecologist? Here is your fall back position:
+Physicists: &amp;ldquo;&amp;ldquo;
+Just replace &amp;ldquo;physicist&amp;rdquo; with &amp;ldquo;theoretical ecologist&amp;rdquo;, and &amp;ldquo;liberal-arts majors&amp;rdquo; with yourself, and you regain the upper hand again in any discussion ;-)</description>
+    </item>
+    
+    <item>
+      <title>Scaling up</title>
+      <link>/post/scaling-up/</link>
+      <pubDate>Wed, 15 Sep 2010 16:15:00 +0000</pubDate>
+      
+      <guid>/post/scaling-up/</guid>
+      <description>In our lab, we focus mainly on metacommunity dynamics, or how the interactions between dispersal and local environmental processes influence communities in the landscape. Since we are interested in communities in the landscape, we automatically deal with the issue of &amp;ldquo;scale&amp;rdquo;. This is one of those very diffuse concepts in ecology, with as many definitions as scientists (temporal, spatial, conceptual, grain, &amp;hellip;).
+This&amp;nbsp;recent article by Spivak et al. in Freshwater Biology&amp;nbsp;tackles a problem experimentally that is not often studied in ecology: how applicable are the results of small-scale experiments for empirical (and by default large-scale) systems?</description>
+    </item>
+    
+    <item>
+      <title>Making group work bearable</title>
+      <link>/post/making-group-work-bearable/</link>
+      <pubDate>Tue, 14 Sep 2010 23:08:00 +0000</pubDate>
+      
+      <guid>/post/making-group-work-bearable/</guid>
+      <description>As an undergraduate, I always dreaded group work. Being an introvert, I always preferred to do things on my own, especially when I didn&amp;rsquo;t know my group members. The first phase of group work is the worst (in my opinion)&amp;ndash;getting to know each other and revealing our egos. Who are these people? Do you like them? Can you work with them? Do you connect, or exist on completely different planes?</description>
+    </item>
+    
+    <item>
+      <title>Critical thinking and concept maps: a powerful combination</title>
+      <link>/post/critical-thinking-and-concept-maps-a-powerful-combination/</link>
+      <pubDate>Mon, 13 Sep 2010 10:42:00 +0000</pubDate>
+      
+      <guid>/post/critical-thinking-and-concept-maps-a-powerful-combination/</guid>
+      <description>Infographic by College Scholarships.org</description>
+    </item>
+    
+    <item>
+      <title>The power of graphics</title>
+      <link>/post/the-power-of-graphics/</link>
+      <pubDate>Thu, 09 Sep 2010 16:05:00 +0000</pubDate>
+      
+      <guid>/post/the-power-of-graphics/</guid>
+      <description>Intelligent persons have written wonderful books about creating good graphs. Today, I received two graphs in my Google Reader, and they make such powerful/funny statements that I had to show them, especially since they are visually so comparable.
+In the funny category:
+
+In the powerful category (click here for the original article with more powerful visuals):
+
+It&amp;rsquo;s very unlikely that anything in my research career will produce anything that funny, or could influence the voting behaviour of a whole nation, but we can only try.</description>
+    </item>
+    
+    <item>
+      <title>Confessions of a grad student</title>
+      <link>/post/confessions-of-a-grad-student/</link>
+      <pubDate>Wed, 08 Sep 2010 11:07:00 +0000</pubDate>
+      
+      <guid>/post/confessions-of-a-grad-student/</guid>
+      <description>Are you intrigued by these snippets?I like statsI dislike learning R&amp;nbsp;results may be meaninglessTedious? Yes. Accurate? Yes&amp;nbsp;Then go over to&amp;nbsp;Amanda&#39;s latest blog post.&amp;nbsp; </description>
+    </item>
+    
+    <item>
+      <title>BBQ potluck</title>
+      <link>/post/bbq-potluck/</link>
+      <pubDate>Mon, 06 Sep 2010 12:16:00 +0000</pubDate>
+      
+      <guid>/post/bbq-potluck/</guid>
+      <description>It is that time of the year again, the evenings are getting shorter and colder, the get-back-to-school ads are &amp;nbsp;being replaced with Halloween ads, Guelph seems to girding itself for the onslaught of 17.000 partying students with campaigns, more police patrols, warnings, new by-laws, field work is winding down and everybody is slowly adjusting to the realities of life. To celebrate this past summer, and introduce all the new lab members to each other, we had our first unofficial lab meeting at my place.</description>
+    </item>
+    
+    <item>
+      <title>Scientists measure...</title>
+      <link>/post/scientists-measure.../</link>
+      <pubDate>Tue, 31 Aug 2010 15:26:00 +0000</pubDate>
+      
+      <guid>/post/scientists-measure.../</guid>
+      <description>&amp;hellip; all kinds of things. See Amanda&amp;rsquo;s latest post from Churchill.</description>
+    </item>
+    
+    <item>
+      <title>Bike Lessons</title>
+      <link>/post/bike-lessons/</link>
+      <pubDate>Thu, 19 Aug 2010 19:29:00 +0000</pubDate>
+      
+      <guid>/post/bike-lessons/</guid>
+      <description>I am Ingrid, a returning member of the Cottenie lab. This is my first post, and it comes at one of those in-between times in my life. I am in between finishing a two-month bike tour and starting a three- (or four, or more&amp;hellip;?) year PhD. It&amp;rsquo;s been an interesting process, returning from the tour and re-integrating back into society.
+First, a little about the tour. It was one of the best and most challenging things I have ever done.</description>
+    </item>
+    
+    <item>
+      <title>The most important piece of advice?</title>
+      <link>/post/the-most-important-piece-of-advice/</link>
+      <pubDate>Thu, 19 Aug 2010 12:41:00 +0000</pubDate>
+      
+      <guid>/post/the-most-important-piece-of-advice/</guid>
+      <description>Here is a great post, over on ProfHacker, about advice to new grad students: An open letter to new graduate students, by Brian Croxall.&amp;nbsp;While I agree with most of these topics with varying degrees, they did not include the most important piece of advise, probably because it is so obvious: ask questions. Our role as advisors is to advise, but we can only do this if we get questions. Come in my office, send me an email, skype, whatever.</description>
+    </item>
+    
+    <item>
+      <title>Field work is winding down in Churchill</title>
+      <link>/post/field-work-is-winding-down-in-churchill/</link>
+      <pubDate>Mon, 16 Aug 2010 15:38:00 +0000</pubDate>
+      
+      <guid>/post/field-work-is-winding-down-in-churchill/</guid>
+      <description>Mid august, and it is starting to feel like summer is indeed slowly winding down.
+Amanda is also feeling signs ofFall in Churchill, and Brittany has just put an update about her first field season up there.</description>
+    </item>
+    
+    <item>
+      <title>More science outreach in Churchill</title>
+      <link>/post/more-science-outreach-in-churchill/</link>
+      <pubDate>Mon, 26 Jul 2010 13:55:00 +0000</pubDate>
+      
+      <guid>/post/more-science-outreach-in-churchill/</guid>
+      <description>see here</description>
+    </item>
+    
+    <item>
+      <title>Critical thinking: different perspectives</title>
+      <link>/post/critical-thinking-different-perspectives/</link>
+      <pubDate>Sat, 24 Jul 2010 12:15:00 +0000</pubDate>
+      
+      <guid>/post/critical-thinking-different-perspectives/</guid>
+      <description>When we were preparing the grading rubric to assess critical thinking (which is more complicated than you might think), Marianne Staempfli found this very useful resource: The Critical Thinking Community.&amp;nbsp;While the website itself is&amp;nbsp;quaintly old-fashioned, it has a lot of useful information. For instance, a definition:
+Critical thinking is the intellectually disciplined process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and/or evaluating information gathered from, or generated by, observation, experience, reflection, reasoning, or communication, as a guide to belief and action.</description>
+    </item>
+    
+    <item>
+      <title>A metacommuntiy or a self-organized system?</title>
+      <link>/post/a-metacommuntiy-or-a-self-organized-system/</link>
+      <pubDate>Thu, 22 Jul 2010 10:54:00 +0000</pubDate>
+      
+      <guid>/post/a-metacommuntiy-or-a-self-organized-system/</guid>
+      <description>It is always interesting to read how scientists read, understand, and interpret articles in very different way. You can encounter this most often for your own results when you&amp;nbsp;present at a conference or seminar, and you get questions that throw you in a hoop, and&amp;nbsp;track the articles that refer to one of your publications (admit it, you do it too): often the first response is &#34;how could they interpret my text/data/interpretation in that context?</description>
+    </item>
+    
+    <item>
+      <title>A preview</title>
+      <link>/post/a-preview/</link>
+      <pubDate>Mon, 19 Jul 2010 12:25:00 +0000</pubDate>
+      
+      <guid>/post/a-preview/</guid>
+      <description>A preview of things to come in the subarctic.</description>
+    </item>
+    
+    <item>
+      <title>The scientific method: from intuition to data and back</title>
+      <link>/post/the-scientific-method-from-intuition-to-data-and-back/</link>
+      <pubDate>Tue, 13 Jul 2010 12:49:00 +0000</pubDate>
+      
+      <guid>/post/the-scientific-method-from-intuition-to-data-and-back/</guid>
+      <description>This is an article in the Globe and Mail that struck a cord with me,&amp;nbsp;&#34;Ten years that shook, rattled, rolled and helped repair the world&#34;&amp;nbsp;by Doug Saunders. If you do not have the time to read the full article, you can click on this shortened version with most of the salient points summarized in a concept map structure (make sure to click on it to see the bigger version so that you can actually read the text ;-):This article provides a very nice example of the&amp;nbsp;10th Cottenie Commandment: Thou Shalt Listen to thy Intuition, but Follow the Data.</description>
+    </item>
+    
+    <item>
+      <title>Concept maps: THE tool for learners?</title>
+      <link>/post/concept-maps-the-tool-for-learners/</link>
+      <pubDate>Mon, 12 Jul 2010 11:38:00 +0000</pubDate>
+      
+      <guid>/post/concept-maps-the-tool-for-learners/</guid>
+      <description>Learning (be it as a scientist, a teacher, a student, or any combination of the above, this will be the topic of another blog) is a difficult process, as any scientist, teacher, or student will tell you. However, sometimes you get struck by lightening, by an experience that makes you wonder, &amp;ldquo;How did I ever function without this?&amp;rdquo;. 3 years ago, I was introduced to concept mapping by Steve Crawford, but I am not exactly sure how we got on this subject.</description>
+    </item>
+    
+    <item>
+      <title>Grade inflation excess</title>
+      <link>/post/grade-inflation-excess/</link>
+      <pubDate>Thu, 24 Jun 2010 11:36:00 +0000</pubDate>
+      
+      <guid>/post/grade-inflation-excess/</guid>
+      <description>Where did it go wrong with our university system? One possible reason is the increasing importance of &#34;grades&#34; in the mind of a student, instructor, granting agency, employer, for the easy quantification it provides of a student&#39;s learning. This is problematic on so many different levels. Maybe the most important level is that education/teaching/learning is not about&amp;nbsp;&#34;to distinguish the wheat from the chaff&#34;,&amp;nbsp;&amp;nbsp;but actually about learning. At Guelph, our guiding principle for teaching and learning is &#34;</description>
+    </item>
+    
+    <item>
+      <title>Amanda&#39;s hatching experiment</title>
+      <link>/post/amandas-hatching-experiment/</link>
+      <pubDate>Wed, 23 Jun 2010 09:51:00 +0000</pubDate>
+      
+      <guid>/post/amandas-hatching-experiment/</guid>
+      <description>Ecology in action, life, in Churchill, with pictures, and explanations, using the magic of tupperware. Who said science is boring and expensive.</description>
+    </item>
+    
+    <item>
+      <title>Sub-arctic outreach</title>
+      <link>/post/sub-arctic-outreach/</link>
+      <pubDate>Tue, 22 Jun 2010 13:58:00 +0000</pubDate>
+      
+      <guid>/post/sub-arctic-outreach/</guid>
+      <description>Is it possible that grade 3 kids are more interested in zooplankton than 3year university students? Click here to find out.</description>
+    </item>
+    
+    <item>
+      <title>Amanda&#39;s first blog post of the season</title>
+      <link>/post/amandas-first-blog-post-of-the-season/</link>
+      <pubDate>Fri, 18 Jun 2010 13:21:00 +0000</pubDate>
+      
+      <guid>/post/amandas-first-blog-post-of-the-season/</guid>
+      <description>about trains, plains, and canoes.</description>
+    </item>
+    
+    <item>
+      <title>Lions and Tigers and ... Eelgrass??</title>
+      <link>/post/lions-and-tigers-and-...-eelgrass/</link>
+      <pubDate>Mon, 14 Jun 2010 01:59:00 +0000</pubDate>
+      
+      <guid>/post/lions-and-tigers-and-...-eelgrass/</guid>
+      <description>Oh hello there, community ecology enthusiasts I believe an introduction is in order. My name is Kyle and I am a recent addition to the Cottenie Lab. I will be undertaking an undergraduate research project under the guidance of Karl and the rest of the gang at CottenieLab beginning this fall (you may have seen my mug in a recent post on this blog in daphnia/stormtrooper attire!). First, a little bit about me&amp;hellip; my passions include diving, the outdoors and marine science (not necessarily in that order) and I have been fascinated with aquatic systems since spending my childhood summers sifting through tide pools on Canada’s east coast.</description>
+    </item>
+    
+    <item>
+      <title>Summer 2010 fieldwork has begun!</title>
+      <link>/post/summer-2010-fieldwork-has-begun/</link>
+      <pubDate>Sun, 13 Jun 2010 23:17:00 +0000</pubDate>
+      
+      <guid>/post/summer-2010-fieldwork-has-begun/</guid>
+      <description>The Cottenie lab will be active in Churchill, Manitoba again this year. I arrived in Churchill about a week ago and Brittany will be joining me in a few short weeks. Check out our progress as Planktoneers!</description>
+    </item>
+    
+    <item>
+      <title>The world of conferences</title>
+      <link>/post/the-world-of-conferences/</link>
+      <pubDate>Thu, 13 May 2010 16:27:00 +0000</pubDate>
+      
+      <guid>/post/the-world-of-conferences/</guid>
+      <description>I also had the opportunity to attend a conference this week, the 5th annual meeting of the Canadian Society for Ecology and Evolution, held at the Universite Laval. It was a well organized conference with a lot of energy and some very interesting talks and posters. Quebec City served as a wonderful setting for the conference and I was impressed by how the conference was truly bilingual. I was also impressed by vieux Quebec and the beauty of the St.</description>
+    </item>
+    
+    <item>
+      <title>Out with rote learning</title>
+      <link>/post/out-with-rote-learning/</link>
+      <pubDate>Tue, 11 May 2010 10:45:00 +0000</pubDate>
+      
+      <guid>/post/out-with-rote-learning/</guid>
+      <description>Tom Nudds and I co-taught community ecology for the first time together last semester (and Amanda was one of our wonderful TAs). Despite our differences ;-), we share a very similar teaching philosophy. And as a result of some crazy ideas, we decided to completely remodel community ecology. Tom&amp;rsquo;s rallying cry:
+Out with rote learningTo implement this, we cut out all &amp;ldquo;normal&amp;rdquo; aspects of grading in our course, and instead we implemented 3 research projects in a problem-based learning framework.</description>
+    </item>
+    
+    <item>
+      <title>Some pre fieldwork fieldwork</title>
+      <link>/post/some-pre-fieldwork-fieldwork/</link>
+      <pubDate>Wed, 05 May 2010 22:04:00 +0000</pubDate>
+      
+      <guid>/post/some-pre-fieldwork-fieldwork/</guid>
+      <description>Today Brittany and I took a walk over to the Arboretum to sample some of the temporary and man-made ponds, as part of an ongoing metacommunity study. With the warm spring we&amp;rsquo;ve been having, the zooplankton are in full swing, rivalling the communities we found in Churchill last year in August!Here Brittany is marvelling at the zooplankton and many aquatic insects:
+
+Notice the tea-coloured water, it is stained by tannins leaching from the fallen leaves and detritus.</description>
+    </item>
+    
+    <item>
+      <title>What are you? Zooplankton? Hahahahahahahaha.</title>
+      <link>/post/what-are-you-zooplankton-hahahahahahahaha./</link>
+      <pubDate>Sun, 25 Apr 2010 17:13:00 +0000</pubDate>
+      
+      <guid>/post/what-are-you-zooplankton-hahahahahahahaha./</guid>
+      <description>After a whole month of preparations, it finally happened: the procession of species. It started a little bit late for us, since I had a race in the morning. But thanks to cell phones, we could join the parade half way through. Kobe was really excited and waiting for the first sign of the parade and the rest of the lab.
+Here are some random pictures of the different species and musicians bringing life music.</description>
+    </item>
+    
+    <item>
+      <title>Field trip Carolinian forests</title>
+      <link>/post/field-trip-carolinian-forests/</link>
+      <pubDate>Fri, 23 Apr 2010 18:33:00 +0000</pubDate>
+      
+      <guid>/post/field-trip-carolinian-forests/</guid>
+      <description>In September, Marina will join our lab. She will study spatial patterns and metacommunity dynamics in Carolinian forest understory plants, and Andrew MacDougall is her co-advisor (since obviously I know nothing about plants). Today we visited 2 forest fragments, just to get an idea on the spatial (and temporal) scales of heterogeneity, and to get an idea of the practical considerations that drive the development of a research program.
+The first set of pictures are some overviews of the different landscapes.</description>
+    </item>
+    
+    <item>
+      <title>Embracing the digital article</title>
+      <link>/post/embracing-the-digital-article/</link>
+      <pubDate>Wed, 21 Apr 2010 10:28:00 +0000</pubDate>
+      
+      <guid>/post/embracing-the-digital-article/</guid>
+      <description>This is one of the best texts I have seen on the whole tablet reading experience, &amp;ldquo;Embracing the digital book&amp;rdquo; by Craig Mod. Not only very informative and well-argued, but also beautifully designed, which is of course the whole point of his article/journal.
+But why do I mention this in this lab blog? Just imagine the possibilities if there would be a similar platform for scientific articles, that implements his ideas on &amp;ldquo;the network (or, e-reader &amp;lsquo;social&amp;rsquo; features)&amp;rdquo;:</description>
+    </item>
+    
+    <item>
+      <title>The latest Birdfish</title>
+      <link>/post/the-latest-birdfish/</link>
+      <pubDate>Wed, 14 Apr 2010 18:25:00 +0000</pubDate>
+      
+      <guid>/post/the-latest-birdfish/</guid>
+      <description>The Churchill Northern Studies Centre has hosted researchers from the Cottenie lab for the past couple years. This year we were invited to contribute a short write-up on our summer 2009 field season. You can read the article here:
+http://www.churchillscience.ca/documents/Newsletter_Winter_2010.pdf
+Also, be sure to check out the CNSC&amp;rsquo;s website for a preview of their new facility! The staff and volunteers at the CNSC are very supportive and a terrific resource for anyone doing science in the north.</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first? Update 2</title>
+      <link>/post/hypotheses-or-data-first-update-2/</link>
+      <pubDate>Tue, 13 Apr 2010 15:13:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first-update-2/</guid>
+      <description>Since we seem to be on a roll on the what should come first in science, this Nature article actually presents a much better written and argued case in favour of combining the strengths of both approaches (maybe scientists should do what they are good at, science, and leave the writing to, journalists with a PhD?). Some of the costs for doing these genome studies: US$1 billion. How does that stack up to other funding, I have no idea, but this is a big number.</description>
+    </item>
+    
+    <item>
+      <title>More costumes</title>
+      <link>/post/more-costumes/</link>
+      <pubDate>Sat, 10 Apr 2010 21:42:00 +0000</pubDate>
+      
+      <guid>/post/more-costumes/</guid>
+      <description>How many do you need to make a costume? Apparently more than 5. However, based on this last evening, we now have a full design, including the know-how on how to make it. So the next time we meet, we should have 6 full Daphnia costumes for the parade.&amp;nbsp;4 degrees to work with papier mache, your quality education at work
+To illustrate that this is part of the rostrum, all you dirty minds&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>This is why we do this ...</title>
+      <link>/post/this-is-why-we-do-this-.../</link>
+      <pubDate>Fri, 09 Apr 2010 13:06:00 +0000</pubDate>
+      
+      <guid>/post/this-is-why-we-do-this-.../</guid>
+      <description>research or science or playing or fun or exploration or whatever you want to call it.
+
+Some background: Amanda, Ingrid, and Erin performed a very novel experiment in Churchill last summer (see their blog for more fun stuff). Amanda processed all the samples and is in the process of analyzing the data. Because of the design, it gets complicated very quickly, and so Amanda is honing her R-skills to visualize the results before we go p-value hunting.</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first - Update</title>
+      <link>/post/hypotheses-or-data-first-update/</link>
+      <pubDate>Thu, 08 Apr 2010 12:48:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first-update/</guid>
+      <description>We discussed these two articles mentioned in a previous post in our Community Ecology class, and this is the summary of the very interesting discussion between the students, the TAs, and Tom and I:
+It is not one or the other (which is actually acknowledges by using the &amp;ldquo;first&amp;rdquo; in the title)The scientific method is cyclical and depends on data, hypotheses, predictions, increased information, or is cyclical as is illustrated by TomBut I added (which was not supported by the majority of the students, or Tom ;-) that the start of the scientific method is data, or the description of a natural phenomenonI also tried to argue that the &amp;ldquo;hypotheses first&amp;rdquo; in its extreme is related to religion, since religion is essentially a hypothesis (causal mechanism) without data to support it, but at this point I was way outside my zone of expertise</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first?</title>
+      <link>/post/hypotheses-or-data-first/</link>
+      <pubDate>Tue, 06 Apr 2010 11:45:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first/</guid>
+      <description>The recent nature issue had an interesting point-counterpoint series of 2 articles as a reflection on 10 years of the human genome project. The first article argues that hypotheses should come first because little progress has been made in the last 10 years as a result of the abundance of data from these different genome projects. The second article argues the exact opposite, that this data-driven approach has resulted in a series of break-troughs that could not have been possible with a hypothesis-driven approach.</description>
+    </item>
+    
+    <item>
+      <title>Let the costumes begin!</title>
+      <link>/post/let-the-costumes-begin/</link>
+      <pubDate>Sat, 27 Mar 2010 10:57:00 +0000</pubDate>
+      
+      <guid>/post/let-the-costumes-begin/</guid>
+      <description>Well, as Karl has mentioned our lab will be participating as a horde of zooplankton in the KW Procession of Species Parade. The parade is as much about encouragaing local expressions of art as it is about showcasing biodiversity. With that in mind we set out yesterday to stretch our creativity and construct a prototype of our first costume. We decided that Daphnia would be our main inspiration and started on a carapace and post abdomen.</description>
+    </item>
+    
+    <item>
+      <title>Awards galore</title>
+      <link>/post/awards-galore/</link>
+      <pubDate>Thu, 25 Mar 2010 11:40:00 +0000</pubDate>
+      
+      <guid>/post/awards-galore/</guid>
+      <description>Amanda and Ingrid both received an NSERC award: Amanda to finish her MSc, and Ingrid to start her PhD. Now she will have to make a decision ;-) Running a lab with such talented people is easy, I hardly have to do anything myself.</description>
+    </item>
+    
+    <item>
+      <title>The planktoneers make headlines!</title>
+      <link>/post/the-planktoneers-make-headlines/</link>
+      <pubDate>Wed, 17 Mar 2010 11:04:00 +0000</pubDate>
+      
+      <guid>/post/the-planktoneers-make-headlines/</guid>
+      <description>We will participate as a lab to the species parade in Kitchener/Waterloo. Our theme? The planktoneers, of course. This seems not to be the most obvious theme, so we are mentioned in some of the local papers. As Ingrid wrote: &amp;ldquo;The heat is on&amp;rdquo;.</description>
+    </item>
     
   </channel>
 </rss>

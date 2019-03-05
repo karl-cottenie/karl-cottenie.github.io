@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Karl Cottenie">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Most of you readers probably followed the US elections with varying degrees of interest and passion, but as scientists are also aware of the &ldquo;role&rdquo; of Nate Silver and his blog FiveThirtyEight.com. Lots has been written about his success, which is &ldquo;just&rdquo; a nice example of the strengths of the scientific process, and thus not that surprising. What does&nbsp;surprise&nbsp;me, is the reluctance of journalists to come to terms with what he does.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/the-role-of-intuition-in-data-analysis/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Cottenie Lab">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Cottenie Lab">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/post/the-role-of-intuition-in-data-analysis/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Cottenie Lab">
+  <meta property="og:url" content="/post/the-role-of-intuition-in-data-analysis/">
+  <meta property="og:title" content="The role of intuition in data analysis | Cottenie Lab">
+  <meta property="og:description" content="Most of you readers probably followed the US elections with varying degrees of interest and passion, but as scientists are also aware of the &ldquo;role&rdquo; of Nate Silver and his blog FiveThirtyEight.com. Lots has been written about his success, which is &ldquo;just&rdquo; a nice example of the strengths of the scientific process, and thus not that surprising. What does&nbsp;surprise&nbsp;me, is the reluctance of journalists to come to terms with what he does."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2012-11-08T07:29:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2012-11-08T07:29:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>The role of intuition in data analysis | Cottenie Lab</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Cottenie Lab</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications_featured">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">The role of intuition in data analysis</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2012-11-08 07:29:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2012-11-08 07:29:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Nov 8, 2012</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Most of you readers probably followed the US elections with varying degrees of interest and passion, but as scientists are also aware of the &ldquo;role&rdquo; of <a href="http://en.wikipedia.org/wiki/Nate_Silver">Nate Silver</a> and his blog <a href="http://fivethirtyeight.blogs.nytimes.com/">FiveThirtyEight.com</a>. Lots has been written about his success, which is &ldquo;just&rdquo; a nice example of the strengths of the scientific process, and thus not that surprising. What does&nbsp;surprise&nbsp;me, is the reluctance of journalists to come to terms with what he does. See this very insightful <a href="http://markcoddington.com/2012/10/31/nate-silver-journalism-politics-knowledge-epistemology/">blog post by Mark Coddington</a>.<br /><blockquote class="tr_bq">&ldquo;<span style="background-color: white; color: #4c4c4c; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px;">Silver’s process — his epistemology&nbsp;—&nbsp;is almost exactly the opposite of this:&nbsp;</span><span style="background-color: white; color: #4c4c4c; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px;">Where political journalists’ information is privileged, his is public, coming from poll results that all the rest of us see, too.&nbsp;</span><span style="background-color: white; color: #4c4c4c; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px;">Where political journalists’ information is evaluated through a subjective and nebulous professional/cultural sense of judgment, his evaluation is systematic and scientifically based. It involves judgment, too, but because it’s based in a</span><span style="background-color: white; color: #4c4c4c; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px;">&nbsp;</span><a href="http://thephoenix.com/Boston/news/146775-interview-nate-silver-explains/" style="border: 0px; color: #88c34b; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px; margin: 0px; outline: 0px; padding: 0px; text-decoration: none; vertical-align: baseline;">scientific process</a><span style="background-color: white; color: #4c4c4c; font-family: 'Droid Sans', arial, sans-serif; font-size: 14px; line-height: 23px;">, we can trace how he applied that judgment to reach his conclusions.&rdquo;</span></blockquote>This reluctance reflects, amongst other aspects, a classic case of a an either/or role for intuition in science/data analysis. We already had a lengthy exchange about the scientific process on this blog (see for instance <a href="http://www.cottenielab.org/2012/03/fallacy-of-our-misunderstand-of.html">this</a> and <a href="http://www.cottenielab.org/2012/03/scientific-method-continued.html">this</a>), and Stefan&rsquo;s main critique against the scientific process as a method is maybe summarized in this statement:<br /><blockquote class="tr_bq">&ldquo;<span style="background-color: #fefdfa; color: #333333; font-family: 'Times New Roman', serif; font-size: 16px;">I am claiming here that in order to do good science, one must know which auxiliary assumptions are reasonable to question in the face of evidence that conflicts with one’s predictions.</span><span style="background-color: #fefdfa; color: #333333; font-family: 'Times New Roman', serif; font-size: 16px;">&ldquo;</span></blockquote>One way to look at this is that intuition plays that role of knowing &ldquo;which auxiliary assumptions are reasonable&rdquo;. So it is not an either/or relationship, but really a feedback between intuition and hypothesis testing.<br /><br />Or my last commandment: &ldquo;<span style="background-color: #fefdfa; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; line-height: 19px;">Thou Shalt Listen to thy Intuition, but Follow the Data.&rdquo;</span></p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/science/">science</a>
+  
+  <a class="badge badge-light" href="/tags/philosophy/">philosophy</a>
+  
+  <a class="badge badge-light" href="/tags/cottenie-commandments/">Cottenie commandments</a>
+  
+</div>
+
+
+
+
+    
+      
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/authors/admin">Karl Cottenie</a></h5>
+    <h6 class="card-subtitle">Associate Professor in Community Ecology</h6>
+    <p class="card-text" itemprop="description">I am a community ecologist with a broad interest in data analysis.</p>
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailto:cottenie@uoguelph.ca" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=lL7RlhMAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/karl-cottenie" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://orcid.org/0000-0001-9498-8483" target="_blank" rel="noopener">
+          <i class="ai ai-orcid"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/post/presentation/">Presentation</a></li>
+          
+          <li><a href="/post/athena-the-nerd-god./">Athena, the nerd god.</a></li>
+          
+          <li><a href="/post/quantitative-vs.-qualitative/">Quantitative vs. qualitative?</a></li>
+          
+          <li><a href="/post/intuition-and-science/">Intuition and science</a></li>
+          
+          <li><a href="/post/metacommunity-terminology/">Metacommunity terminology</a></li>
+          
+        </ul>
+      </div>
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.109caa4f51ff39522c6dfc25fb05b6e9.js"></script>
+
+  </body>
+</html>
+
