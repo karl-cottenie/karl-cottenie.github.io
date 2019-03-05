@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural history on Cottenie Lab</title>
+    <link>/tags/natural-history/</link>
+    <description>Recent content in natural history on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2011 10:11:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/natural-history/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datateller</title>
+      <link>/post/datateller/</link>
+      <pubDate>Thu, 11 Aug 2011 10:11:00 +0000</pubDate>
+      
+      <guid>/post/datateller/</guid>
+      <description>As I recently noticed, the majority of my posts here are unconsciously driven by the courses that I am preparing. The couple of posts on natural history and science are basically an illustration to my field course that I will be teaching next week (hopefully I will get some time to blog from the field). And in the fall, I will be teaching a grad stats course for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Three words, a world of difference</title>
+      <link>/post/three-words-a-world-of-difference/</link>
+      <pubDate>Thu, 04 Aug 2011 11:05:00 +0000</pubDate>
+      
+      <guid>/post/three-words-a-world-of-difference/</guid>
+      <description>I am teaching a field course in Algonquin this summer, and I &amp;ldquo;stress&amp;rdquo;, i.e. grade, two components of field work during this course: a group science project, and an individual natural history project. So the distinction (and similarities) between qualitative and quantitative are on the forefront of mind. This if, of course, compounded by Ingrid who will bring the qualitative approach into the hypothetico-deductive, quantitative, bastion that Integrative Biology is, after years of being exposed to Tom Nudds&amp;rsquo;s beating the bush ;-)</description>
+    </item>
+    
+    <item>
+      <title>Thou shalt dream a great dream and tell a story</title>
+      <link>/post/thou-shalt-dream-a-great-dream-and-tell-a-story/</link>
+      <pubDate>Sat, 25 Jun 2011 13:47:00 +0000</pubDate>
+      
+      <guid>/post/thou-shalt-dream-a-great-dream-and-tell-a-story/</guid>
+      <description>It&amp;rsquo;s been a long time since I posted something about the &amp;ldquo;Cottenie Commandments&amp;rdquo;. Steve McCurry&amp;nbsp;regular posts a series of his portraits,&amp;nbsp;centered&amp;nbsp;around a theme. One of these themes is &amp;ldquo;Lost in Thought&amp;rdquo;&amp;nbsp;and pictures people hard at work by doing nothing.
+CanadaOften, by juxtapositioning the caption with the picture, he also tells a very intriguing story, with only one word. Very powerful.</description>
+    </item>
+    
+    <item>
+      <title>Natural history = basis of interest</title>
+      <link>/post/natural-history-basis-of-interest/</link>
+      <pubDate>Wed, 22 Jun 2011 13:27:00 +0000</pubDate>
+      
+      <guid>/post/natural-history-basis-of-interest/</guid>
+      <description>Last year, I wrote a couple of posts about the importance of natural history in science:
+http://www.cottenielab.org/2010/04/hypotheses-or-data-first.htmlhttp://www.cottenielab.org/2010/04/hypotheses-or-data-first-update.htmlhttp://www.cottenielab.org/2010/04/hypotheses-or-data-first-update-2.htmlI argued that natural history forms the basis of the scientific method, but I also acknowledged that the power of the scientific method came from the interaction between data and hypotheses, yadayada.&amp;nbsp;
+However, one important thing that I forgot to add in that discussion is that natural history does not only form the basis of the scientific method, but also the basis of our interest in science.</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first? Update 2</title>
+      <link>/post/hypotheses-or-data-first-update-2/</link>
+      <pubDate>Tue, 13 Apr 2010 15:13:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first-update-2/</guid>
+      <description>Since we seem to be on a roll on the what should come first in science, this Nature article actually presents a much better written and argued case in favour of combining the strengths of both approaches (maybe scientists should do what they are good at, science, and leave the writing to, journalists with a PhD?). Some of the costs for doing these genome studies: US$1 billion. How does that stack up to other funding, I have no idea, but this is a big number.</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first - Update</title>
+      <link>/post/hypotheses-or-data-first-update/</link>
+      <pubDate>Thu, 08 Apr 2010 12:48:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first-update/</guid>
+      <description>We discussed these two articles mentioned in a previous post in our Community Ecology class, and this is the summary of the very interesting discussion between the students, the TAs, and Tom and I:
+It is not one or the other (which is actually acknowledges by using the &amp;ldquo;first&amp;rdquo; in the title)The scientific method is cyclical and depends on data, hypotheses, predictions, increased information, or is cyclical as is illustrated by TomBut I added (which was not supported by the majority of the students, or Tom ;-) that the start of the scientific method is data, or the description of a natural phenomenonI also tried to argue that the &amp;ldquo;hypotheses first&amp;rdquo; in its extreme is related to religion, since religion is essentially a hypothesis (causal mechanism) without data to support it, but at this point I was way outside my zone of expertise</description>
+    </item>
+    
+    <item>
+      <title>Hypotheses or data first?</title>
+      <link>/post/hypotheses-or-data-first/</link>
+      <pubDate>Tue, 06 Apr 2010 11:45:00 +0000</pubDate>
+      
+      <guid>/post/hypotheses-or-data-first/</guid>
+      <description>The recent nature issue had an interesting point-counterpoint series of 2 articles as a reflection on 10 years of the human genome project. The first article argues that hypotheses should come first because little progress has been made in the last 10 years as a result of the abundance of data from these different genome projects. The second article argues the exact opposite, that this data-driven approach has resulted in a series of break-troughs that could not have been possible with a hypothesis-driven approach.</description>
+    </item>
+    
+  </channel>
+</rss>

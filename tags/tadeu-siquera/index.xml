@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadeu Siquera on Cottenie Lab</title>
+    <link>/tags/tadeu-siquera/</link>
+    <description>Recent content in Tadeu Siquera on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2011 11:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tadeu-siquera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation</title>
+      <link>/post/presentation/</link>
+      <pubDate>Wed, 03 Aug 2011 11:02:00 +0000</pubDate>
+      
+      <guid>/post/presentation/</guid>
+      <description>Since I started reading a lot of long-form articles on the internet, I have been exposed to a lot of great ideas, and great writing. The latest is an article by Steven Shapin in the London Review of Books, The Darwin Show. He synthesized 14 (fourteen!) books that appeared around the celebration of his 200th birthday in 2009. In it, he explores a lot of interesting themes, and one of the main ones revolves around why this is such a big deal.</description>
+    </item>
+    
+    <item>
+      <title>Common versus rare species in a metacommunity context</title>
+      <link>/post/common-versus-rare-species-in-a-metacommunity-context/</link>
+      <pubDate>Mon, 25 Jul 2011 11:01:00 +0000</pubDate>
+      
+      <guid>/post/common-versus-rare-species-in-a-metacommunity-context/</guid>
+      <description>It is finally online, the first publication from the Brazilian side of the lab ;-). In this article, we made competing predictions about how common and rare species should behave in a metacommunity context. The, very surprising, result was that both common and rare species reacted very similarly to environmental gradients, which was very counterintuitive from both a metacommunity and macro-ecology point of view.
+
+Another side effect of this study was our new definition for rareness, based on a slightly subjective but less arbitrary definition compared to other studies.</description>
+    </item>
+    
+  </channel>
+</rss>

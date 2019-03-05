@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>love on Cottenie Lab</title>
+    <link>/tags/love/</link>
+    <description>Recent content in love on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Dec 2010 09:13:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>the L word</title>
+      <link>/post/the-l-word/</link>
+      <pubDate>Sat, 04 Dec 2010 09:13:00 +0000</pubDate>
+      
+      <guid>/post/the-l-word/</guid>
+      <description>If I could meet any person, dead or alive, real or fiction, I think one of my top choices would be Steve Irwin. I&amp;rsquo;d want to meet him out in the bush, maybe in Australia, maybe help him re-locate a croc. Afterwards, we might talk about conservation and peace and wilderness. Or, more accurately, he&amp;rsquo;d talk, and I&amp;rsquo;d just nod vigorously in agreement while reveling in his radiance.
+Steve Irwin is famously known for his larger-than-life television series Crocodile Hunter.</description>
+    </item>
+    
+  </channel>
+</rss>

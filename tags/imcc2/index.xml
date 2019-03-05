@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMCC2 on Cottenie Lab</title>
+    <link>/tags/imcc2/</link>
+    <description>Recent content in IMCC2 on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2011 19:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/imcc2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making science matter</title>
+      <link>/post/making-science-matter/</link>
+      <pubDate>Thu, 30 Jun 2011 19:56:00 +0000</pubDate>
+      
+      <guid>/post/making-science-matter/</guid>
+      <description>Recently, I found myself eavesdropping on two elderly fellows debating an age-old question: does size matter? Yes! declared one. Small ones have never satisfied anyone. It needs to be big!You’ve got it all wrong,countered the other. Proper use of a small one can be just as good as having a big one. And what good is a big one if you don’t use it properly?/o:pIn a nearby lecture theatre the Costa-Rican Mermaid was preaching the power of long distance swimming to promote big ones.</description>
+    </item>
+    
+  </channel>
+</rss>

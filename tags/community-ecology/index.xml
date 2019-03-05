@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community ecology on Cottenie Lab</title>
+    <link>/tags/community-ecology/</link>
+    <description>Recent content in community ecology on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2012 12:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/community-ecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scientific debate...</title>
+      <link>/post/scientific-debate.../</link>
+      <pubDate>Fri, 10 Feb 2012 12:45:00 +0000</pubDate>
+      
+      <guid>/post/scientific-debate.../</guid>
+      <description>&amp;hellip; rests on actually reading and understanding each other&amp;rsquo;s words.
+This is a difficult exercise, and not only for students. Tom Nudds and I just covered in community ecology the rationale for protected areas planning based not only on representativeness (making sure that all species are protected), but more importantly also on persistence (see his article in Biodiversity and Conservation for a summary of their ideas). If the target areas have all the species you want to conserve, but lack essential components that would ensure their actual persistence through time, representativeness means nothing.</description>
+    </item>
+    
+    <item>
+      <title>Science and uncertainty</title>
+      <link>/post/science-and-uncertainty/</link>
+      <pubDate>Tue, 10 Jan 2012 14:43:00 +0000</pubDate>
+      
+      <guid>/post/science-and-uncertainty/</guid>
+      <description>I just started teaching Community Ecology with Tom Nudds again, and one of the main themes of this course is exposing students to the importance of uncertainty in science (or Science, if you want). Today anotherinsightful article by John Timmer in Ars Technica appeared, and provides a real-life example of this&amp;nbsp;uncertainty.
+It tells the story of Peter Duesburg, a scientist with an impressive academic history:
+&amp;ldquo;He did pioneering work in the characterization of retroviruses (viruses that are transmitted using RNA as a genetic material, but then copied into DNA and inserted into their hosts&amp;rsquo; genome), helping to show that they could pick up genes from their host that enabled them to induce cancer.</description>
+    </item>
+    
+  </channel>
+</rss>

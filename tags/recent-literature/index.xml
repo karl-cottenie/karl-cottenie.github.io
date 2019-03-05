@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recent literature on Cottenie Lab</title>
+    <link>/tags/recent-literature/</link>
+    <description>Recent content in recent literature on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Oct 2010 22:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/recent-literature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How much for that polar bear?</title>
+      <link>/post/how-much-for-that-polar-bear/</link>
+      <pubDate>Sun, 24 Oct 2010 22:03:00 +0000</pubDate>
+      
+      <guid>/post/how-much-for-that-polar-bear/</guid>
+      <description>&amp;ldquo;The federal government wants to put a price tag on polar bears,&amp;rdquo; begins this recent Globe and Mail article. It goes on to explain that Environment Canada wants to determine the socio-economic value of the iconic arctic species. This includes things like the bear&amp;rsquo;s consumptive value, cultural value, scientific value, educational value, aesthetic value, existence value, and so on. How much does each &amp;ldquo;additional unit of polar bear&amp;rdquo; or each &amp;ldquo;additional hectare of habitat&amp;rdquo; bring to the nation?</description>
+    </item>
+    
+    <item>
+      <title>Scaling up</title>
+      <link>/post/scaling-up/</link>
+      <pubDate>Wed, 15 Sep 2010 16:15:00 +0000</pubDate>
+      
+      <guid>/post/scaling-up/</guid>
+      <description>In our lab, we focus mainly on metacommunity dynamics, or how the interactions between dispersal and local environmental processes influence communities in the landscape. Since we are interested in communities in the landscape, we automatically deal with the issue of &amp;ldquo;scale&amp;rdquo;. This is one of those very diffuse concepts in ecology, with as many definitions as scientists (temporal, spatial, conceptual, grain, &amp;hellip;).
+This&amp;nbsp;recent article by Spivak et al. in Freshwater Biology&amp;nbsp;tackles a problem experimentally that is not often studied in ecology: how applicable are the results of small-scale experiments for empirical (and by default large-scale) systems?</description>
+    </item>
+    
+    <item>
+      <title>A metacommuntiy or a self-organized system?</title>
+      <link>/post/a-metacommuntiy-or-a-self-organized-system/</link>
+      <pubDate>Thu, 22 Jul 2010 10:54:00 +0000</pubDate>
+      
+      <guid>/post/a-metacommuntiy-or-a-self-organized-system/</guid>
+      <description>It is always interesting to read how scientists read, understand, and interpret articles in very different way. You can encounter this most often for your own results when you&amp;nbsp;present at a conference or seminar, and you get questions that throw you in a hoop, and&amp;nbsp;track the articles that refer to one of your publications (admit it, you do it too): often the first response is &#34;how could they interpret my text/data/interpretation in that context?</description>
+    </item>
+    
+  </channel>
+</rss>

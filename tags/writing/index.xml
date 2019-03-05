@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Cottenie Lab</title>
+    <link>/tags/writing/</link>
+    <description>Recent content in writing on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2010 09:54:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A remedy for inaccessible science?</title>
+      <link>/post/a-remedy-for-inaccessible-science/</link>
+      <pubDate>Tue, 02 Nov 2010 09:54:00 +0000</pubDate>
+      
+      <guid>/post/a-remedy-for-inaccessible-science/</guid>
+      <description>One of the most common complaints about the world of science is it&amp;rsquo;s inaccessibility to the everyday person. Carl Zimmer has put together an &amp;ldquo;Index of Banned Words&amp;rdquo;. Words that should be vanquished from the vocabulary of scientists everywhere. The list includes the taboos &amp;ldquo;elucidate&amp;rdquo;, &amp;ldquo;predation&amp;rdquo;, &amp;ldquo;mechanism&amp;rdquo;, and (gasp!) &amp;ldquo;community ecology&amp;rdquo;.
+Reading through the list has made me realize how incredibly predictable my choice of words has become when writing in my science courses.</description>
+    </item>
+    
+  </channel>
+</rss>

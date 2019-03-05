@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl Cottenie on Cottenie Lab</title>
+    <link>/tags/karl-cottenie/</link>
+    <description>Recent content in Karl Cottenie on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2011 13:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/karl-cottenie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Scholar profile</title>
+      <link>/post/google-scholar-profile/</link>
+      <pubDate>Wed, 03 Aug 2011 13:55:00 +0000</pubDate>
+      
+      <guid>/post/google-scholar-profile/</guid>
+      <description>Nature has a news article on 2 free alternatives to Web of Science, including your personal citation library. Another example of serendipity, because I created one a couple of days before the nature publication, and planned to wanted to dedicate a short blog to it, i.e., this one.&amp;nbsp;
+You can access mine here:&amp;nbsp;http://scholar.google.com/citations?user=lL7RlhMAAAAJ. Below is a 2011 snapshot picture:For reference, here is screen capture of the &amp;ldquo;official&amp;rdquo; Web of Science summary:Very similar, if you ask me, although the Google Scholar obviously includes more items.</description>
+    </item>
+    
+  </channel>
+</rss>

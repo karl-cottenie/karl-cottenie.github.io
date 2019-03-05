@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>serendipity on Cottenie Lab</title>
+    <link>/tags/serendipity/</link>
+    <description>Recent content in serendipity on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2011 15:12:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/serendipity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The scientific method and our health</title>
+      <link>/post/the-scientific-method-and-our-health/</link>
+      <pubDate>Mon, 06 Jun 2011 15:12:00 +0000</pubDate>
+      
+      <guid>/post/the-scientific-method-and-our-health/</guid>
+      <description>There are several ways to define &amp;ldquo;science&amp;rdquo;, but here is very basic one byEdzard Ernst, the first professor in &amp;nbsp;Alternative Medicine, in an interview in Science:
+&amp;ldquo;I was also convinced that scientists need to be critical and sceptical, and that if you apply science to any field you don&amp;rsquo;t want to prove that your ideas are correct, you want to test whether they are correct.&amp;rdquo;While I probably have to check his own summary of his scientific legacy (&amp;rdquo;I found that homeopathy is pretty useless.</description>
+    </item>
+    
+  </channel>
+</rss>
