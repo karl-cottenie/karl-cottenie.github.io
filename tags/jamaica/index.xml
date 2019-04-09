@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamaica on Cottenie Lab</title>
+    <link>/tags/jamaica/</link>
+    <description>Recent content in Jamaica on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/jamaica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contrasts between habitat generalists and specialists: an empirical extension to the basic metacommunity framework</title>
+      <link>/publication/pandit-2009-e/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/pandit-2009-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

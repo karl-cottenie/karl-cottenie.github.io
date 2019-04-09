@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aquatic insects on Cottenie Lab</title>
+    <link>/tags/aquatic-insects/</link>
+    <description>Recent content in aquatic insects on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/aquatic-insects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distinctive macroinvertebrate communities in a subtropical river network</title>
+      <link>/publication/zawalski-2019-jfe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/zawalski-2019-jfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

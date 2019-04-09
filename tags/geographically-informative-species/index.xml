@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geographically informative species on Cottenie Lab</title>
+    <link>/tags/geographically-informative-species/</link>
+    <description>Recent content in geographically informative species on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2006 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/geographically-informative-species/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Evolutionary Algorithm for the Selection of Geographically Informative Species</title>
+      <link>/publication/ashlock-20062-iscibcb/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/ashlock-20062-iscibcb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>species sorting on Cottenie Lab</title>
+    <link>/tags/species-sorting/</link>
+    <description>Recent content in species sorting on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/species-sorting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental and spatial controls of biotic assemblages in a discrete semi-terrestrial habitat: comparison of organisms with different dispersal abilities sampled in the same plots</title>
+      <link>/publication/hajek-2011-jb/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/hajek-2011-jb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasts between habitat generalists and specialists: an empirical extension to the basic metacommunity framework</title>
+      <link>/publication/pandit-2009-e/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/pandit-2009-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relative importance of dispersal and local processes in structuring phytoplankton communities in a set of highly interconnected ponds</title>
+      <link>/publication/vanormelingen-2008-fb/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/vanormelingen-2008-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating environmental and spatial processes in ecological community dynamics</title>
+      <link>/publication/cottenie-2005-el/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/cottenie-2005-el/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

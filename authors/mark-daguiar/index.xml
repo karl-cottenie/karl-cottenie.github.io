@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark D&#39;Aguiar on Cottenie Lab</title>
+    <link>/authors/mark-daguiar/</link>
+    <description>Recent content in Mark D&#39;Aguiar on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2011 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/mark-daguiar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patterns of tree diversity in response to logging in Algonquin Provincial Park</title>
+      <link>/publication/jones-20111/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/jones-20111/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

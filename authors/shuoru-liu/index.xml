@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuoru Liu on Cottenie Lab</title>
+    <link>/authors/shuoru-liu/</link>
+    <description>Recent content in Shuoru Liu on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/shuoru-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Different roles of environmental variables and spatial factors in structuring stream benthic diatom and macroinvertebrate in Yangtze River Delta, China</title>
+      <link>/publication/liu-2016-ei/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/liu-2016-ei/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

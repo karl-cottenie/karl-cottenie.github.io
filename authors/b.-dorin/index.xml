@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Dorin on Cottenie Lab</title>
+    <link>/authors/b.-dorin/</link>
+    <description>Recent content in B. Dorin on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/b.-dorin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The effects of bark quality on corticolous lichen community composition in urban parks of southern Ontario</title>
+      <link>/publication/mcdonald-2017-b/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mcdonald-2017-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

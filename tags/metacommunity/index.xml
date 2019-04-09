@@ -6,10 +6,19 @@
     <description>Recent content in metacommunity on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jan 2013 06:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/metacommunity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distinctive macroinvertebrate communities in a subtropical river network</title>
+      <link>/publication/zawalski-2019-jfe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/zawalski-2019-jfe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Synchrony in metacommunities</title>
@@ -30,6 +39,15 @@ the synchrony between populations of a specialist species&amp;nbsp;within a meta
       
       <guid>/post/variation-decomposition-is-a-zombie-idea/</guid>
       <description>Another post as a response to something written by Jeremy Fox! I think it becomes time that I meet him in person so that I can address him by “Jeremy” instead of “Dr. Fox”, “Fox”, or “the author”. I tried to remove all the salesmanship from my response, though, because I wanted to make sure that 1) I summarized his blog post correctly, and 2) expressed my thoughts as clearly as possible.</description>
+    </item>
+    
+    <item>
+      <title>Distribution of unionid freshwater mussels depends on the distribution of host fishes on a regional scale</title>
+      <link>/publication/schwalb-2013-dd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/schwalb-2013-dd/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -82,12 +100,66 @@ Another side effect of this study was our new definition for rareness, based on 
     </item>
     
     <item>
+      <title>Dispersal limitation of unionid mussels and implications for their conservation</title>
+      <link>/publication/schwalb-2011-fb/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/schwalb-2011-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental and spatial controls of biotic assemblages in a discrete semi-terrestrial habitat: comparison of organisms with different dispersal abilities sampled in the same plots</title>
+      <link>/publication/hajek-2011-jb/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/hajek-2011-jb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A metacommuntiy or a self-organized system?</title>
       <link>/post/a-metacommuntiy-or-a-self-organized-system/</link>
       <pubDate>Thu, 22 Jul 2010 10:54:00 +0000</pubDate>
       
       <guid>/post/a-metacommuntiy-or-a-self-organized-system/</guid>
       <description>It is always interesting to read how scientists read, understand, and interpret articles in very different way. You can encounter this most often for your own results when you&amp;nbsp;present at a conference or seminar, and you get questions that throw you in a hoop, and&amp;nbsp;track the articles that refer to one of your publications (admit it, you do it too): often the first response is &#34;how could they interpret my text/data/interpretation in that context?</description>
+    </item>
+    
+    <item>
+      <title>The relative importance of dispersal and local processes in structuring phytoplankton communities in a set of highly interconnected ponds</title>
+      <link>/publication/vanormelingen-2008-fb/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/vanormelingen-2008-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metacommunity Structure: Synergy of Biotic Interactions as Selective Agents and Dispersal as Fuel</title>
+      <link>/publication/cottenie-2004-e/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/cottenie-2004-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity and cladoceran species richness in a metacommunity of shallow lakes</title>
+      <link>/publication/cottenie-2003-fb/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/cottenie-2003-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zooplankton Metacommunity Structure: Regional Vs. Local Processes in Highly Interconnected Ponds</title>
+      <link>/publication/cottenie-2003-e/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/cottenie-2003-e/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott A. Hatch on Cottenie Lab</title>
+    <link>/authors/scott-a.-hatch/</link>
+    <description>Recent content in Scott A. Hatch on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/scott-a.-hatch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Individual foraging location, but not dietary, specialization: implications for rhinoceros auklets as samplers of forage fish</title>
+      <link>/publication/cunningham-2018-meps/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/cunningham-2018-meps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

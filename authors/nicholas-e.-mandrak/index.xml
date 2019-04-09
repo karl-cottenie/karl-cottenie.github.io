@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas E. Mandrak on Cottenie Lab</title>
+    <link>/authors/nicholas-e.-mandrak/</link>
+    <description>Recent content in Nicholas E. Mandrak on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/nicholas-e.-mandrak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fish assemblages in agricultural drains are resilient to habitat change caused by drain maintenance</title>
+      <link>/publication/ward-campbell-2017-cjfas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/ward-campbell-2017-cjfas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of unionid freshwater mussels depends on the distribution of host fishes on a regional scale</title>
+      <link>/publication/schwalb-2013-dd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/schwalb-2013-dd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

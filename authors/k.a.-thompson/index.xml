@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K.A. Thompson on Cottenie Lab</title>
+    <link>/authors/k.a.-thompson/</link>
+    <description>Recent content in K.A. Thompson on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/k.a.-thompson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mucilage reduces leaf herbivory in Schreber’s watershield, Brasenia schreberi J.F. Gmel. (Cabombaceae)</title>
+      <link>/publication/thompson-2014-b/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/thompson-2014-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

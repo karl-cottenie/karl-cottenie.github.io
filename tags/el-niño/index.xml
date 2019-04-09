@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Niño on Cottenie Lab</title>
+    <link>/tags/el-ni%C3%B1o/</link>
+    <description>Recent content in El Niño on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/el-ni%C3%B1o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Little evidence for climate effects on local-scale structure and dynamics of California kelp forest communities</title>
+      <link>/publication/halpern-2007-gcb/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/halpern-2007-gcb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

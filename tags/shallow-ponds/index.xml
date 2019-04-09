@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shallow ponds on Cottenie Lab</title>
+    <link>/tags/shallow-ponds/</link>
+    <description>Recent content in shallow ponds on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2001 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/shallow-ponds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zooplankton community structure and environmental conditions in a set of interconnected ponds</title>
+      <link>/publication/cottenie-2001-h/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/cottenie-2001-h/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
