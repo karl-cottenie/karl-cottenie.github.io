@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grad students on Cottenie Lab</title>
+    <link>/authors/grad-students/</link>
+    <description>Recent content in Grad students on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/grad-students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/jenny-gleason/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/jenny-gleason/</guid>
+      <description>I am PhD student in the Integrative Biology department co-supervised by Karl Cottenie and Bob Hanner. My two major research interests are community ecology and aquatic entomology, with a focus on impacted ecosystems and bioindicator taxa. I am currently exploring the influence of farming intensity on aquatic insect communities in riverine systems and developing protocols to use environmental DNA (eDNA) for both bioassessments and community analyses. Prior to starting my PhD, I completed a BSc in Biology (Zoology major) at the University of Guelph in 2012.</description>
+    </item>
+    
+  </channel>
+</rss>
