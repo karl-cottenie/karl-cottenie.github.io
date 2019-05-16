@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joshua-cunningham on Cottenie Lab</title>
+    <link>/authors/joshua-cunningham/</link>
+    <description>Recent content in joshua-cunningham on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/joshua-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/joshua-cunningham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/joshua-cunningham/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

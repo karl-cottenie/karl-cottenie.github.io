@@ -1812,6 +1812,13 @@
     
     <url>
     
+      <loc>/author/thiago-goncalvessouza/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -1819,7 +1826,112 @@
     
     <url>
     
+      <loc>/author/amanda-winegardner/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/anna-solecki/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/brent-saylor/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/brittany-jones/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/carolyn-trombley/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/danielle-petsch/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/gillian-martin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/ingrid-ng/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/jenny-gleason/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/joshua-cunningham/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/laura-lanteigne/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/marieeugenie-maggia/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/simon-denommebrown/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/tadeu-siqueira/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/trevor-bringloe/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/xin-wei/</loc>
     </url>
     
   
@@ -4583,6 +4695,14 @@
     
     <url>
     
+      <loc>/authors/thiago-goncalvessouza/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/thomas-r.-binder/</loc>
       <lastmod>2012-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -4771,6 +4891,22 @@
     
     <url>
     
+      <loc>/authors/amanda-winegardner/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anna-solecki/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/aquatic-insects/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -4863,6 +4999,30 @@
     
       <loc>/tags/biosphere-reserves/</loc>
       <lastmod>2006-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/brent-saylor/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/brittany-jones/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/carolyn-trombley/</loc>
       <priority>0</priority>
     </url>
     
@@ -5025,6 +5185,14 @@
     
       <loc>/tags/cross-validation/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/danielle-petsch/</loc>
       <priority>0</priority>
     </url>
     
@@ -5356,6 +5524,14 @@
     
     <url>
     
+      <loc>/authors/gillian-martin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/grad-school/</loc>
       <lastmod>2018-05-10T14:07:00+00:00</lastmod>
       <priority>0</priority>
@@ -5437,6 +5613,14 @@
     
     <url>
     
+      <loc>/authors/ingrid-ng/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/insects/</loc>
       <lastmod>2015-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5481,6 +5665,14 @@
     
     <url>
     
+      <loc>/authors/joshua-cunningham/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/kelp-forests/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5501,6 +5693,14 @@
     
       <loc>/tags/latitude/</loc>
       <lastmod>2015-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/laura-lanteigne/</loc>
       <priority>0</priority>
     </url>
     
@@ -5591,6 +5791,14 @@
     
       <loc>/authors/marie-th%C3%A9r%C3%A8se-rush/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/marieeugenie-maggia/</loc>
       <priority>0</priority>
     </url>
     
@@ -6120,6 +6328,14 @@
     
     <url>
     
+      <loc>/authors/simon-denommebrown/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/single-multidimensional-hill/</loc>
       <lastmod>2006-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -6246,6 +6462,14 @@
     
     <url>
     
+      <loc>/authors/tadeu-siqueira/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/teaching-and-learning/</loc>
       <lastmod>2017-05-03T09:27:00+00:00</lastmod>
       <priority>0</priority>
@@ -6293,6 +6517,14 @@
     
       <loc>/tags/transposon-ecology/</loc>
       <lastmod>2015-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/trevor-bringloe/</loc>
       <priority>0</priority>
     </url>
     
@@ -6392,6 +6624,14 @@
     
       <loc>/tags/writing/</loc>
       <lastmod>2010-11-02T09:54:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xin-wei/</loc>
       <priority>0</priority>
     </url>
     

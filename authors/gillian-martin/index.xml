@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gillian-martin on Cottenie Lab</title>
+    <link>/authors/gillian-martin/</link>
+    <description>Recent content in gillian-martin on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/gillian-martin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/gillian-martin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/gillian-martin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

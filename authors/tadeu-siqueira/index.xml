@@ -1,49 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tadeu Siqueira on Cottenie Lab</title>
+    <title>tadeu-siqueira on Cottenie Lab</title>
     <link>/authors/tadeu-siqueira/</link>
-    <description>Recent content in Tadeu Siqueira on Cottenie Lab</description>
+    <description>Recent content in tadeu-siqueira on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/authors/tadeu-siqueira/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A comparative analysis reveals weak relationships between ecological factors and beta diversity of stream insect metacommunities at two spatial levels</title>
-      <link>/publication/heino-2015-ee/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <title></title>
+      <link>/author/tadeu-siqueira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/heino-2015-ee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Metacommunity Framework for Enhancing the Effectiveness of Biological Monitoring Strategies</title>
-      <link>/publication/siqueira-2012-po/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/siqueira-2012-po/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The terminology of metacommunity ecology</title>
-      <link>/publication/winegardner-2012-tiee/</link>
-      <pubDate>Tue, 01 May 2012 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/winegardner-2012-tiee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Common and rare species respond to similar niche processes in macroinvertebrate metacommunities</title>
-      <link>/publication/siqueira-2012-e/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/siqueira-2012-e/</guid>
+      <guid>/author/tadeu-siqueira/</guid>
       <description></description>
     </item>
     
