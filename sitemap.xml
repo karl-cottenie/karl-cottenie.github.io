@@ -1875,6 +1875,13 @@
     
     <url>
     
+      <loc>/author/ian-thompson/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/ingrid-ng/</loc>
     </url>
     
@@ -1890,6 +1897,13 @@
     <url>
     
       <loc>/author/joshua-cunningham/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/karuna-vijayakumar/</loc>
     </url>
     
   
@@ -2333,8 +2347,8 @@
     
     <url>
     
-      <loc>/authors/brent-saylor/</loc>
-      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <loc>/tags/brent-saylor/</loc>
+      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2342,8 +2356,8 @@
     
     <url>
     
-      <loc>/tags/brent-saylor/</loc>
-      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
+      <loc>/authors/brent-saylor/</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2360,8 +2374,8 @@
     
     <url>
     
-      <loc>/authors/brittany-jones/</loc>
-      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
+      <loc>/tags/brittany-jones/</loc>
+      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2369,8 +2383,8 @@
     
     <url>
     
-      <loc>/tags/brittany-jones/</loc>
-      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
+      <loc>/authors/brittany-jones/</loc>
+      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3493,8 +3507,8 @@
     
     <url>
     
-      <loc>/authors/karl-cottenie/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <loc>/tags/karl-cottenie/</loc>
+      <lastmod>2011-08-03T13:55:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3502,8 +3516,8 @@
     
     <url>
     
-      <loc>/tags/karl-cottenie/</loc>
-      <lastmod>2011-08-03T13:55:00+00:00</lastmod>
+      <loc>/authors/karl-cottenie/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5613,6 +5627,14 @@
     
     <url>
     
+      <loc>/authors/ian-thompson/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/ingrid-ng/</loc>
       <priority>0</priority>
     </url>
@@ -5666,6 +5688,14 @@
     <url>
     
       <loc>/authors/joshua-cunningham/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/karuna-vijayakumar/</loc>
       <priority>0</priority>
     </url>
     
