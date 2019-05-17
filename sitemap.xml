@@ -1812,13 +1812,6 @@
     
     <url>
     
-      <loc>/author/thiago-goncalvessouza/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/author/admin/</loc>
     </url>
     
@@ -1834,6 +1827,13 @@
     <url>
     
       <loc>/author/anna-solecki/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/awesome-kemp/</loc>
     </url>
     
   
@@ -1939,6 +1939,13 @@
     <url>
     
       <loc>/author/tadeu-siqueira/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/thiago-goncalvessouza1/</loc>
     </url>
     
   
@@ -4716,14 +4723,6 @@
     
     <url>
     
-      <loc>/authors/thiago-goncalvessouza/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/thomas-r.-binder/</loc>
       <lastmod>2012-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -4948,6 +4947,14 @@
     
       <loc>/tags/awards/</loc>
       <lastmod>2011-08-06T11:04:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/awesome-kemp/</loc>
       <priority>0</priority>
     </url>
     
@@ -6535,6 +6542,14 @@
     
       <loc>/tags/theatre/</loc>
       <lastmod>2010-08-19T19:29:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thiago-goncalvessouza1/</loc>
       <priority>0</priority>
     </url>
     
