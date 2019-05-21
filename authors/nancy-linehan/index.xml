@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nancy-linehan on Cottenie Lab</title>
+    <link>/authors/nancy-linehan/</link>
+    <description>Recent content in nancy-linehan on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/nancy-linehan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/nancy-linehan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/nancy-linehan/</guid>
+      <description>Project title: Effect of future atmospheric carbon dioxide levels on ocean chemistry and Scleractinian calcification rate</description>
+    </item>
+    
+  </channel>
+</rss>

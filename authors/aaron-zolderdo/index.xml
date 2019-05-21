@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aaron-zolderdo on Cottenie Lab</title>
+    <link>/authors/aaron-zolderdo/</link>
+    <description>Recent content in aaron-zolderdo on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/aaron-zolderdo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/aaron-zolderdo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/aaron-zolderdo/</guid>
+      <description>Project title: Variation in upland habitat differentially affects wetland Anurans in Algonquin Provincial Park: implications for timber harvest.</description>
+    </item>
+    
+  </channel>
+</rss>

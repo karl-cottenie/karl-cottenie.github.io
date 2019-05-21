@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lucija-prelovec on Cottenie Lab</title>
+    <link>/authors/lucija-prelovec/</link>
+    <description>Recent content in lucija-prelovec on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/lucija-prelovec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/lucius-prelovec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/lucius-prelovec/</guid>
+      <description>Project title: A test for trade offs and dispersal limitation in a subarctic zooplankton metacommunity</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1812,6 +1812,20 @@
     
     <url>
     
+      <loc>/author/aaron-zolderdo/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/adam-marinelli/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -1826,7 +1840,21 @@
     
     <url>
     
+      <loc>/author/andrea-allen/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/anna-solecki/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/ariel-porty/</loc>
     </url>
     
   
@@ -1854,6 +1882,13 @@
     
     <url>
     
+      <loc>/author/carolyn-gibson/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/carolyn-trombley/</loc>
     </url>
     
@@ -1861,7 +1896,28 @@
     
     <url>
     
+      <loc>/author/danielle-ahrens/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/danielle-petsch/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/deniz-ergun/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/genevieve-pintel/</loc>
     </url>
     
   
@@ -1903,6 +1959,13 @@
     
     <url>
     
+      <loc>/author/julia-sunga/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/kaitlyn-ranft/</loc>
     </url>
     
@@ -1917,6 +1980,27 @@
     
     <url>
     
+      <loc>/author/katy-jay/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/krystal-gorringe/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/kyle-gillespie/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/laura-lanteigne/</loc>
     </url>
     
@@ -1924,7 +2008,56 @@
     
     <url>
     
+      <loc>/author/lisa-vollbrecht/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/lucius-prelovec/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/marieeugenie-maggia/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/nancy-linehan/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/randell-macdonald/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/ranny-baghat/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/rein-ipsen/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/sachico-scott/</loc>
     </url>
     
   
@@ -4867,8 +5000,24 @@
     
     <url>
     
+      <loc>/authors/aaron-zolderdo/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/activism/</loc>
       <lastmod>2010-12-04T09:13:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-marinelli/</loc>
       <priority>0</priority>
     </url>
     
@@ -4919,6 +5068,14 @@
     
     <url>
     
+      <loc>/authors/andrea-allen/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/anna-solecki/</loc>
       <priority>0</priority>
     </url>
@@ -4938,6 +5095,14 @@
     
       <loc>/tags/arbuscular-mycorrhizal-fungi/</loc>
       <lastmod>2009-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ariel-porty/</loc>
       <priority>0</priority>
     </url>
     
@@ -5043,6 +5208,14 @@
     <url>
     
       <loc>/authors/brittany-jones/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/carolyn-gibson/</loc>
       <priority>0</priority>
     </url>
     
@@ -5220,6 +5393,14 @@
     
     <url>
     
+      <loc>/authors/danielle-ahrens/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/danielle-petsch/</loc>
       <priority>0</priority>
     </url>
@@ -5230,6 +5411,14 @@
     
       <loc>/tags/decolonization/</loc>
       <lastmod>2011-08-05T16:22:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/deniz-ergun/</loc>
       <priority>0</priority>
     </url>
     
@@ -5498,6 +5687,14 @@
     
     <url>
     
+      <loc>/authors/genevieve-pintel/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/genome-ecology/</loc>
       <lastmod>2015-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5709,6 +5906,14 @@
     
     <url>
     
+      <loc>/authors/julia-sunga/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/kaitlyn-ranft/</loc>
       <priority>0</priority>
     </url>
@@ -5725,8 +5930,32 @@
     
     <url>
     
+      <loc>/authors/katy-jay/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/kelp-forests/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/krystal-gorringe/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kyle-gillespie/</loc>
       <priority>0</priority>
     </url>
     
@@ -5778,6 +6007,14 @@
     
     <url>
     
+      <loc>/authors/lisa-vollbrecht/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/local-vs.-regional-factors/</loc>
       <lastmod>2003-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5807,6 +6044,14 @@
     
       <loc>/tags/love/</loc>
       <lastmod>2010-12-04T09:13:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lucius-prelovec/</loc>
       <priority>0</priority>
     </url>
     
@@ -6040,6 +6285,14 @@
     
       <loc>/tags/mycorrhizal-identity/</loc>
       <lastmod>2009-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nancy-linehan/</loc>
       <priority>0</priority>
     </url>
     
@@ -6281,6 +6534,22 @@
     
     <url>
     
+      <loc>/authors/randell-macdonald/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ranny-baghat/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/re-imagining-ecology/</loc>
       <lastmod>2010-12-04T09:13:00+00:00</lastmod>
       <priority>0</priority>
@@ -6317,6 +6586,14 @@
     
     <url>
     
+      <loc>/authors/rein-ipsen/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/restoration/</loc>
       <lastmod>2017-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -6328,6 +6605,14 @@
     
       <loc>/tags/root-architecture/</loc>
       <lastmod>2009-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sachico-scott/</loc>
       <priority>0</priority>
     </url>
     
