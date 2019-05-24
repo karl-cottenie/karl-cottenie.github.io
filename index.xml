@@ -6,8 +6,28 @@
     <description>Recent content in Cottenie Lab on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 15:07:50 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to expect with me as a collaborator or advisor</title>
+      <link>/projects/what-to-expect-from-me/</link>
+      <pubDate>Fri, 24 May 2019 15:07:50 -0400</pubDate>
+      
+      <guid>/projects/what-to-expect-from-me/</guid>
+      <description>&lt;p&gt;After several years of making mistakes and being lucky because I had awesome graduate and undergraduate students, and patient collaborators, I realized that being explicit about expectations (or learning outcomes in an educational context) actually greatly reduces stress and increases accountability. This accountability is for both from myself to collaborators/students, as from collaborators/students to me. I have consequently spent some time scouring the internet in search of starting points for these types of documents, and then I have added my own personal twists to them. Below is the outcome of that process. These documents are living documents, and will be updated as new issues arise of feedback is provided. Hopefully they will also help you in making your choice whether and how to collaborate with me as a researcher, a graduate or undergraduate student.&lt;/p&gt;
+
+&lt;p&gt;What to expect with me as &amp;hellip;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/18uh49DjscSR5AYEPIfhV6Dcd-I0EQi4bn5yJ_xYMwHo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;a PhD/MSc graduate advisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/14K-tY8QBYawwjzTMLbOnOSoHCxdawkuHAJmMQuF-AT4/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;a MBinf advisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/150tgTLFDAKToVCDBJVJ0yjKHa_sSY8hhRomh1eXbEIs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;an undergraduate thesis advisor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1vfA5XCzYt8hLfUvP-a4Jw58ihyQJbq0eESMvS7BbXio/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;an Advisory Committee member&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1_Bb9v9mnLwzXhxm_ogxu8p9TIBEgcUcZD0ciGmRcecw/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;a collaborator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Perception of Biology Instructors on Using Student Evaluations to Inform Their Teaching</title>
@@ -140,16 +160,6 @@
       
       <guid>/publication/sunga-2017-cjz/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Problem in R: how to create a .Rprofile that does not hide important information ...</title>
-      <link>/post/problem-in-r-how-to-create-a-.rprofile-that-does-not-hide-important-information-.../</link>
-      <pubDate>Tue, 13 Jun 2017 15:44:00 +0000</pubDate>
-      
-      <guid>/post/problem-in-r-how-to-create-a-.rprofile-that-does-not-hide-important-information-.../</guid>
-      <description>&lt;p&gt;&amp;hellip; but still is specific to each R script file. For instance, a lot of R users in our group load their packages at the top of their R scripts. Often, these packages are the same, but sometimes they add a different one for a specific type of analysis. I use the tidyverse all the time, and in some analyses vegan. A school of thought would be to automatically add these package to the start up using a .Rprofile file. Others would argue that this makes the code less reproducible, since some essential pieces of information are hidden from the R script file. &lt;br /&gt;&lt;br /&gt;But what if you could have both? All the boilerplate stuff such as loading packages at the top of each R script file, but execute them automatically when you open that script file? I think I have found a solution to that mythical beast. I googled for it, but could not find anything similar, so that is why I provide my code here. Hopefully somebody else will find this useful, or point me to other, more elegant, solutions that I can incorporate in my own code.&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;How to create a generic but specific profile file that reads the beginning of each R file &amp;nbsp;&lt;/h2&gt;Copy this profile file either in your home directory or in each working directory. A quick google on .Rprofile and your OS will help you out for the advantages/disadvantages of these two approaches. However, I created this profile file to ensure that it will read all your script files within a folder, and execute them until it finds the line &amp;ldquo;# Startup ends here&amp;rdquo;. &lt;br /&gt;&lt;br /&gt;I assume that this will be mainly for loading libraries, so I specified the script to only read the first 30 lines, but you can increase/decrease this for your coding practices. I also made it recursive, so it will read all the script files within the folder structure, but you can change this too. &lt;br /&gt;&lt;br /&gt;And I have also added some encouragement, that has the secondary objective that you can see if the .Rprofile code worked correctly. &lt;br /&gt;&lt;br /&gt;You can find the code here on github:&lt;a href=&#34;https://github.com/karl-cottenie/kc-.Rprofile&#34; target=&#34;_blank&#34;&gt;&amp;nbsp;&lt;a href=&#34;https://github.com/karl-cottenie/kc-.Rprofile&#34; target=&#34;_blank&#34;&gt;https://github.com/karl-cottenie/kc-.Rprofile&lt;/a&gt;&lt;/a&gt;&lt;br /&gt;&lt;h2&gt;Snippet usage &amp;nbsp;&lt;/h2&gt;This works nicely with the new snippet I created. In RStudio &amp;gt; Preferences &amp;gt; code &amp;gt; Edit Snippets&amp;hellip; copy the lines below, and save the updated snippets file. &lt;br /&gt;&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;snippet stup &lt;br /&gt;############################## &lt;br /&gt;## ${1:title}&lt;br /&gt;&amp;nbsp;## &lt;br /&gt;## Karl Cottenie &lt;br /&gt;## &lt;br /&gt;&lt;code&gt;r paste(&amp;quot;##&amp;quot;, Sys.Date())&lt;/code&gt; &lt;br /&gt;## &lt;br /&gt;############################## &amp;nbsp; &lt;br /&gt;library(${2:package}) &lt;br /&gt;# Add as much code here that you want to execute each time your script file is loaded. &amp;nbsp; &lt;br /&gt;# Startup ends here&amp;nbsp;&lt;/blockquote&gt;&lt;br /&gt;Now if you type &amp;ldquo;stup&amp;rdquo; at the beginning of a file, it will paste the above code, you can add the title of your script file, and when you press your tab key the cursor will jump to the library command, and you can for instance add tidyverse, or ggplot, or whatever you normally use. The snippet will automatically add the date, of course you can/should change the author :-) &lt;br /&gt;&lt;br /&gt;&lt;h2&gt;Problems with my code, other options? &amp;nbsp;&lt;/h2&gt;Just let me know, because there are probably edge cases I did not think about, and more elegant solutions that I will not find on my own.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

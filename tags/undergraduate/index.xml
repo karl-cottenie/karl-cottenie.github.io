@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>undergraduate on Cottenie Lab</title>
+    <link>/tags/undergraduate/</link>
+    <description>Recent content in undergraduate on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What to expect from me</title>
+      <link>/projects/what-to-expect-from-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/what-to-expect-from-me/</guid>
+      <description>After several years of making mistakes and being lucky because I had awesome graduate and undergraduate students, and patient collaborators, I realized that being explicit about expectations (or learning outcomes in an educational context) actually greatly reduces stress and increases accountability. I have consequently spent some time scouring the internet in search of starting points for these types of documents, and then I have added my own personal twists to them.</description>
+    </item>
+    
+  </channel>
+</rss>
