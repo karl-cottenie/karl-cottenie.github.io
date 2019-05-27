@@ -1911,15 +1911,6 @@
     </item>
     
     <item>
-      <title>_awesome-kemp</title>
-      <link>/authors/_awesome-kemp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/_awesome-kemp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aaron-zolderdo</title>
       <link>/authors/aaron-zolderdo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1979,6 +1970,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/ariel-porty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awesome-kemp</title>
+      <link>/authors/awesome-kemp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/awesome-kemp/</guid>
       <description></description>
     </item>
     
