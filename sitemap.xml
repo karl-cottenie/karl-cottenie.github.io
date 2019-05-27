@@ -2502,8 +2502,8 @@
     
     <url>
     
-      <loc>/authors/brent-saylor/</loc>
-      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <loc>/tags/brent-saylor/</loc>
+      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2511,8 +2511,8 @@
     
     <url>
     
-      <loc>/tags/brent-saylor/</loc>
-      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
+      <loc>/authors/brent-saylor/</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2529,8 +2529,8 @@
     
     <url>
     
-      <loc>/authors/brittany-jones/</loc>
-      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
+      <loc>/tags/brittany-jones/</loc>
+      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2538,8 +2538,8 @@
     
     <url>
     
-      <loc>/tags/brittany-jones/</loc>
-      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
+      <loc>/authors/brittany-jones/</loc>
+      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3284,6 +3284,15 @@
     
     <url>
     
+      <loc>/tags/graduate/</loc>
+      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/great-lakes/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -3662,8 +3671,8 @@
     
     <url>
     
-      <loc>/authors/karl-cottenie/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <loc>/tags/karl-cottenie/</loc>
+      <lastmod>2011-08-03T13:55:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3671,8 +3680,8 @@
     
     <url>
     
-      <loc>/tags/karl-cottenie/</loc>
-      <lastmod>2011-08-03T13:55:00+00:00</lastmod>
+      <loc>/authors/karl-cottenie/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4441,6 +4450,15 @@
     
     <url>
     
+      <loc>/tags/research/</loc>
+      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/resilience/</loc>
       <lastmod>2017-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -4927,6 +4945,15 @@
     
     <url>
     
+      <loc>/tags/undergraduate/</loc>
+      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/understorey-species-composition/</loc>
       <lastmod>2016-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5060,15 +5087,6 @@
     <url>
     
       <loc>/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/advisor/</loc>
-      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5285,7 +5303,7 @@
     <url>
     
       <loc>/tags/collaboration/</loc>
-      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
+      <lastmod>2017-02-27T15:40:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5785,15 +5803,6 @@
     
       <loc>/tags/grad-school/</loc>
       <lastmod>2018-05-10T14:07:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/graduate-student/</loc>
-      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -6905,15 +6914,6 @@
     <url>
     
       <loc>/authors/trevor-bringloe/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/undergraduate-student/</loc>
-      <lastmod>2019-05-24T15:07:50-04:00</lastmod>
       <priority>0</priority>
     </url>
     
