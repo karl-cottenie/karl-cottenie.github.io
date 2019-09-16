@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiona-persaud on Cottenie Lab</title>
+    <link>/authors/fiona-persaud/</link>
+    <description>Recent content in fiona-persaud on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/fiona-persaud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/fiona-persaud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/fiona-persaud/</guid>
+      <description>I am an undergraduate Bachelor of Science student at the University of Guelph, in the Marine and Freshwater Biology program. I am also completing a minor in geography, focusing mainly on environmental geography. My main research interest are in aquatic ecology and conservation. I am part of the undergraduate thesis program, where I will be working along side Jennifer Gleason and my Advisor Karl Cottenie, conducting research using environmental DNA (eDNA) to address aquatic ecological concerns.</description>
+    </item>
+    
+  </channel>
+</rss>

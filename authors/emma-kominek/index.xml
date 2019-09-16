@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emma-kominek on Cottenie Lab</title>
+    <link>/authors/emma-kominek/</link>
+    <description>Recent content in emma-kominek on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/emma-kominek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/emma-kominek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/emma-kominek/</guid>
+      <description>I am a fourth year undergraduate student majoring in Zoology at the University of Guelph. Through my time as an undergrad at Guelph, I have developed strong interests in community ecology, evolution, population genetics, and animal behaviour. I am working on an undergraduate thesis where I will be working with PhD student Anna Solecki and my advisor, Karl Cottenie, studying fly community structure and diversity in the subarctic at varying nested spatial scales.</description>
+    </item>
+    
+  </channel>
+</rss>

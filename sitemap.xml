@@ -1872,6 +1872,13 @@
     
     <url>
     
+      <loc>/author/alicia-halhed/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/amanda-winegardner/</loc>
     </url>
     
@@ -1928,6 +1935,13 @@
     
     <url>
     
+      <loc>/author/catherine-rutherford/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/danielle-ahrens/</loc>
     </url>
     
@@ -1943,6 +1957,20 @@
     <url>
     
       <loc>/author/deniz-ergun/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/emma-kominek/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/fiona-persaud/</loc>
     </url>
     
   
@@ -2048,6 +2076,13 @@
     <url>
     
       <loc>/author/lucius-prelovec/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/margot-laliberte/</loc>
     </url>
     
   
@@ -4028,6 +4063,14 @@
     
     <url>
     
+      <loc>/authors/margot-laliberte/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/marianne-staempli/</loc>
       <lastmod>2016-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5181,6 +5224,14 @@
     
     <url>
     
+      <loc>/authors/alicia-halhed/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/alternative-equilibria/</loc>
       <lastmod>2004-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5355,6 +5406,14 @@
     <url>
     
       <loc>/authors/carolyn-trombley/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/catherine-rutherford/</loc>
       <priority>0</priority>
     </url>
     
@@ -5665,6 +5724,14 @@
     
     <url>
     
+      <loc>/authors/emma-kominek/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/enclosure/</loc>
       <lastmod>2004-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -5730,6 +5797,14 @@
     
       <loc>/tags/fen/</loc>
       <lastmod>2011-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fiona-persaud/</loc>
       <priority>0</priority>
     </url>
     
