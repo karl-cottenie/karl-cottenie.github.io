@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trip on Cottenie Lab</title>
+    <link>/tags/trip/</link>
+    <description>Recent content in trip on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 10:17:17 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/trip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metacommunity Workshop in Belem</title>
+      <link>/post/metacommunity_workshop_belem/</link>
+      <pubDate>Fri, 01 Nov 2019 10:17:17 -0400</pubDate>
+      
+      <guid>/post/metacommunity_workshop_belem/</guid>
+      <description>I (Karl Cottenie) had a busy weeklong trip to Belem, Brazil, at the end of October. I was invited to facilitate a 2.5 day workshop, give a research seminar, and be part of an MSc qualifying defence.
+See here for some pictures of my trip, and below is a little bit more information on what I did.
+It was really fun (and a lot of work) to put together the material for the metacommunity workshop.</description>
+    </item>
+    
+  </channel>
+</rss>

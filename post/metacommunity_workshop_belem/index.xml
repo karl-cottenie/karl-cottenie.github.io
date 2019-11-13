@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metacommunity Workshop in Belem on Cottenie Lab</title>
+    <link>/post/metacommunity_workshop_belem/</link>
+    <description>Recent content in Metacommunity Workshop in Belem on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 10:17:17 -0400</lastBuildDate>
+    
+	<atom:link href="/post/metacommunity_workshop_belem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
