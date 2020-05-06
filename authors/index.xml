@@ -1272,15 +1272,6 @@
     </item>
     
     <item>
-      <title>Margot Laliberte</title>
-      <link>/authors/margot-laliberte/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/margot-laliberte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marianne Staempli</title>
       <link>/authors/marianne-staempli/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
@@ -2316,6 +2307,15 @@
     </item>
     
     <item>
+      <title>margot_laliberte</title>
+      <link>/authors/margot_laliberte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/margot_laliberte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>marie Thérèse Rush</title>
       <link>/authors/marie-th%C3%A9r%C3%A8se-rush/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
@@ -2393,6 +2393,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/tadeu-siqueira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teodora_tockovska</title>
+      <link>/authors/teodora_tockovska/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/teodora_tockovska/</guid>
       <description></description>
     </item>
     

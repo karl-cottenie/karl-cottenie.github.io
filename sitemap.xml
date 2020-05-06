@@ -2192,6 +2192,13 @@
     
     <url>
     
+      <loc>/author/teodora_tockovska/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/thiago-goncalvessouza1/</loc>
     </url>
     
@@ -4148,14 +4155,6 @@
     
       <loc>/authors/marcos-callisto/</loc>
       <lastmod>2015-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/margot-laliberte/</loc>
       <priority>0</priority>
     </url>
     
@@ -6473,6 +6472,14 @@
     
     <url>
     
+      <loc>/authors/margot_laliberte/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/marie-th%C3%A9r%C3%A8se-rush/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -7277,6 +7284,14 @@
     
       <loc>/tags/temporal-variability/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/teodora_tockovska/</loc>
       <priority>0</priority>
     </url>
     
