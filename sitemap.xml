@@ -2003,6 +2003,13 @@
     
     <url>
     
+      <loc>/author/elizabeth-porter/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/emma-kominek/</loc>
     </url>
     
@@ -2067,6 +2074,13 @@
     <url>
     
       <loc>/author/julia-sunga/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/kaelyn-racine/</loc>
     </url>
     
   
@@ -2633,8 +2647,8 @@
     
     <url>
     
-      <loc>/tags/brent-saylor/</loc>
-      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
+      <loc>/authors/brent-saylor/</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2642,8 +2656,8 @@
     
     <url>
     
-      <loc>/authors/brent-saylor/</loc>
-      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <loc>/tags/brent-saylor/</loc>
+      <lastmod>2013-02-05T08:34:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2660,8 +2674,8 @@
     
     <url>
     
-      <loc>/tags/brittany-jones/</loc>
-      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
+      <loc>/authors/brittany-jones/</loc>
+      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2669,8 +2683,8 @@
     
     <url>
     
-      <loc>/authors/brittany-jones/</loc>
-      <lastmod>2011-03-01T00:00:00-05:00</lastmod>
+      <loc>/tags/brittany-jones/</loc>
+      <lastmod>2012-05-03T10:02:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3865,8 +3879,8 @@
     
     <url>
     
-      <loc>/tags/karl-cottenie/</loc>
-      <lastmod>2019-11-05T10:17:17-04:00</lastmod>
+      <loc>/authors/karl-cottenie/</loc>
+      <lastmod>2020-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3874,8 +3888,8 @@
     
     <url>
     
-      <loc>/authors/karl-cottenie/</loc>
-      <lastmod>2020-02-01T00:00:00-05:00</lastmod>
+      <loc>/tags/karl-cottenie/</loc>
+      <lastmod>2019-11-05T10:17:17-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5887,6 +5901,14 @@
     
     <url>
     
+      <loc>/authors/elizabeth-porter/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/emma-kominek/</loc>
       <priority>0</priority>
     </url>
@@ -6293,6 +6315,14 @@
     <url>
     
       <loc>/authors/julia-sunga/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kaelyn-racine/</loc>
       <priority>0</priority>
     </url>
     
