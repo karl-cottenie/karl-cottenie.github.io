@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heidy Schimann on Cottenie Lab</title>
+    <link>/authors/heidy-schimann/</link>
+    <description>Recent content in Heidy Schimann on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/heidy-schimann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>At each site its diversity: DNA barcoding reveals remarkable earthworm diversity in neotropical rainforests of French Guiana</title>
+      <link>/publication/maggia-2021-ase/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/maggia-2021-ase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

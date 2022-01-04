@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Baltzer on Cottenie Lab</title>
+    <link>/authors/jennifer-baltzer/</link>
+    <description>Recent content in Jennifer Baltzer on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/jennifer-baltzer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping and understanding the vulnerability of northern peatlands to permafrost thaw at scales relevant to community adaptation planning</title>
+      <link>/publication/gibson-2021-erl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/gibson-2021-erl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
