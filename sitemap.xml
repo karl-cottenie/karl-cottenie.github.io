@@ -2113,6 +2113,13 @@
     
     <url>
     
+      <loc>/author/eleonore-lebeuftaylor/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/elizabeth-porter/</loc>
     </url>
     
@@ -6596,6 +6603,14 @@
     
       <loc>/tags/eelgrass/</loc>
       <lastmod>2010-11-01T21:31:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eleonore-lebeuftaylor/</loc>
       <priority>0</priority>
     </url>
     
