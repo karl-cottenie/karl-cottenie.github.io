@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fungi on Cottenie Lab</title>
-    <link>/tags/fungi/</link>
+    <link>https://karl-cottenie.github.io/tags/fungi/</link>
     <description>Recent content in Fungi on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/fungi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/fungi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Priority effects of stream eutrophication and assembly history on beta diversity across aquatic consumers, decomposers and producers</title>
-      <link>/publication/dunck-2021-sotte/</link>
+      <link>https://karl-cottenie.github.io/publication/dunck-2021-sotte/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 -0400</pubDate>
       
-      <guid>/publication/dunck-2021-sotte/</guid>
+      <guid>https://karl-cottenie.github.io/publication/dunck-2021-sotte/</guid>
       <description></description>
     </item>
     

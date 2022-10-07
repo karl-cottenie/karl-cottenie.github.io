@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingrid S. Y. Ng on Cottenie Lab</title>
-    <link>/authors/ingrid-s.-y.-ng/</link>
+    <link>https://karl-cottenie.github.io/authors/ingrid-s.-y.-ng/</link>
     <description>Recent content in Ingrid S. Y. Ng on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 May 2012 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/ingrid-s.-y.-ng/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/ingrid-s.-y.-ng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The terminology of metacommunity ecology</title>
-      <link>/publication/winegardner-2012-tiee/</link>
+      <link>https://karl-cottenie.github.io/publication/winegardner-2012-tiee/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 -0400</pubDate>
       
-      <guid>/publication/winegardner-2012-tiee/</guid>
+      <guid>https://karl-cottenie.github.io/publication/winegardner-2012-tiee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical zooplankton metacommunities: distinguishing between high and limiting dispersal mechanisms</title>
-      <link>/publication/ng-2009-h/</link>
+      <link>https://karl-cottenie.github.io/publication/ng-2009-h/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 -0500</pubDate>
       
-      <guid>/publication/ng-2009-h/</guid>
+      <guid>https://karl-cottenie.github.io/publication/ng-2009-h/</guid>
       <description></description>
     </item>
     

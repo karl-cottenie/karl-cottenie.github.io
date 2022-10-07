@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>microbial communities on Cottenie Lab</title>
-    <link>/tags/microbial-communities/</link>
+    <link>https://karl-cottenie.github.io/tags/microbial-communities/</link>
     <description>Recent content in microbial communities on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/microbial-communities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/microbial-communities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Application of plant growth promoting rhizobacteria in a hydroponics system for advanced life support in space</title>
-      <link>/publication/macintyre-2011-ah/</link>
+      <link>https://karl-cottenie.github.io/publication/macintyre-2011-ah/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
       
-      <guid>/publication/macintyre-2011-ah/</guid>
+      <guid>https://karl-cottenie.github.io/publication/macintyre-2011-ah/</guid>
       <description></description>
     </item>
     

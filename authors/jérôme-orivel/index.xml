@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jérôme Orivel on Cottenie Lab</title>
-    <link>/authors/j%C3%A9r%C3%B4me-orivel/</link>
+    <link>https://karl-cottenie.github.io/authors/j%C3%A9r%C3%B4me-orivel/</link>
     <description>Recent content in Jérôme Orivel on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Aug 2021 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/j%C3%A9r%C3%B4me-orivel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/j%C3%A9r%C3%B4me-orivel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>At each site its diversity: DNA barcoding reveals remarkable earthworm diversity in neotropical rainforests of French Guiana</title>
-      <link>/publication/maggia-2021-ase/</link>
+      <link>https://karl-cottenie.github.io/publication/maggia-2021-ase/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
       
-      <guid>/publication/maggia-2021-ase/</guid>
+      <guid>https://karl-cottenie.github.io/publication/maggia-2021-ase/</guid>
       <description></description>
     </item>
     

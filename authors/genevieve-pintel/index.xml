@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>genevieve-pintel on Cottenie Lab</title>
-    <link>/authors/genevieve-pintel/</link>
+    <link>https://karl-cottenie.github.io/authors/genevieve-pintel/</link>
     <description>Recent content in genevieve-pintel on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/genevieve-pintel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/genevieve-pintel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/genevieve-pintel/</link>
+      <link>https://karl-cottenie.github.io/author/genevieve-pintel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/genevieve-pintel/</guid>
+      <guid>https://karl-cottenie.github.io/author/genevieve-pintel/</guid>
       <description>Project title: Biogeography versus metacommunity spatial scales</description>
     </item>
     

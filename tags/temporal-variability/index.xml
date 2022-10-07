@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>temporal variability on Cottenie Lab</title>
-    <link>/tags/temporal-variability/</link>
+    <link>https://karl-cottenie.github.io/tags/temporal-variability/</link>
     <description>Recent content in temporal variability on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/temporal-variability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/temporal-variability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Negative relationships between species richness and temporal variability are common but weak in natural systems</title>
-      <link>/publication/houlahan-2018-e/</link>
+      <link>https://karl-cottenie.github.io/publication/houlahan-2018-e/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/houlahan-2018-e/</guid>
+      <guid>https://karl-cottenie.github.io/publication/houlahan-2018-e/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>environmental filtering on Cottenie Lab</title>
-    <link>/tags/environmental-filtering/</link>
+    <link>https://karl-cottenie.github.io/tags/environmental-filtering/</link>
     <description>Recent content in environmental filtering on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/environmental-filtering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/environmental-filtering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A comparative analysis reveals weak relationships between ecological factors and beta diversity of stream insect metacommunities at two spatial levels</title>
-      <link>/publication/heino-2015-ee/</link>
+      <link>https://karl-cottenie.github.io/publication/heino-2015-ee/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>/publication/heino-2015-ee/</guid>
+      <guid>https://karl-cottenie.github.io/publication/heino-2015-ee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environmental and spatial controls of biotic assemblages in a discrete semi-terrestrial habitat: comparison of organisms with different dispersal abilities sampled in the same plots</title>
-      <link>/publication/hajek-2011-jb/</link>
+      <link>https://karl-cottenie.github.io/publication/hajek-2011-jb/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
       
-      <guid>/publication/hajek-2011-jb/</guid>
+      <guid>https://karl-cottenie.github.io/publication/hajek-2011-jb/</guid>
       <description></description>
     </item>
     

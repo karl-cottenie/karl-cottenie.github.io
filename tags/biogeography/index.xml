@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biogeography on Cottenie Lab</title>
-    <link>/tags/biogeography/</link>
+    <link>https://karl-cottenie.github.io/tags/biogeography/</link>
     <description>Recent content in biogeography on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/biogeography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/biogeography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Metacommunity versus Biogeography: A Case Study of Two Groups of Neotropical Vegetation-Dwelling Arthropods</title>
-      <link>/publication/goncalves-souza-2014-po/</link>
+      <link>https://karl-cottenie.github.io/publication/goncalves-souza-2014-po/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
       
-      <guid>/publication/goncalves-souza-2014-po/</guid>
+      <guid>https://karl-cottenie.github.io/publication/goncalves-souza-2014-po/</guid>
       <description></description>
     </item>
     

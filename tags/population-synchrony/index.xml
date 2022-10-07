@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Population synchrony on Cottenie Lab</title>
-    <link>/tags/population-synchrony/</link>
+    <link>https://karl-cottenie.github.io/tags/population-synchrony/</link>
     <description>Recent content in Population synchrony on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/population-synchrony/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/population-synchrony/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Population synchrony decreases with richness and increases with environmental fluctuations in an experimental metacommunity</title>
-      <link>/publication/pandit-2013-o/</link>
+      <link>https://karl-cottenie.github.io/publication/pandit-2013-o/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>/publication/pandit-2013-o/</guid>
+      <guid>https://karl-cottenie.github.io/publication/pandit-2013-o/</guid>
       <description></description>
     </item>
     

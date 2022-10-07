@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ariel-porty on Cottenie Lab</title>
-    <link>/authors/ariel-porty/</link>
+    <link>https://karl-cottenie.github.io/authors/ariel-porty/</link>
     <description>Recent content in ariel-porty on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/ariel-porty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/ariel-porty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/ariel-porty/</link>
+      <link>https://karl-cottenie.github.io/author/ariel-porty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/ariel-porty/</guid>
+      <guid>https://karl-cottenie.github.io/author/ariel-porty/</guid>
       <description>Project title: Red squirrel (Tamiasciurus hudsonicus) individuality encoded in territorial acoustic information</description>
     </item>
     

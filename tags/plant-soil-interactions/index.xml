@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plant-soil interactions on Cottenie Lab</title>
-    <link>/tags/plant-soil-interactions/</link>
+    <link>https://karl-cottenie.github.io/tags/plant-soil-interactions/</link>
     <description>Recent content in plant-soil interactions on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2009 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/plant-soil-interactions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/plant-soil-interactions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plant and fungal identity determines pathogen protection of plant roots by arbuscular mycorrhizas</title>
-      <link>/publication/sikes-2009-je/</link>
+      <link>https://karl-cottenie.github.io/publication/sikes-2009-je/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
       
-      <guid>/publication/sikes-2009-je/</guid>
+      <guid>https://karl-cottenie.github.io/publication/sikes-2009-je/</guid>
       <description></description>
     </item>
     

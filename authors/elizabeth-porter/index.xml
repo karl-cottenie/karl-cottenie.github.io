@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elizabeth-porter on Cottenie Lab</title>
-    <link>/authors/elizabeth-porter/</link>
+    <link>https://karl-cottenie.github.io/authors/elizabeth-porter/</link>
     <description>Recent content in elizabeth-porter on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/elizabeth-porter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/elizabeth-porter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/elizabeth-porter/</link>
+      <link>https://karl-cottenie.github.io/author/elizabeth-porter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/elizabeth-porter/</guid>
+      <guid>https://karl-cottenie.github.io/author/elizabeth-porter/</guid>
       <description>I am an MSc student in the Department of Integrative Biology at the University of Guelph, co-advised by Drs. Karl Cottenie and Shoshanah Jacobs. My MSc project will involve developing a large-scale, accessible research program that will help us understand the process and barriers of transforming citizen science data into meaningful publications that advance knowledge and understand of ecological topics. The creation of this program will also facilitate collection of a large quantity of data pertaining to squirrel behaviour, among other things.</description>
     </item>
     

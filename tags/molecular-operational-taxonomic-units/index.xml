@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>molecular operational taxonomic units on Cottenie Lab</title>
-    <link>/tags/molecular-operational-taxonomic-units/</link>
+    <link>https://karl-cottenie.github.io/tags/molecular-operational-taxonomic-units/</link>
     <description>Recent content in molecular operational taxonomic units on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/molecular-operational-taxonomic-units/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/molecular-operational-taxonomic-units/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Detecting signatures of competition from observational data: a combined approach using DNA barcoding, diversity partitioning and checkerboards at small spatial scales</title>
-      <link>/publication/bringloe-2016-fb/</link>
+      <link>https://karl-cottenie.github.io/publication/bringloe-2016-fb/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/bringloe-2016-fb/</guid>
+      <guid>https://karl-cottenie.github.io/publication/bringloe-2016-fb/</guid>
       <description></description>
     </item>
     

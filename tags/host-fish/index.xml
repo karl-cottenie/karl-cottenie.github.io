@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>host fish on Cottenie Lab</title>
-    <link>/tags/host-fish/</link>
+    <link>https://karl-cottenie.github.io/tags/host-fish/</link>
     <description>Recent content in host fish on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/host-fish/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/host-fish/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dispersal abilities of riverine freshwater mussels influence metacommunity structure</title>
-      <link>/publication/schwalb-2015-fb/</link>
+      <link>https://karl-cottenie.github.io/publication/schwalb-2015-fb/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
       
-      <guid>/publication/schwalb-2015-fb/</guid>
+      <guid>https://karl-cottenie.github.io/publication/schwalb-2015-fb/</guid>
       <description></description>
     </item>
     

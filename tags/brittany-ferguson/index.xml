@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brittany Ferguson on Cottenie Lab</title>
-    <link>/tags/brittany-ferguson/</link>
+    <link>https://karl-cottenie.github.io/tags/brittany-ferguson/</link>
     <description>Recent content in Brittany Ferguson on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Apr 2011 11:13:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/brittany-ferguson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/brittany-ferguson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Happy day - sad day, part II</title>
-      <link>/post/happy-day-sad-day-part-ii/</link>
+      <link>https://karl-cottenie.github.io/post/happy-day-sad-day-part-ii/</link>
       <pubDate>Fri, 15 Apr 2011 11:13:00 +0000</pubDate>
       
-      <guid>/post/happy-day-sad-day-part-ii/</guid>
+      <guid>https://karl-cottenie.github.io/post/happy-day-sad-day-part-ii/</guid>
       <description>The end of the semester is always hectic. Especially this year, since our lab had three year-long undergrad thesis students working away on various projects.
 Brittany Ferguson worked this semester on whether duck dispersal influenced macroinvertebrate metacommunity patterns. She found one of those very zen-like conclusions, where the absence of a predicted pattern is actually evidence for the importance of the process, and we will expose her zen-conclusions hopefully sometime this summer to the very critical research community.</description>
     </item>
     
     <item>
       <title>Metacommunity dynamics in the prairie pothole region</title>
-      <link>/post/metacommunity-dynamics-in-the-prairie-pothole-region/</link>
+      <link>https://karl-cottenie.github.io/post/metacommunity-dynamics-in-the-prairie-pothole-region/</link>
       <pubDate>Wed, 16 Feb 2011 19:33:00 +0000</pubDate>
       
-      <guid>/post/metacommunity-dynamics-in-the-prairie-pothole-region/</guid>
+      <guid>https://karl-cottenie.github.io/post/metacommunity-dynamics-in-the-prairie-pothole-region/</guid>
       <description>The prairie pothole region, characterized by millions of unique ponds scattered across its surface extends from Alberta Canada, down into the central United States. This “patchy” ecosystem provides feeding habitat for an estimated 50-75% of North Americas breeding ducks, which feed primarily on the numerable invertebrate species found within the area.  The region is an ideal site for the study of metacommunity dynamics, as it’s many local ecosystems (ponds) are joined by the dispersal of highly interactive species (ducks and invertebrates).</description>
     </item>
     

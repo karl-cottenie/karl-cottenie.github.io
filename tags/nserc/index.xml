@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NSERC on Cottenie Lab</title>
-    <link>/tags/nserc/</link>
+    <link>https://karl-cottenie.github.io/tags/nserc/</link>
     <description>Recent content in NSERC on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2010 11:40:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/nserc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/nserc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awards galore</title>
-      <link>/post/awards-galore/</link>
+      <link>https://karl-cottenie.github.io/post/awards-galore/</link>
       <pubDate>Thu, 25 Mar 2010 11:40:00 +0000</pubDate>
       
-      <guid>/post/awards-galore/</guid>
+      <guid>https://karl-cottenie.github.io/post/awards-galore/</guid>
       <description>Amanda and Ingrid both received an NSERC award: Amanda to finish her MSc, and Ingrid to start her PhD. Now she will have to make a decision ;-) Running a lab with such talented people is easy, I hardly have to do anything myself.</description>
     </item>
     

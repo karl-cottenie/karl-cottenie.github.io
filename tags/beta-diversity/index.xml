@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>beta diversity on Cottenie Lab</title>
-    <link>/tags/beta-diversity/</link>
+    <link>https://karl-cottenie.github.io/tags/beta-diversity/</link>
     <description>Recent content in beta diversity on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Aug 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/beta-diversity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/beta-diversity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The importance of taxonomic resolution for additive beta diversity as revealed through DNA barcoding</title>
-      <link>/publication/bringloe-2016-g/</link>
+      <link>https://karl-cottenie.github.io/publication/bringloe-2016-g/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>/publication/bringloe-2016-g/</guid>
+      <guid>https://karl-cottenie.github.io/publication/bringloe-2016-g/</guid>
       <description></description>
     </item>
     

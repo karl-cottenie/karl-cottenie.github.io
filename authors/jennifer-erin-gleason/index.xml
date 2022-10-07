@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Erin Gleason on Cottenie Lab</title>
-    <link>/authors/jennifer-erin-gleason/</link>
+    <link>https://karl-cottenie.github.io/authors/jennifer-erin-gleason/</link>
     <description>Recent content in Jennifer Erin Gleason on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/jennifer-erin-gleason/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/jennifer-erin-gleason/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ethanol eDNA Reveals Unique Community Composition of Aquatic Macroinvertebrates Compared to Bulk Tissue Metabarcoding in a Biomonitoring Sampling Scheme</title>
-      <link>/publication/persaud-2021-d/</link>
+      <link>https://karl-cottenie.github.io/publication/persaud-2021-d/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>/publication/persaud-2021-d/</guid>
+      <guid>https://karl-cottenie.github.io/publication/persaud-2021-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of stream macroinvertebrate communities with eDNA is not congruent with tissue-based metabarcoding</title>
-      <link>/publication/gleason-2020-me/</link>
+      <link>https://karl-cottenie.github.io/publication/gleason-2020-me/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>/publication/gleason-2020-me/</guid>
+      <guid>https://karl-cottenie.github.io/publication/gleason-2020-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic and deterministic processes drive wetland community assembly across a gradient of environmental filtering</title>
-      <link>/publication/daniel-2019-o/</link>
+      <link>https://karl-cottenie.github.io/publication/daniel-2019-o/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/daniel-2019-o/</guid>
+      <guid>https://karl-cottenie.github.io/publication/daniel-2019-o/</guid>
       <description></description>
     </item>
     

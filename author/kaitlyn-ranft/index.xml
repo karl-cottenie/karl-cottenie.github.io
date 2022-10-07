@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cottenie Lab</title>
-    <link>/author/kaitlyn-ranft/</link>
+    <link>https://karl-cottenie.github.io/author/kaitlyn-ranft/</link>
     <description>Recent content on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/author/kaitlyn-ranft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/author/kaitlyn-ranft/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

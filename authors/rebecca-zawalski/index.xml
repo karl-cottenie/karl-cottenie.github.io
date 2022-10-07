@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebecca Zawalski on Cottenie Lab</title>
-    <link>/authors/rebecca-zawalski/</link>
+    <link>https://karl-cottenie.github.io/authors/rebecca-zawalski/</link>
     <description>Recent content in Rebecca Zawalski on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/rebecca-zawalski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/rebecca-zawalski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Distinctive macroinvertebrate communities in a subtropical river network</title>
-      <link>/publication/zawalski-2019-jfe/</link>
+      <link>https://karl-cottenie.github.io/publication/zawalski-2019-jfe/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/publication/zawalski-2019-jfe/</guid>
+      <guid>https://karl-cottenie.github.io/publication/zawalski-2019-jfe/</guid>
       <description></description>
     </item>
     

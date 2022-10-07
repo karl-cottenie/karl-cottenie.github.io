@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kaitlyn-ranft on Cottenie Lab</title>
-    <link>/authors/kaitlyn-ranft/</link>
+    <link>https://karl-cottenie.github.io/authors/kaitlyn-ranft/</link>
     <description>Recent content in kaitlyn-ranft on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/kaitlyn-ranft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/kaitlyn-ranft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/kaitlyn-ranft/</link>
+      <link>https://karl-cottenie.github.io/author/kaitlyn-ranft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/kaitlyn-ranft/</guid>
+      <guid>https://karl-cottenie.github.io/author/kaitlyn-ranft/</guid>
       <description>Project title: Small mammal body mass and capture probability</description>
     </item>
     

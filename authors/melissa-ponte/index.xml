@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melissa Ponte on Cottenie Lab</title>
-    <link>/authors/melissa-ponte/</link>
+    <link>https://karl-cottenie.github.io/authors/melissa-ponte/</link>
     <description>Recent content in Melissa Ponte on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/melissa-ponte/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/melissa-ponte/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The impacts of anthropogenic disturbance on plant species richness in the freshwater lakes of Algonquin Provincial Park</title>
-      <link>/publication/helmers-20161/</link>
+      <link>https://karl-cottenie.github.io/publication/helmers-20161/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/helmers-20161/</guid>
+      <guid>https://karl-cottenie.github.io/publication/helmers-20161/</guid>
       <description></description>
     </item>
     

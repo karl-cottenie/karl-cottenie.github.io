@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolution on Cottenie Lab</title>
-    <link>/tags/evolution/</link>
+    <link>https://karl-cottenie.github.io/tags/evolution/</link>
     <description>Recent content in evolution on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Distinguishing ecological from evolutionary approaches to transposable elements</title>
-      <link>/publication/linquist-2013-br/</link>
+      <link>https://karl-cottenie.github.io/publication/linquist-2013-br/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>/publication/linquist-2013-br/</guid>
+      <guid>https://karl-cottenie.github.io/publication/linquist-2013-br/</guid>
       <description></description>
     </item>
     

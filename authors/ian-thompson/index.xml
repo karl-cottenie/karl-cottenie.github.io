@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ian-thompson on Cottenie Lab</title>
-    <link>/authors/ian-thompson/</link>
+    <link>https://karl-cottenie.github.io/authors/ian-thompson/</link>
     <description>Recent content in ian-thompson on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/ian-thompson/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/ian-thompson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/ian-thompson/</link>
+      <link>https://karl-cottenie.github.io/author/ian-thompson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/ian-thompson/</guid>
+      <guid>https://karl-cottenie.github.io/author/ian-thompson/</guid>
       <description></description>
     </item>
     

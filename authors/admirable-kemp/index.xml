@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admirable-kemp on Cottenie Lab</title>
-    <link>/authors/admirable-kemp/</link>
+    <link>https://karl-cottenie.github.io/authors/admirable-kemp/</link>
     <description>Recent content in admirable-kemp on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/admirable-kemp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/admirable-kemp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/admirable-kemp/</link>
+      <link>https://karl-cottenie.github.io/author/admirable-kemp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/admirable-kemp/</guid>
+      <guid>https://karl-cottenie.github.io/author/admirable-kemp/</guid>
       <description>Hi, my name is Kemp!
 I started in the Cottenie lab in November 2017 and graduated a year later. While I was there, I researched the best places to take naps in the office and who had the best treats. I&amp;rsquo;m currently doing my next degree at the Lion&amp;rsquo;s Foundation of Canada, where I will hopefully graduate and take on a job helping a Canadian with a disability.</description>
     </item>

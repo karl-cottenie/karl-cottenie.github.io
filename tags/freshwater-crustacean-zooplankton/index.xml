@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>freshwater crustacean zooplankton on Cottenie Lab</title>
-    <link>/tags/freshwater-crustacean-zooplankton/</link>
+    <link>https://karl-cottenie.github.io/tags/freshwater-crustacean-zooplankton/</link>
     <description>Recent content in freshwater crustacean zooplankton on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2006 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/freshwater-crustacean-zooplankton/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/freshwater-crustacean-zooplankton/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Evolutionary Algorithm for the Selection of Geographically Informative Species</title>
-      <link>/publication/ashlock-20062-iscibcb/</link>
+      <link>https://karl-cottenie.github.io/publication/ashlock-20062-iscibcb/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 -0400</pubDate>
       
-      <guid>/publication/ashlock-20062-iscibcb/</guid>
+      <guid>https://karl-cottenie.github.io/publication/ashlock-20062-iscibcb/</guid>
       <description></description>
     </item>
     

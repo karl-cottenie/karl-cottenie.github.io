@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>challenges on Cottenie Lab</title>
-    <link>/tags/challenges/</link>
+    <link>https://karl-cottenie.github.io/tags/challenges/</link>
     <description>Recent content in challenges on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Aug 2010 19:29:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bike Lessons</title>
-      <link>/post/bike-lessons/</link>
+      <link>https://karl-cottenie.github.io/post/bike-lessons/</link>
       <pubDate>Thu, 19 Aug 2010 19:29:00 +0000</pubDate>
       
-      <guid>/post/bike-lessons/</guid>
+      <guid>https://karl-cottenie.github.io/post/bike-lessons/</guid>
       <description>I am Ingrid, a returning member of the Cottenie lab. This is my first post, and it comes at one of those in-between times in my life. I am in between finishing a two-month bike tour and starting a three- (or four, or more&amp;hellip;?) year PhD. It&amp;rsquo;s been an interesting process, returning from the tour and re-integrating back into society.
 First, a little about the tour. It was one of the best and most challenging things I have ever done.</description>
     </item>

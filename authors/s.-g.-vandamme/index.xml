@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. G. Vandamme on Cottenie Lab</title>
-    <link>/authors/s.-g.-vandamme/</link>
+    <link>https://karl-cottenie.github.io/authors/s.-g.-vandamme/</link>
     <description>Recent content in S. G. Vandamme on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/s.-g.-vandamme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/s.-g.-vandamme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Regional environmental pressure influences population differentiation in turbot (Scophthalmus maximus)</title>
-      <link>/publication/vandamme-2014-me/</link>
+      <link>https://karl-cottenie.github.io/publication/vandamme-2014-me/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>/publication/vandamme-2014-me/</guid>
+      <guid>https://karl-cottenie.github.io/publication/vandamme-2014-me/</guid>
       <description></description>
     </item>
     

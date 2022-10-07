@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>brittney-bell on Cottenie Lab</title>
-    <link>/authors/brittney-bell/</link>
+    <link>https://karl-cottenie.github.io/authors/brittney-bell/</link>
     <description>Recent content in brittney-bell on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/brittney-bell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/authors/brittney-bell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/author/brittney-bell/</link>
+      <link>https://karl-cottenie.github.io/author/brittney-bell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/brittney-bell/</guid>
+      <guid>https://karl-cottenie.github.io/author/brittney-bell/</guid>
       <description>I am an undergraduate student in the Department of Integrative Biology advised by Dr. Karl Cottenie. For my undergraduate degree, I am currently Majoring in Zoology and Minoring in Business and began my Undergraduate Research Project in 2021. My research aims to explore the development of Aquatic insects, investigating whether oviposition or the period of emergence that transitions aquatic insects from a juvenile aquatic system to a terrestrial adult system is linked to the composition of their aquatic and terrestrial communities.</description>
     </item>
     

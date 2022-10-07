@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transposable elements on Cottenie Lab</title>
-    <link>/tags/transposable-elements/</link>
+    <link>https://karl-cottenie.github.io/tags/transposable-elements/</link>
     <description>Recent content in transposable elements on Cottenie Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2013 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/transposable-elements/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://karl-cottenie.github.io/tags/transposable-elements/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A novel application of ecological analyses to assess transposable element distributions in the genome of the domestic cow, Bos taurus</title>
-      <link>/publication/saylor-2013-g/</link>
+      <link>https://karl-cottenie.github.io/publication/saylor-2013-g/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 -0400</pubDate>
       
-      <guid>/publication/saylor-2013-g/</guid>
+      <guid>https://karl-cottenie.github.io/publication/saylor-2013-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinguishing ecological from evolutionary approaches to transposable elements</title>
-      <link>/publication/linquist-2013-br/</link>
+      <link>https://karl-cottenie.github.io/publication/linquist-2013-br/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
       
-      <guid>/publication/linquist-2013-br/</guid>
+      <guid>https://karl-cottenie.github.io/publication/linquist-2013-br/</guid>
       <description></description>
     </item>
     
