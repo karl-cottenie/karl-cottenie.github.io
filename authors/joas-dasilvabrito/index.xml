@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joas-dasilvabrito on Cottenie Lab</title>
+    <link>https://karl-cottenie.github.io/authors/joas-dasilvabrito/</link>
+    <description>Recent content in joas-dasilvabrito on Cottenie Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://karl-cottenie.github.io/authors/joas-dasilvabrito/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://karl-cottenie.github.io/author/joas-dasilvabrito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://karl-cottenie.github.io/author/joas-dasilvabrito/</guid>
+      <description>Hi there! I am a doctoral student in the Graduate Program of Ecology, at Federal University of Pará state, Amazon, Brazil. My research areas include ecology of communities, influence of environmental modifications on the natural communities of aquatic invertebrates in small Amazonian streams. Since my undergrad in 2014 I’ve been working with the research team of the Laboratory of Ecology and Conservation (LABECO), studying how human activities influence the aquatic fauna of streams, one of the most important and threatened freshwater systems in Brazilian Amazon.</description>
+    </item>
+    
+  </channel>
+</rss>

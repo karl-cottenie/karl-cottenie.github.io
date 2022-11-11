@@ -2134,6 +2134,13 @@
     
     <url>
     
+      <loc>https://karl-cottenie.github.io/author/joas-dasilvabrito/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://karl-cottenie.github.io/author/joshua-cunningham/</loc>
     </url>
     
@@ -7027,6 +7034,14 @@
     <url>
     
       <loc>https://karl-cottenie.github.io/authors/jenny-gleason/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://karl-cottenie.github.io/authors/joas-dasilvabrito/</loc>
       <priority>0</priority>
     </url>
     
