@@ -1,0 +1,44 @@
+---
+title: "Projects"
+subtitle: "A collection of not-necessarily research-related projects"
+description-meta: "projects"
+title-block-banner: false
+---
+
+## Transparancy documents
+
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/advisor.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+What to expect with me as a ...
+
+* [a PhD/MSc graduate advisor](https://docs.google.com/document/d/18uh49DjscSR5AYEPIfhV6Dcd-I0EQi4bn5yJ_xYMwHo/edit?usp=sharing)
+* [a MBinf advisor](https://docs.google.com/document/d/14K-tY8QBYawwjzTMLbOnOSoHCxdawkuHAJmMQuF-AT4/edit?usp=sharing)
+* [an undergraduate thesis advisor](https://docs.google.com/document/d/150tgTLFDAKToVCDBJVJ0yjKHa_sSY8hhRomh1eXbEIs/edit?usp=sharing)
+* [an Advisory Committee member](https://docs.google.com/document/d/1vfA5XCzYt8hLfUvP-a4Jw58ihyQJbq0eESMvS7BbXio/edit?usp=sharing)
+* [a collaborator](https://docs.google.com/document/d/1_Bb9v9mnLwzXhxm_ogxu8p9TIBEgcUcZD0ciGmRcecw/edit?usp=sharing)
+
+Expectations from you as …
+
+* [an Advisory Committee member for my graduate student](https://drive.google.com/open?id=18EWcgIfItJSdY0wEyd_qJzfIojHLKRdtx-9SejilC74)
+
+:::
+:::::
+
+## Lab resources
+
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/coding.png)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+* [Github repositories](https://github.com/karl-cottenie/microbiome_wrangling)
+
+:::
+:::::

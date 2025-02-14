@@ -1,0 +1,10 @@
+- #path: 
+    #  image: /files/headshots/.jpeg
+      title: "Brittany Jones"
+      lastname: "jones"
+      started: "2010-09"
+      ended: "2012-07"
+#      author: 
+      subtitle: ""
+#      date: ""
+      categories: [MSc student] 

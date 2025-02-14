@@ -1,0 +1,13 @@
+---
+title: "publications"
+
+bibliography: 2025-02-14_works.bib
+
+csl: apa-cv.csl
+
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::

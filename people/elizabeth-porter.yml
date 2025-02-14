@@ -1,0 +1,10 @@
+- path: ""
+  image: /files/headshots/elizabeth-porter.jpg
+  title: "Elizabeth Porter"
+  lastname: "porter"
+  started: "2021-09"
+#      ended: ""
+#      author: 
+#      subtitle: ""
+#      date: ""
+  categories: [PhD student] 
