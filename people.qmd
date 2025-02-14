@@ -1,0 +1,112 @@
+---
+title: "People"
+subtitle: "Who we are"
+#image: files/group.jpeg
+page-layout: full
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: lab-member
+  sort: "lastname asc"
+  type: grid
+  fields: [image, title, categories]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+  - /people/elizabeth-porter.yml  
+  - /people/eleonore-lebeuftaylor.yml
+  - /people/liam-wilson.yml
+  - /people/laura-dutheil.yml
+  - /people/danielle-nowosad.yml
+  
+- id: lab-alumni
+  sort: "ended desc"
+  type: table
+  fields: [image, title, categories, started, ended]
+  grid-item-align: center  
+  grid-columns: 4
+  image-height: 25px
+  field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+      started: "Started"
+      ended: "Ended"
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+  - /people/hanna-gingerich.yml
+  - /people/aaron-zolderdo.yml       
+  - /people/adam-marinelli.yml        
+  - /people/admirable-kemp.yml
+  - /people/alicia-halhed.yml
+  - /people/amanda-winegardner.yml
+  - /people/andrea-allen.yml
+  - /people/anna-solecki.yml
+  - /people/ariel-porty.yml
+  - /people/brent-saylor.yml
+  - /people/brittany-jones.yml
+  - /people/brittney-bell.yml
+  - /people/bryan-vandenbrink.yml
+  - /people/carolyn-gibson.yml
+  - /people/carolyn-trombley.yml
+  - /people/catherine-rutherford.yml
+  - /people/christa-wise.yml
+  - /people/danielle-ahrens.yml
+  - /people/danielle-petsch.yml
+  - /people/deniz-ergun.yml
+  - /people/emma-kominek.yml
+  - /people/eve-krauss.yml
+  - /people/fiona-persaud.yml
+  - /people/genevieve-pintel.yml
+  - /people/gillian-martin.yml
+  - /people/ian-thompson.yml
+  - /people/ingrid-ng.yml
+  - /people/jenny-gleason.yml
+  - /people/joas-dasilvabrito.yml
+  - /people/joshua-cunningham.yml
+  - /people/julia-sunga.yml
+  - /people/kaelyn-racine.yml
+  - /people/kaitlyn-ranft.yml
+  - /people/karuna-vijayakumar.yml
+  - /people/katy-jay.yml
+  - /people/krystal-gorringe.yml
+  - /people/kyle-gillespie.yml
+  - /people/laura-lanteigne.yml
+  - /people/lisa-vollbrecht.yml
+  - /people/lucija-prelovec.yml
+  - /people/margot-laliberte.yml
+  - /people/marieeugenie-maggia.yml
+  - /people/nancy-linehan.yml
+  - /people/nathan-lewis.yml
+  - /people/randell-macdonald.yml
+  - /people/ranny-baghat.yml
+  - /people/rein-ipsen.yml
+  - /people/sachico-scott.yml
+  - /people/simon-denommebrown.yml
+  - /people/tadeu-siqueira.yml
+  - /people/teodora_tockovska.yml
+  - /people/thiago-goncalvessouza1.yml
+  - /people/trevor-bringloe.yml
+  - /people/xin-wei.yml
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Current team
+
+::: {#lab-member}
+:::
+
+## Alumni
+
+::: {#lab-alumni}
+:::

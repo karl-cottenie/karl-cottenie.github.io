@@ -1,0 +1,75 @@
+---
+title: "Karl Cottenie"
+#description-meta: ""
+image: files/images/karl_avatar.jpg
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: sun
+      text: Cottenielab.org
+      href: https://cottenielab.org
+      target: _blank
+    - icon: globe
+      text: UoG
+      href: https://www.uoguelph.ca/ib/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/karl-cottenie
+
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0001-9498-8483
+      target: _blank
+   
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=lL7RlhMAAAAJ
+      target: _blank
+    - icon: calendar
+      text: Schedule meeting
+      href: https://outlook.office.com/bookwithme/user/11e2529974a3461283baa4f4b2a7ad95@uoguelph.ca?anonymous&ep=plink
+    - icon: envelope
+      text: E-mail
+      href: mailto:cottenie@uoguelph.ca
+
+---
+
+:::{#hero-heading}
+
+I am an Associate Professor in Community Ecology at the Department of Integrative Biology at the University of Guelph. I started out as an freshwater ecologist focusing on the interaction between local environmental processes and regional dispersal processes on zooplankton community composition. Along the way, I developed a strong interest in the applications of statistical (multivariate) analyses and R which led me to focus on analysing existing data sets and meta-analyses. This in turn “forced” me to collaborate on a wide variety of systems, from bacteria to plants to animals to genomic elements to molecular identification techniques. The diversity of ideas, terms, approaches from these collaborations made me appreciate differences between fields of research (within ecology but also beyond ecology), and the important role that philosophy plays in identifying and sometimes even solving these differences.
+
+The University of Guelph resides on the treaty lands and territory of the Mississaugas of the Credit First Nation of the Anishinaabek Peoples, and was part of the land included in Between the Lakes Treaty No. 3 (1792). I am grateful to live and work here, and to share the collective responsibility to this place and its peoples’ histories, rights, and presence.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+**Interests**:
+
+- Community Ecology
+- Metacommunity dynamics
+- Molecular Identification
+- Data Analysis in R
+- Instruction
+- Graduate Education
+- Spatio-temporal Analysis
+- Computational Ecology
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+**Education**:
+
+- Facilitator Development Workshop, 2019, University of Guelph
+- Post-Graduate Student Supervision, 2018, Memorial University of Newfoundland
+- Instructional Skills Workshop, 2018, University of Guelph
+- PhD Ecology, 2002, Katholieke Universiteit Leuven
+- MSc Statistics, 1997, Katholieke Universiteit Leuven
+- Licentiaat Biologie, 1996, Katholieke Universiteit Leuven

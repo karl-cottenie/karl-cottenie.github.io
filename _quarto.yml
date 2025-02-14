@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cottenie Lab"
+  image: "/files/images/icon-192.png"
+  #description: "Deep Energy and Climate Policy Lab: Data Driven, Evidence based, Energy, Environmental, and Climate Policy; Deep analysis, Deep insights, for Deep decarbonization. Alias: DEEP Lab, DEEP Energy Lab, DEEP Climate Lab. Key words: Deep energy systems, Deep decarbonization, Deep modeling, Deep policy, Energy and climate policy, Energy Systems, Energy policy, Climate policy, Energy transition."
+ 
+  navbar:
+    background: "#05336B"
+    foreground: "#FFFFFF"
+    left:
+      - text: People
+        href: people.qmd
+      # - text: Research
+      #   href: research.qmd
+      - text: Projects
+        href: projects.qmd 
+      - text: Publications
+        href: publications.qmd
+     
+    right:
+      - icon: github
+        href: https://github.com/karl-cottenie
+        target: _blank
+      - text: CV
+        href: files/cottenie,karl_ugcv(Lifetime)_2025-02-11.pdf
+        target: _blank 
+  page-navigation: true
+  page-footer: 
+    left: "[Cottenie Lab](https://cottenielab.org) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/karl-cottenie
+        target: _blank
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
