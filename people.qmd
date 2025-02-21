@@ -59,7 +59,6 @@ listing:  #an example of listing external links
   - /people/danielle-petsch.yml
   - /people/deniz-ergun.yml
   - /people/emma-kominek.yml
-  - /people/eve-krauss.yml
   - /people/fiona-persaud.yml
   - /people/genevieve-pintel.yml
   - /people/gillian-martin.yml

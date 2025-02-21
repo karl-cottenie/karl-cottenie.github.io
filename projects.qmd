@@ -5,7 +5,7 @@ description-meta: "projects"
 title-block-banner: false
 ---
 
-## Transparancy documents
+## Transparency documents
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}

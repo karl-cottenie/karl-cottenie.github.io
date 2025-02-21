@@ -24,9 +24,9 @@ website:
       - icon: github
         href: https://github.com/karl-cottenie
         target: _blank
-  #     - text: CV
-  #       href: files/cottenie,karl_ugcv(Lifetime)_2025-02-11.pdf
-  #       target: _blank 
+      - text: CV
+        href: https://drive.google.com/file/d/1mHZzavtZlb1K6dhrBYQc8yL6AEToZNgH/view?usp=sharing
+        target: _blank
   # page-navigation: true
   page-footer: 
     left: "[Cottenie Lab](https://cottenielab.org) &copy; <script>document.write(new Date().getFullYear())</script>" 
